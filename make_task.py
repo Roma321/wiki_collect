@@ -1,15 +1,6 @@
 import re
-import stanza
-from gensim.models import KeyedVectors
 
-stanza.download('ru')
-nlp_ru = stanza.Pipeline('ru')
-model = KeyedVectors.load_word2vec_format('word_vectors.w2v')
-purpose_words = ['в качестве', 'с целью', 'для того чтобы', 'для того, чтобы', 'чтобы', 'применяются', 'применяется',
-                 'используется', 'используются', 'используют', 'нацеленный на', 'нацеленная на', 'нацеленные на', 'для']
-information_words = ['компьютер', 'информация', 'алгоритм', 'интернет', 'технология', 'linux', 'процессор', 'программа',
-                     'информатика', 'пароль']
-ignore_headers = ['история', 'литература', 'см. также', 'ссылки', 'примечания']
+from utils import rate_is_text_about_IT, purpose_words, nlp_ru, model, information_words, ignore_headers
 
 
 def has_substring(string):
@@ -52,10 +43,8 @@ def make_purpose_task(phrase):
 def make_insert_term_task(definition, title):
     definition_res = definition.replace(title, f'***{title}***')
     title_cleaned = [x.lemma for x in nlp_ru(re.sub('[́̀]', '', title).lower()).sentences[0].words]
-    definition_cleaned = [x.lemma for x in nlp_ru(re.sub('[́̀]', '', definition).lower()).sentences[0].words]
 
     term_quality = []
-    definition_quaity = []
 
     for word in title_cleaned:
         if word in model.key_to_index:
@@ -65,16 +54,9 @@ def make_insert_term_task(definition, title):
             if len(word) > 1:
                 term_quality.append(-10)
 
-    for word in definition_cleaned:
-        if word in model.key_to_index:
-            word_quality = [model.similarity(x, word) for x in information_words]
-            definition_quaity += word_quality
-        else:
-            continue
-
     return {
         'quality_term': sum(term_quality) / len(term_quality),
-        'quality_def': sum(definition_quaity) / len(definition_quaity),
+        'quality_def': rate_is_text_about_IT(definition),
         'definition': definition_res
     }
 
