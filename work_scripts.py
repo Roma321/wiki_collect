@@ -60,28 +60,37 @@ def has_russian_letters(string):
 
 def is_not_computer_game(link):
     text = first_p_by_link(link).lower()
-    print('text', text, 'видеоигр' not in text and not re.search(r'компьютерн.{1,20}игр', text))
     return 'видеоигр' not in text and not re.search(r'компьютерн.{1,20}игр', text)
+
+
+def set_work_group(idx, link_dict):
+    try:
+        if link_dict['about_IT'] is None or not is_not_computer_game(link_dict['link']):
+            link_dict['group'] = 0
+            return link_dict
+        group = 0  # побитово: 4 на ссылки, 2 на информатичность, 1 на русские буквы
+        if link_dict['references'] > 60:
+            group += 4
+        if link_dict['about_IT'] > 0.1:
+            group += 2
+        if has_russian_letters(link_dict['link']):
+            group += 1
+        link_dict['group'] = group
+        return link_dict
+
+    except:
+        link_dict['group'] = None
+        print('ERROR ON', link_dict)
+    return link_dict
 
 
 def step_3():
     with open('links-8-with-rates-extended.json', 'r') as file:
         j = json.load(file)
-    j_not_none = [x for x in j if x['about_IT'] is not None]
-    # j_none = [x for x in j if x['about_IT'] is None]
-    sorted_data = sorted(j_not_none, key=lambda x: x['about_IT'], reverse=True)
-    # sorted_data = [x for x in sorted_data[:20] if is_not_computer_game(x['link'])]
-    with open('it-first.json', 'w') as file:
-        json.dump(sorted_data, file, ensure_ascii=False, indent=4)
+
+    with_work_group = parallel_map(40, j, set_work_group, 40)
+    with open('links-8-with-work-group.json', 'w') as file:
+        json.dump(with_work_group, file, ensure_ascii=False, indent=4)
 
 
-#
-#
-# # step_3()
-#
-# l = 'https://ru.wikipedia.org/wiki/Need_for_Speed:_Undercover'
-# a = first_p_by_link(l).lower()
-# print(a)
-
-# step_2()
 step_3()
