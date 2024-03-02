@@ -34,14 +34,14 @@ def make_purpose_task(phrase):
     mark_end = max(x.end_char for x in s if x.id in collected)
     return {
         'phrase': phrase,
-        'task': phrase[0:mark_from] + '***' + phrase[mark_from:mark_end] + '***' + phrase[mark_end:],
+        'task': phrase[0:mark_from] + '<<<' + phrase[mark_from:mark_end] + '>>>' + phrase[mark_end:],
         'word': found_str
     }
     # print(s)
 
 
 def make_insert_term_task(definition, title):
-    definition_res = definition.replace(title, f'***{title}***')
+    definition_res = definition.replace(title, f'<<<{title}>>>')
     title_cleaned = [x.lemma for x in nlp_ru(re.sub('[́̀]', '', title).lower()).sentences[0].words]
 
     term_quality = []
@@ -92,9 +92,9 @@ def make_ul_li_task(soup):
         for idx, child_tag in enumerate(group['children']):
             if child_tag.name in ['ol', 'ul']:
                 if idx == 0:
-                    res.append(f"{group['h2']}***{child_tag.text}***")
+                    res.append(f"{group['h2']}<<<{child_tag.text}>>>")
                 else:
-                    res.append(f"{group['children'][idx - 1].text}***{child_tag.text}***")
+                    res.append(f"{group['children'][idx - 1].text}<<<{child_tag.text}>>>")
     # print(children_tmp)
     # children_names = [c.name for c in children_tmp]
     return res

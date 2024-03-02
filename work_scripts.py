@@ -83,4 +83,5 @@ def step_3():
 # a = first_p_by_link(l).lower()
 # print(a)
 
-step_2()
+# step_2()
+step_3()
