@@ -1,0 +1,282 @@
+[
+    {
+        "references": 221,
+        "link": "https://ru.wikipedia.org/wiki/Шифр",
+        "about_IT": 0.12108260795939714,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 222,
+        "link": "https://ru.wikipedia.org/wiki/ОС_Эльбрус",
+        "about_IT": 0.16003965968848205,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 221,
+        "link": "https://ru.wikipedia.org/wiki/Отладка_программы",
+        "about_IT": 0.13364532280829736,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 221,
+        "link": "https://ru.wikipedia.org/wiki/Физический_уровень",
+        "about_IT": 0.11303961750042314,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 221,
+        "link": "https://ru.wikipedia.org/wiki/Игровая_механика",
+        "about_IT": 0.10230344658753333,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 221,
+        "link": "https://ru.wikipedia.org/wiki/Масштабируемость",
+        "about_IT": 0.11789069615770131,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 221,
+        "link": "https://ru.wikipedia.org/wiki/Синхронизация_(информатика)",
+        "about_IT": 0.16127399909733373,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 220,
+        "link": "https://ru.wikipedia.org/wiki/Редактирование_изображений",
+        "about_IT": 0.1569987590457978,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 220,
+        "link": "https://ru.wikipedia.org/wiki/Веб-камера",
+        "about_IT": 0.13800751373911385,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 219,
+        "link": "https://ru.wikipedia.org/wiki/Текстовые_данные",
+        "about_IT": 0.20601886553423746,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 219,
+        "link": "https://ru.wikipedia.org/wiki/История_языков_программирования",
+        "about_IT": 0.17202240235816973,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 219,
+        "link": "https://ru.wikipedia.org/wiki/CRUX_(дистрибутив_Linux)",
+        "about_IT": 0.15812540968647226,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 218,
+        "link": "https://ru.wikipedia.org/wiki/Строковый_тип",
+        "about_IT": 0.12585010445004122,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 219,
+        "link": "https://ru.wikipedia.org/wiki/Поиск_Windows",
+        "about_IT": 0.19487550533894035,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 218,
+        "link": "https://ru.wikipedia.org/wiki/Ссылка_(программирование)",
+        "about_IT": 0.10566787755143685,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 217,
+        "link": "https://ru.wikipedia.org/wiki/Система_управления_взаимоотношениями_с_клиентами",
+        "about_IT": 0.11820261098396526,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 217,
+        "link": "https://ru.wikipedia.org/wiki/Реляционная_база_данных",
+        "about_IT": 0.23468962080587516,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 217,
+        "link": "https://ru.wikipedia.org/wiki/Приложения_по_отслеживанию_COVID-19",
+        "about_IT": 0.12406054931809195,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 216,
+        "link": "https://ru.wikipedia.org/wiki/Настольный_компьютер",
+        "about_IT": 0.15540322791785002,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 216,
+        "link": "https://ru.wikipedia.org/wiki/Цифровое_кино",
+        "about_IT": 0.14139058816363104,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 216,
+        "link": "https://ru.wikipedia.org/wiki/Ассоциация_файлов",
+        "about_IT": 0.17460025075415614,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 216,
+        "link": "https://ru.wikipedia.org/wiki/Бит_в_секунду",
+        "about_IT": 0.1332447596891628,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 216,
+        "link": "https://ru.wikipedia.org/wiki/Боковая_панель_Windows",
+        "about_IT": 0.10965992334735347,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 216,
+        "link": "https://ru.wikipedia.org/wiki/Вики-разметка",
+        "about_IT": 0.14366081753425533,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 215,
+        "link": "https://ru.wikipedia.org/wiki/Экспертная_система",
+        "about_IT": 0.1254739834958772,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 216,
+        "link": "https://ru.wikipedia.org/wiki/Энигма",
+        "about_IT": 0.1011929616065962,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 215,
+        "link": "https://ru.wikipedia.org/wiki/Цифровая_обработка_сигналов",
+        "about_IT": 0.19033047024948666,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 214,
+        "link": "https://ru.wikipedia.org/wiki/Линейная_регрессия",
+        "about_IT": 0.14142389914070788,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 215,
+        "link": "https://ru.wikipedia.org/wiki/Виртуальный_оператор_сотовой_связи",
+        "about_IT": 0.1408604950089163,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 214,
+        "link": "https://ru.wikipedia.org/wiki/Википедия_на_упрощённом_английском_языке",
+        "about_IT": 0.11257943102225129,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 214,
+        "link": "https://ru.wikipedia.org/wiki/Аналоговое_телевидение",
+        "about_IT": 0.16066751652926375,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 214,
+        "link": "https://ru.wikipedia.org/wiki/Сеть_Фейстеля",
+        "about_IT": 0.17150969006237574,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 214,
+        "link": "https://ru.wikipedia.org/wiki/Микрокомпьютер",
+        "about_IT": 0.15451670410776777,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 213,
+        "link": "https://ru.wikipedia.org/wiki/Оконный_интерфейс",
+        "about_IT": 0.10209310434066639,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 213,
+        "link": "https://ru.wikipedia.org/wiki/Архитектура_набора_команд",
+        "about_IT": 0.1374110987863969,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 212,
+        "link": "https://ru.wikipedia.org/wiki/Кубит",
+        "about_IT": 0.17057464698196523,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 212,
+        "link": "https://ru.wikipedia.org/wiki/Обобщённое_программирование",
+        "about_IT": 0.16686066007241607,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 212,
+        "link": "https://ru.wikipedia.org/wiki/Рингтон",
+        "about_IT": 0.11435089453123509,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 212,
+        "link": "https://ru.wikipedia.org/wiki/Контроль_учётных_записей_пользователей",
+        "about_IT": 0.2201825127198572,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 213,
+        "link": "https://ru.wikipedia.org/wiki/Метод_главных_компонент",
+        "about_IT": 0.12794854159466923,
+        "group": 7,
+        "take": ""
+    }
+]

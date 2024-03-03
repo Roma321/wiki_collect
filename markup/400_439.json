@@ -1,0 +1,282 @@
+[
+    {
+        "references": 294,
+        "link": "https://ru.wikipedia.org/wiki/Варгейм",
+        "about_IT": 0.1295552050966459,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 294,
+        "link": "https://ru.wikipedia.org/wiki/Восьмеричная_система_счисления",
+        "about_IT": 0.12051246067974716,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 292,
+        "link": "https://ru.wikipedia.org/wiki/Машинный_код",
+        "about_IT": 0.13415239953185218,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 292,
+        "link": "https://ru.wikipedia.org/wiki/Эйлерова_характеристика",
+        "about_IT": 0.12172791046323254,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 292,
+        "link": "https://ru.wikipedia.org/wiki/Интернет_на_Украине",
+        "about_IT": 0.10671320658338328,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 292,
+        "link": "https://ru.wikipedia.org/wiki/Информатик",
+        "about_IT": 0.1393631110271801,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 292,
+        "link": "https://ru.wikipedia.org/wiki/NP-полная_задача",
+        "about_IT": 0.10198070383831409,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 292,
+        "link": "https://ru.wikipedia.org/wiki/КМОП",
+        "about_IT": 0.20064466389271224,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 291,
+        "link": "https://ru.wikipedia.org/wiki/Дата-центр",
+        "about_IT": 0.12007816404075129,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 291,
+        "link": "https://ru.wikipedia.org/wiki/Google_Документы",
+        "about_IT": 0.10468678242018954,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 291,
+        "link": "https://ru.wikipedia.org/wiki/Телефонная_сеть_общего_пользования",
+        "about_IT": 0.12933929566377628,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 290,
+        "link": "https://ru.wikipedia.org/wiki/Гипертекст",
+        "about_IT": 0.10778614208102226,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 288,
+        "link": "https://ru.wikipedia.org/wiki/Raw_(формат_изображения)",
+        "about_IT": 0.1565074078975158,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 287,
+        "link": "https://ru.wikipedia.org/wiki/Компьютерное_моделирование",
+        "about_IT": 0.1979660858497179,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 287,
+        "link": "https://ru.wikipedia.org/wiki/Яндекс.Словари",
+        "about_IT": 0.10398379117228054,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 286,
+        "link": "https://ru.wikipedia.org/wiki/Ввод-вывод",
+        "about_IT": 0.11381157327642931,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 286,
+        "link": "https://ru.wikipedia.org/wiki/Блок_Юникода",
+        "about_IT": 0.11657821413129568,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 285,
+        "link": "https://ru.wikipedia.org/wiki/Google_Переводчик",
+        "about_IT": 0.10954222007130739,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 284,
+        "link": "https://ru.wikipedia.org/wiki/Хостинг",
+        "about_IT": 0.15380856567760928,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 284,
+        "link": "https://ru.wikipedia.org/wiki/Сочетание_клавиш",
+        "about_IT": 0.13102076841169036,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 283,
+        "link": "https://ru.wikipedia.org/wiki/Кластер_(группа_компьютеров)",
+        "about_IT": 0.16471027202891753,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 282,
+        "link": "https://ru.wikipedia.org/wiki/Мобильная_радиосвязь",
+        "about_IT": 0.14157086706990787,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 281,
+        "link": "https://ru.wikipedia.org/wiki/Тип_данных",
+        "about_IT": 0.12777623305097222,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 281,
+        "link": "https://ru.wikipedia.org/wiki/Модуляция",
+        "about_IT": 0.1040823639719747,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 280,
+        "link": "https://ru.wikipedia.org/wiki/Цифровой_аудиоформат",
+        "about_IT": 0.17319186282370033,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 278,
+        "link": "https://ru.wikipedia.org/wiki/Мультитач",
+        "about_IT": 0.14925887216813863,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 277,
+        "link": "https://ru.wikipedia.org/wiki/Копилефт",
+        "about_IT": 0.14116423167288303,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 276,
+        "link": "https://ru.wikipedia.org/wiki/Микроархитектура",
+        "about_IT": 0.1545626670305085,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 276,
+        "link": "https://ru.wikipedia.org/wiki/Среда_предустановки_Windows",
+        "about_IT": 0.21135597249063162,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 276,
+        "link": "https://ru.wikipedia.org/wiki/Теория_алгоритмов",
+        "about_IT": 0.1290524285837399,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 276,
+        "link": "https://ru.wikipedia.org/wiki/Электронная_коммерция",
+        "about_IT": 0.13958521386011852,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 275,
+        "link": "https://ru.wikipedia.org/wiki/Шина_(компьютер)",
+        "about_IT": 0.19984370979247615,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 273,
+        "link": "https://ru.wikipedia.org/wiki/Список_компонентов_Windows",
+        "about_IT": 0.24249736372381447,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 272,
+        "link": "https://ru.wikipedia.org/wiki/Блок_эффектов",
+        "about_IT": 0.13955362305277957,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 273,
+        "link": "https://ru.wikipedia.org/wiki/Дейкстра,_Эдсгер_Вибе",
+        "about_IT": 0.12389761273352633,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 273,
+        "link": "https://ru.wikipedia.org/wiki/Операционная_система_реального_времени",
+        "about_IT": 0.14765600612542282,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 273,
+        "link": "https://ru.wikipedia.org/wiki/Электронная_книга",
+        "about_IT": 0.16526174543250818,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 272,
+        "link": "https://ru.wikipedia.org/wiki/Хеш-сумма",
+        "about_IT": 0.1860936804364125,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 272,
+        "link": "https://ru.wikipedia.org/wiki/Julia_(язык_программирования)",
+        "about_IT": 0.18189110785523163,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 273,
+        "link": "https://ru.wikipedia.org/wiki/Установщик_Windows",
+        "about_IT": 0.18253217973529404,
+        "group": 7,
+        "take": ""
+    }
+]

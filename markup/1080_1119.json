@@ -1,0 +1,282 @@
+[
+    {
+        "references": 142,
+        "link": "https://ru.wikipedia.org/wiki/Качество_программного_обеспечения",
+        "about_IT": 0.14191793446429074,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 142,
+        "link": "https://ru.wikipedia.org/wiki/Электроника_МС_1502",
+        "about_IT": 0.1322036356371917,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 142,
+        "link": "https://ru.wikipedia.org/wiki/Бэггинг",
+        "about_IT": 0.13244865309330633,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 142,
+        "link": "https://ru.wikipedia.org/wiki/Реляционная_модель_данных",
+        "about_IT": 0.15944088447907812,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 142,
+        "link": "https://ru.wikipedia.org/wiki/Партнёр_01.01",
+        "about_IT": 0.10246444897726179,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 142,
+        "link": "https://ru.wikipedia.org/wiki/Обучение_признакам",
+        "about_IT": 0.12770294873926105,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 141,
+        "link": "https://ru.wikipedia.org/wiki/Днепр_(электронно-вычислительная_машина)",
+        "about_IT": 0.1188263190644128,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 141,
+        "link": "https://ru.wikipedia.org/wiki/Эксплойт",
+        "about_IT": 0.19043021749170935,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 141,
+        "link": "https://ru.wikipedia.org/wiki/Архивы_Белоруссии",
+        "about_IT": 0.14421564042568208,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 141,
+        "link": "https://ru.wikipedia.org/wiki/Обучение_ассоциативным_правилам",
+        "about_IT": 0.1289434050951112,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 141,
+        "link": "https://ru.wikipedia.org/wiki/Видеотелефония",
+        "about_IT": 0.1202546652933961,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 141,
+        "link": "https://ru.wikipedia.org/wiki/Банки.ру",
+        "about_IT": 0.1370184022001922,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 141,
+        "link": "https://ru.wikipedia.org/wiki/Интернет-реклама",
+        "about_IT": 0.200018154643476,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 141,
+        "link": "https://ru.wikipedia.org/wiki/MacGuffin_(шифр)",
+        "about_IT": 0.1281166972725519,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 141,
+        "link": "https://ru.wikipedia.org/wiki/Rainbow_(алгоритм)",
+        "about_IT": 0.1646707890293328,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 141,
+        "link": "https://ru.wikipedia.org/wiki/Символическая_ссылка",
+        "about_IT": 0.1339060111107496,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 141,
+        "link": "https://ru.wikipedia.org/wiki/Автоматическое_машинное_обучение",
+        "about_IT": 0.1303730942250695,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 141,
+        "link": "https://ru.wikipedia.org/wiki/Фотоскульптура",
+        "about_IT": 0.1068014963704627,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 140,
+        "link": "https://ru.wikipedia.org/wiki/Каскадная_модель",
+        "about_IT": 0.13786472702021932,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 140,
+        "link": "https://ru.wikipedia.org/wiki/Алгоритм_кластеризации_OPTICS",
+        "about_IT": 0.12679611411241984,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 140,
+        "link": "https://ru.wikipedia.org/wiki/Шахматный_движок",
+        "about_IT": 0.11934432076024158,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 140,
+        "link": "https://ru.wikipedia.org/wiki/Якобсон,_Ивар",
+        "about_IT": 0.10053211940738203,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 140,
+        "link": "https://ru.wikipedia.org/wiki/Радиально-базисная_функция",
+        "about_IT": 0.1410944672030061,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 140,
+        "link": "https://ru.wikipedia.org/wiki/Методы_расширения_спектра",
+        "about_IT": 0.12433022428303957,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 140,
+        "link": "https://ru.wikipedia.org/wiki/Последовательный_КАМАК",
+        "about_IT": 0.13873969027772545,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 140,
+        "link": "https://ru.wikipedia.org/wiki/Онлайновое_машинное_обучение",
+        "about_IT": 0.12075821065550876,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 140,
+        "link": "https://ru.wikipedia.org/wiki/Оккамово_обучение",
+        "about_IT": 0.12874193516727245,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 140,
+        "link": "https://ru.wikipedia.org/wiki/Цифровая_звукозапись",
+        "about_IT": 0.16705270070427408,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 140,
+        "link": "https://ru.wikipedia.org/wiki/Фибоначчиева_система_счисления",
+        "about_IT": 0.10658425480069127,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 140,
+        "link": "https://ru.wikipedia.org/wiki/Компаратор",
+        "about_IT": 0.1497180568566546,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 140,
+        "link": "https://ru.wikipedia.org/wiki/Ансамблевое_обучение",
+        "about_IT": 0.10405324288876727,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 139,
+        "link": "https://ru.wikipedia.org/wiki/Предметно-ориентированный_язык",
+        "about_IT": 0.12889500453157404,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 139,
+        "link": "https://ru.wikipedia.org/wiki/Информационный_поиск",
+        "about_IT": 0.1451363853263584,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 139,
+        "link": "https://ru.wikipedia.org/wiki/Система_радиолокационного_опознавания",
+        "about_IT": 0.12261064399141246,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 139,
+        "link": "https://ru.wikipedia.org/wiki/Киберкультура",
+        "about_IT": 0.12349768613251702,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 139,
+        "link": "https://ru.wikipedia.org/wiki/Офисная_АТС",
+        "about_IT": 0.10066112159432426,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 138,
+        "link": "https://ru.wikipedia.org/wiki/Общие_критерии",
+        "about_IT": 0.11684974403469824,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 138,
+        "link": "https://ru.wikipedia.org/wiki/Алгоритм_CURE",
+        "about_IT": 0.12602089359716045,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 138,
+        "link": "https://ru.wikipedia.org/wiki/Теория_Калуцы_—_Клейна",
+        "about_IT": 0.11108913285942335,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 138,
+        "link": "https://ru.wikipedia.org/wiki/БЦВМ_серии_Ц",
+        "about_IT": 0.11493630030890926,
+        "group": 7,
+        "take": ""
+    }
+]

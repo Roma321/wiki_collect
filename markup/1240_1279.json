@@ -1,0 +1,282 @@
+[
+    {
+        "references": 126,
+        "link": "https://ru.wikipedia.org/wiki/Релевантность",
+        "about_IT": 0.11986683149090303,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 126,
+        "link": "https://ru.wikipedia.org/wiki/Обучающая_игра",
+        "about_IT": 0.12258271151887519,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 126,
+        "link": "https://ru.wikipedia.org/wiki/Сглаживающий_сплайн",
+        "about_IT": 0.16291059441864492,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 126,
+        "link": "https://ru.wikipedia.org/wiki/База_данных_шахматных_окончаний",
+        "about_IT": 0.1169430699092724,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 125,
+        "link": "https://ru.wikipedia.org/wiki/МЦСТ",
+        "about_IT": 0.1459860573988408,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 125,
+        "link": "https://ru.wikipedia.org/wiki/Индекс_развития_ИКТ",
+        "about_IT": 0.11087125777480347,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 125,
+        "link": "https://ru.wikipedia.org/wiki/Международный_стандартный_музыкальный_номер",
+        "about_IT": 0.12608086918480693,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 125,
+        "link": "https://ru.wikipedia.org/wiki/Виртуальный_питомец",
+        "about_IT": 0.16817538116010838,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 125,
+        "link": "https://ru.wikipedia.org/wiki/Спутниковый_Интернет",
+        "about_IT": 0.20668809857584577,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 125,
+        "link": "https://ru.wikipedia.org/wiki/Журналируемая_файловая_система",
+        "about_IT": 0.131306594623796,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 125,
+        "link": "https://ru.wikipedia.org/wiki/Lustre_(сетевая_файловая_система)",
+        "about_IT": 0.15089130849519278,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 125,
+        "link": "https://ru.wikipedia.org/wiki/Дискретное_косинусное_преобразование",
+        "about_IT": 0.13812283921870402,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 124,
+        "link": "https://ru.wikipedia.org/wiki/Квантовая_электроника",
+        "about_IT": 0.12309206314865784,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 124,
+        "link": "https://ru.wikipedia.org/wiki/IP-телефон",
+        "about_IT": 0.12993110077963635,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 124,
+        "link": "https://ru.wikipedia.org/wiki/JIT-компиляция",
+        "about_IT": 0.17974733589372288,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 124,
+        "link": "https://ru.wikipedia.org/wiki/Алиасинг",
+        "about_IT": 0.11174718286298836,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 124,
+        "link": "https://ru.wikipedia.org/wiki/Состояние_гонки",
+        "about_IT": 0.125800741630034,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 124,
+        "link": "https://ru.wikipedia.org/wiki/Логическое_программирование",
+        "about_IT": 0.1470875199740896,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 123,
+        "link": "https://ru.wikipedia.org/wiki/MAC-адрес",
+        "about_IT": 0.1522328696632758,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 123,
+        "link": "https://ru.wikipedia.org/wiki/Заголовочный_файл",
+        "about_IT": 0.1275215786059002,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 123,
+        "link": "https://ru.wikipedia.org/wiki/Bombus_(программа)",
+        "about_IT": 0.13595788713544607,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 123,
+        "link": "https://ru.wikipedia.org/wiki/SIMPLE_(протокол)",
+        "about_IT": 0.11255128185126792,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 123,
+        "link": "https://ru.wikipedia.org/wiki/Выпуклая_функция",
+        "about_IT": 0.13254470460116863,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 123,
+        "link": "https://ru.wikipedia.org/wiki/Мейер,_Бертран",
+        "about_IT": 0.1085456084809266,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 123,
+        "link": "https://ru.wikipedia.org/wiki/Корпус_текстов",
+        "about_IT": 0.10234779012437988,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 123,
+        "link": "https://ru.wikipedia.org/wiki/Телевизионная_реклама",
+        "about_IT": 0.11248048263078089,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 123,
+        "link": "https://ru.wikipedia.org/wiki/Квантовая_криптография",
+        "about_IT": 0.15042105109423573,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 123,
+        "link": "https://ru.wikipedia.org/wiki/Обработка_изображений",
+        "about_IT": 0.15355797793123532,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 123,
+        "link": "https://ru.wikipedia.org/wiki/VoIP-шлюз",
+        "about_IT": 0.170982602929962,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 123,
+        "link": "https://ru.wikipedia.org/wiki/Список_отменённых_игр_серии_Sonic_the_Hedgehog",
+        "about_IT": 0.11209981028456241,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 123,
+        "link": "https://ru.wikipedia.org/wiki/Киберпространство",
+        "about_IT": 0.13161340795238227,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 122,
+        "link": "https://ru.wikipedia.org/wiki/Midori_(браузер)",
+        "about_IT": 0.18569849075034395,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 122,
+        "link": "https://ru.wikipedia.org/wiki/Массово-параллельная_архитектура",
+        "about_IT": 0.11545427492431676,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 122,
+        "link": "https://ru.wikipedia.org/wiki/Открытое_аппаратное_обеспечение",
+        "about_IT": 0.1720067073358223,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 122,
+        "link": "https://ru.wikipedia.org/wiki/Интернет_в_Армении",
+        "about_IT": 0.13274855591977636,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 122,
+        "link": "https://ru.wikipedia.org/wiki/Порядок_байтов",
+        "about_IT": 0.1655058899873984,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 122,
+        "link": "https://ru.wikipedia.org/wiki/Интернет-телевидение",
+        "about_IT": 0.17511324799602984,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 122,
+        "link": "https://ru.wikipedia.org/wiki/Глобалстар",
+        "about_IT": 0.1234674401115626,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 122,
+        "link": "https://ru.wikipedia.org/wiki/8K_(разрешение)",
+        "about_IT": 0.11003756616976008,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 122,
+        "link": "https://ru.wikipedia.org/wiki/Группа_пользователей_Linux",
+        "about_IT": 0.14597652901039426,
+        "group": 7,
+        "take": ""
+    }
+]

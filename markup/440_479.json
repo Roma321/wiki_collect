@@ -1,0 +1,282 @@
+[
+    {
+        "references": 272,
+        "link": "https://ru.wikipedia.org/wiki/Кинескоп",
+        "about_IT": 0.10762403370463289,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 272,
+        "link": "https://ru.wikipedia.org/wiki/КонсультантПлюс",
+        "about_IT": 0.10177923911251127,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 269,
+        "link": "https://ru.wikipedia.org/wiki/Меню_«Пуск»",
+        "about_IT": 0.15712828780175186,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 268,
+        "link": "https://ru.wikipedia.org/wiki/Медиапроигрыватель",
+        "about_IT": 0.22521769862422453,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 266,
+        "link": "https://ru.wikipedia.org/wiki/Я.Онлайн",
+        "about_IT": 0.17298559339251368,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 266,
+        "link": "https://ru.wikipedia.org/wiki/Симметричные_криптосистемы",
+        "about_IT": 0.14205636721906356,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 264,
+        "link": "https://ru.wikipedia.org/wiki/Ассемблер",
+        "about_IT": 0.20286414928601257,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 264,
+        "link": "https://ru.wikipedia.org/wiki/Виртуальная_машина",
+        "about_IT": 0.1721168496335546,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 264,
+        "link": "https://ru.wikipedia.org/wiki/8_бит_(компьютерная_архитектура)",
+        "about_IT": 0.11482692798354516,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 264,
+        "link": "https://ru.wikipedia.org/wiki/Геоинформационная_система",
+        "about_IT": 0.18520376857441778,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 264,
+        "link": "https://ru.wikipedia.org/wiki/Цифро-аналоговый_преобразователь",
+        "about_IT": 0.17959338609944098,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 264,
+        "link": "https://ru.wikipedia.org/wiki/Поток_выполнения",
+        "about_IT": 0.1289291246367308,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 265,
+        "link": "https://ru.wikipedia.org/wiki/Видеомагнитофон",
+        "about_IT": 0.13819196527911118,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 262,
+        "link": "https://ru.wikipedia.org/wiki/Широкополосный_доступ_в_Интернет",
+        "about_IT": 0.1657018933870131,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 261,
+        "link": "https://ru.wikipedia.org/wiki/Передача_данных",
+        "about_IT": 0.12428723860225133,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 261,
+        "link": "https://ru.wikipedia.org/wiki/Калькулятор_(Windows)",
+        "about_IT": 0.13500991269141774,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 260,
+        "link": "https://ru.wikipedia.org/wiki/Ряд_Фурье",
+        "about_IT": 0.10808216636069119,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 259,
+        "link": "https://ru.wikipedia.org/wiki/Подсистема_для_приложений_на_базе_UNIX",
+        "about_IT": 0.18626815086488774,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 260,
+        "link": "https://ru.wikipedia.org/wiki/Кэш_процессора",
+        "about_IT": 0.16483493199468488,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 258,
+        "link": "https://ru.wikipedia.org/wiki/Яндекс_(поисковая_система)",
+        "about_IT": 0.10645333377178759,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 256,
+        "link": "https://ru.wikipedia.org/wiki/APL_(язык_программирования)",
+        "about_IT": 0.1515597695548786,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 254,
+        "link": "https://ru.wikipedia.org/wiki/Битрейт",
+        "about_IT": 0.11272990346845725,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 254,
+        "link": "https://ru.wikipedia.org/wiki/Платёжная_система",
+        "about_IT": 0.11085725396017855,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 256,
+        "link": "https://ru.wikipedia.org/wiki/Встроенный_язык_программирования_1С:Предприятие",
+        "about_IT": 0.1913870462856721,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 254,
+        "link": "https://ru.wikipedia.org/wiki/Гиперпоточность",
+        "about_IT": 0.16526311321067624,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 254,
+        "link": "https://ru.wikipedia.org/wiki/Google_Диск",
+        "about_IT": 0.18952584462240338,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 253,
+        "link": "https://ru.wikipedia.org/wiki/Криптоанализ",
+        "about_IT": 0.1385981151368469,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 252,
+        "link": "https://ru.wikipedia.org/wiki/Арифметико-логическое_устройство",
+        "about_IT": 0.13909586872177898,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 252,
+        "link": "https://ru.wikipedia.org/wiki/Сжатие_без_потерь",
+        "about_IT": 0.13549844231844568,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 252,
+        "link": "https://ru.wikipedia.org/wiki/Системный_администратор",
+        "about_IT": 0.1340296605632951,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 251,
+        "link": "https://ru.wikipedia.org/wiki/Модель_данных",
+        "about_IT": 0.15430836431700493,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 251,
+        "link": "https://ru.wikipedia.org/wiki/Трекерная_музыка",
+        "about_IT": 0.12041308516504615,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 251,
+        "link": "https://ru.wikipedia.org/wiki/Парадигма_программирования",
+        "about_IT": 0.1440392594920316,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 251,
+        "link": "https://ru.wikipedia.org/wiki/Киностудия_Windows",
+        "about_IT": 0.15967080950821666,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 250,
+        "link": "https://ru.wikipedia.org/wiki/Задача_классификации",
+        "about_IT": 0.10010676908164493,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 249,
+        "link": "https://ru.wikipedia.org/wiki/Гиперссылка",
+        "about_IT": 0.1460285825509345,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 248,
+        "link": "https://ru.wikipedia.org/wiki/Раскладка_клавиатуры",
+        "about_IT": 0.11773253987543285,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 248,
+        "link": "https://ru.wikipedia.org/wiki/Лидар",
+        "about_IT": 0.11030278586440545,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 247,
+        "link": "https://ru.wikipedia.org/wiki/Мобильная_операционная_система",
+        "about_IT": 0.24034212983679026,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 247,
+        "link": "https://ru.wikipedia.org/wiki/Сжатие_аудиоданных",
+        "about_IT": 0.12545599475633934,
+        "group": 7,
+        "take": ""
+    }
+]

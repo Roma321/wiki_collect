@@ -1,0 +1,282 @@
+[
+    {
+        "references": 115,
+        "link": "https://ru.wikipedia.org/wiki/Либрусек",
+        "about_IT": 0.11634355471323943,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 115,
+        "link": "https://ru.wikipedia.org/wiki/Первичный_ключ",
+        "about_IT": 0.12618422488396225,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 115,
+        "link": "https://ru.wikipedia.org/wiki/Spark_(jabber-клиент)",
+        "about_IT": 0.1503035457227034,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 115,
+        "link": "https://ru.wikipedia.org/wiki/Фузз_(эффект)",
+        "about_IT": 0.11497325682081282,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 115,
+        "link": "https://ru.wikipedia.org/wiki/Отображение_файла_в_память",
+        "about_IT": 0.14339170296352677,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 115,
+        "link": "https://ru.wikipedia.org/wiki/Иерархическая_модель_данных",
+        "about_IT": 0.15266093791942695,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Руткит",
+        "about_IT": 0.17412299395073205,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Компас_(САПР)",
+        "about_IT": 0.12864777297212707,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Телетекст",
+        "about_IT": 0.1536646163483965,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Atom_(система_на_кристалле)",
+        "about_IT": 0.17711221216103204,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Электронный_журнал",
+        "about_IT": 0.16570563761716975,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Архив_(информатика)",
+        "about_IT": 0.13903532731346785,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Матричный_индикатор",
+        "about_IT": 0.10481975232360127,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Телефонная_сигнализация",
+        "about_IT": 0.11763432352796978,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Видеосигнал",
+        "about_IT": 0.12699281964218245,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Linux-конференции",
+        "about_IT": 0.11534242651192471,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Гордон_Фримен",
+        "about_IT": 0.10744415605440735,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Маркетинг_в_социальных_сетях",
+        "about_IT": 0.15027823001146318,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Яндекс_Автопоэт",
+        "about_IT": 0.12120806553866714,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Ark_(архиватор)",
+        "about_IT": 0.1029409797474121,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Европеана",
+        "about_IT": 0.10050928623459185,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Яндекс.Острова",
+        "about_IT": 0.10545708378776908,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Детерминированный_алгоритм",
+        "about_IT": 0.14254604689000797,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Стюардесса_(радиолокационная_станция)",
+        "about_IT": 0.1182622409691768,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Цифровое_видео",
+        "about_IT": 0.17207627393072472,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Открытый_текст",
+        "about_IT": 0.1199449211009778,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Упячка",
+        "about_IT": 0.12677066472824663,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 114,
+        "link": "https://ru.wikipedia.org/wiki/Логический_синтез",
+        "about_IT": 0.10664504125941841,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 113,
+        "link": "https://ru.wikipedia.org/wiki/Программируемая_пользователем_вентильная_матрица",
+        "about_IT": 0.15639546837628587,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 113,
+        "link": "https://ru.wikipedia.org/wiki/Программа-игрушка",
+        "about_IT": 0.13985550211403858,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 113,
+        "link": "https://ru.wikipedia.org/wiki/PS/2_(порт)",
+        "about_IT": 0.16347192364877888,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 113,
+        "link": "https://ru.wikipedia.org/wiki/12А6_(ТРЛК)",
+        "about_IT": 0.1085604495696316,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 113,
+        "link": "https://ru.wikipedia.org/wiki/Представление_(базы_данных)",
+        "about_IT": 0.1152609581273282,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 113,
+        "link": "https://ru.wikipedia.org/wiki/Милнер,_Робин",
+        "about_IT": 0.12420050258030339,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 113,
+        "link": "https://ru.wikipedia.org/wiki/Распознавание_лиц",
+        "about_IT": 0.10423847282050142,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 113,
+        "link": "https://ru.wikipedia.org/wiki/Сравнение_характеристик_штрихкодов",
+        "about_IT": 0.10586892585270107,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 113,
+        "link": "https://ru.wikipedia.org/wiki/Сопроцессор",
+        "about_IT": 0.19058715806723656,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 112,
+        "link": "https://ru.wikipedia.org/wiki/Переполнение_буфера",
+        "about_IT": 0.1332940531584124,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 112,
+        "link": "https://ru.wikipedia.org/wiki/Round-robin_(алгоритм)",
+        "about_IT": 0.1360214540684995,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 112,
+        "link": "https://ru.wikipedia.org/wiki/Оптимизирующий_компилятор",
+        "about_IT": 0.17266869578743355,
+        "group": 7,
+        "take": ""
+    }
+]

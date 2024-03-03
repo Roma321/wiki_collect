@@ -1,0 +1,282 @@
+[
+    {
+        "references": 119,
+        "link": "https://ru.wikipedia.org/wiki/Политтехнолог",
+        "about_IT": 0.10699081851053052,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 119,
+        "link": "https://ru.wikipedia.org/wiki/Определение_Open_Source",
+        "about_IT": 0.1197013346368644,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 118,
+        "link": "https://ru.wikipedia.org/wiki/Яндекс.Закладки",
+        "about_IT": 0.15078290893191781,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 118,
+        "link": "https://ru.wikipedia.org/wiki/Повсеместные_вычисления",
+        "about_IT": 0.12807032663679113,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 118,
+        "link": "https://ru.wikipedia.org/wiki/Брейн-ринг",
+        "about_IT": 0.14245920390433942,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 118,
+        "link": "https://ru.wikipedia.org/wiki/Аватар_(картинка)",
+        "about_IT": 0.11804724526850299,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 118,
+        "link": "https://ru.wikipedia.org/wiki/Яндекс_Радио",
+        "about_IT": 0.1290190096758306,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 118,
+        "link": "https://ru.wikipedia.org/wiki/Система_кинематографа",
+        "about_IT": 0.10614643352657921,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 118,
+        "link": "https://ru.wikipedia.org/wiki/ГИС_Технологии",
+        "about_IT": 0.1609440803003963,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 118,
+        "link": "https://ru.wikipedia.org/wiki/LM-хеш",
+        "about_IT": 0.1476112993945163,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 118,
+        "link": "https://ru.wikipedia.org/wiki/Контакты",
+        "about_IT": 0.15828308269769575,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 117,
+        "link": "https://ru.wikipedia.org/wiki/Апертурная_решётка",
+        "about_IT": 0.13459098783205264,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 117,
+        "link": "https://ru.wikipedia.org/wiki/Методология_программирования",
+        "about_IT": 0.12332649357704213,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 117,
+        "link": "https://ru.wikipedia.org/wiki/Устройство_ввода-вывода",
+        "about_IT": 0.16798844206080374,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 117,
+        "link": "https://ru.wikipedia.org/wiki/Реляционная_алгебра",
+        "about_IT": 0.15284854111887397,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 117,
+        "link": "https://ru.wikipedia.org/wiki/Про100",
+        "about_IT": 0.10836357965890783,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 117,
+        "link": "https://ru.wikipedia.org/wiki/Core_(микроархитектура)",
+        "about_IT": 0.1300848741293885,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 117,
+        "link": "https://ru.wikipedia.org/wiki/Защита_памяти",
+        "about_IT": 0.10245088586299163,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 117,
+        "link": "https://ru.wikipedia.org/wiki/Общий_ресурс",
+        "about_IT": 0.16825063034272963,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 117,
+        "link": "https://ru.wikipedia.org/wiki/База_знаний",
+        "about_IT": 0.13380290363845415,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 117,
+        "link": "https://ru.wikipedia.org/wiki/Объектный_ответ",
+        "about_IT": 0.1263886184625638,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 117,
+        "link": "https://ru.wikipedia.org/wiki/Яндекс.Лончер",
+        "about_IT": 0.13619023772480432,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 117,
+        "link": "https://ru.wikipedia.org/wiki/Предметно-ориентированное_проектирование",
+        "about_IT": 0.16821635249588224,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 117,
+        "link": "https://ru.wikipedia.org/wiki/Сетевая_топология",
+        "about_IT": 0.15134909480737405,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 117,
+        "link": "https://ru.wikipedia.org/wiki/Графическое_оборудование_и_Свободное_программное_обеспечение",
+        "about_IT": 0.12349578877134869,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 116,
+        "link": "https://ru.wikipedia.org/wiki/Пакет_прикладных_программ",
+        "about_IT": 0.16963574908399356,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 116,
+        "link": "https://ru.wikipedia.org/wiki/Компонентно-ориентированное_программирование",
+        "about_IT": 0.12620748173513707,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 116,
+        "link": "https://ru.wikipedia.org/wiki/Эмуляторы_оптических_дисководов",
+        "about_IT": 0.2426134615991032,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 116,
+        "link": "https://ru.wikipedia.org/wiki/Интервики",
+        "about_IT": 0.165274887427222,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 116,
+        "link": "https://ru.wikipedia.org/wiki/Композитный_менеджер_окон",
+        "about_IT": 0.10896527999031701,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 116,
+        "link": "https://ru.wikipedia.org/wiki/Aqua_(интерфейс)",
+        "about_IT": 0.17630117839540949,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 116,
+        "link": "https://ru.wikipedia.org/wiki/Образ_оптического_диска",
+        "about_IT": 0.16844241297221743,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 116,
+        "link": "https://ru.wikipedia.org/wiki/Дельта-кодирование",
+        "about_IT": 0.13785210908907983,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 116,
+        "link": "https://ru.wikipedia.org/wiki/Метамодель_(информатика)",
+        "about_IT": 0.12988746310235,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 116,
+        "link": "https://ru.wikipedia.org/wiki/Клавиатура_Apple",
+        "about_IT": 0.16056500207421115,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 116,
+        "link": "https://ru.wikipedia.org/wiki/Геймдизайн",
+        "about_IT": 0.1026304235803285,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 116,
+        "link": "https://ru.wikipedia.org/wiki/Автоматизированный_перевод",
+        "about_IT": 0.21501715988561046,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 115,
+        "link": "https://ru.wikipedia.org/wiki/Gossip_(программа)",
+        "about_IT": 0.14521641357402718,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 115,
+        "link": "https://ru.wikipedia.org/wiki/Википедия_на_идише",
+        "about_IT": 0.1004303101527815,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 115,
+        "link": "https://ru.wikipedia.org/wiki/Яндекс_Метро",
+        "about_IT": 0.1868323316797614,
+        "group": 7,
+        "take": ""
+    }
+]

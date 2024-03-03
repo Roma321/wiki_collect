@@ -1,0 +1,1402 @@
+[
+    {
+        "references": 922,
+        "link": "https://ru.wikipedia.org/wiki/Паскаль_(язык_программирования)",
+        "about_IT": 0.1006071304436773,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 5774,
+        "link": "https://ru.wikipedia.org/wiki/Интернет",
+        "about_IT": 0.21220866529969498,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1981,
+        "link": "https://ru.wikipedia.org/wiki/Компьютерная_программа",
+        "about_IT": 0.16523375754512662,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 585,
+        "link": "https://ru.wikipedia.org/wiki/Планшетный_компьютер",
+        "about_IT": 0.15999611041783204,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1924,
+        "link": "https://ru.wikipedia.org/wiki/Сотовый_телефон",
+        "about_IT": 0.1196089101373911,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 6144,
+        "link": "https://ru.wikipedia.org/wiki/Яндекс_Карты",
+        "about_IT": 0.13827400171430781,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 774,
+        "link": "https://ru.wikipedia.org/wiki/Агрегатор_рецензий",
+        "about_IT": 0.1080830922020444,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 940,
+        "link": "https://ru.wikipedia.org/wiki/Мегафон_(компания)",
+        "about_IT": 0.10379935057753756,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 6231,
+        "link": "https://ru.wikipedia.org/wiki/Центр_астрономических_данных_в_Страсбурге",
+        "about_IT": 0.13792740889824928,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 583,
+        "link": "https://ru.wikipedia.org/wiki/Запоминающее_устройство_с_произвольным_доступом",
+        "about_IT": 0.15102209338151357,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1404,
+        "link": "https://ru.wikipedia.org/wiki/Флеш-память",
+        "about_IT": 0.1463360741251381,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 796,
+        "link": "https://ru.wikipedia.org/wiki/Кэш",
+        "about_IT": 0.11072617492100108,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 952,
+        "link": "https://ru.wikipedia.org/wiki/Ростелеком",
+        "about_IT": 0.13070105888909894,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 587,
+        "link": "https://ru.wikipedia.org/wiki/Система_мгновенного_обмена_сообщениями",
+        "about_IT": 0.15779908398898052,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 951,
+        "link": "https://ru.wikipedia.org/wiki/Пиксель",
+        "about_IT": 0.1346686841812558,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 3587,
+        "link": "https://ru.wikipedia.org/wiki/Компьютерная_мышь",
+        "about_IT": 0.17993503573428218,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1382,
+        "link": "https://ru.wikipedia.org/wiki/Трёхмерная_графика",
+        "about_IT": 0.17240636166579162,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 3719,
+        "link": "https://ru.wikipedia.org/wiki/Свободное_программное_обеспечение",
+        "about_IT": 0.12814687727077398,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1412,
+        "link": "https://ru.wikipedia.org/wiki/Общероссийский_математический_портал",
+        "about_IT": 0.10768585730757978,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 1408,
+        "link": "https://ru.wikipedia.org/wiki/Видеокарта",
+        "about_IT": 0.15707682168237322,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 942,
+        "link": "https://ru.wikipedia.org/wiki/Аппаратное_обеспечение",
+        "about_IT": 0.17421649791861207,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 8242,
+        "link": "https://ru.wikipedia.org/wiki/Операционная_система",
+        "about_IT": 0.20768630893223666,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1024,
+        "link": "https://ru.wikipedia.org/wiki/Иконка_(графический_интерфейс)",
+        "about_IT": 0.1509776284045074,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 941,
+        "link": "https://ru.wikipedia.org/wiki/Компилятор",
+        "about_IT": 0.14393180841580033,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 947,
+        "link": "https://ru.wikipedia.org/wiki/Криптография",
+        "about_IT": 0.19407544570276514,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 8139,
+        "link": "https://ru.wikipedia.org/wiki/Компакт-диск",
+        "about_IT": 0.14340500187390717,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 7591,
+        "link": "https://ru.wikipedia.org/wiki/Цифровая_дистрибуция",
+        "about_IT": 0.17968795695753,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1037,
+        "link": "https://ru.wikipedia.org/wiki/Классическая_Mac_OS",
+        "about_IT": 0.19507896545851094,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 3835,
+        "link": "https://ru.wikipedia.org/wiki/Компьютерная_клавиатура",
+        "about_IT": 0.14612764187085514,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 813,
+        "link": "https://ru.wikipedia.org/wiki/ARM_(архитектура)",
+        "about_IT": 0.13643023608109126,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 8859,
+        "link": "https://ru.wikipedia.org/wiki/Википедия",
+        "about_IT": 0.12655296012251507,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 6232,
+        "link": "https://ru.wikipedia.org/wiki/Устройство_ввода",
+        "about_IT": 0.1961444844045521,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 2029,
+        "link": "https://ru.wikipedia.org/wiki/Блог",
+        "about_IT": 0.12315655432515389,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 531,
+        "link": "https://ru.wikipedia.org/wiki/Tidal_(сервис)",
+        "about_IT": 0.12300529514646365,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 1120,
+        "link": "https://ru.wikipedia.org/wiki/Жидкокристаллический_дисплей",
+        "about_IT": 0.10746915683460732,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 2490,
+        "link": "https://ru.wikipedia.org/wiki/Си_(язык_программирования)",
+        "about_IT": 0.11103222123485812,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 629,
+        "link": "https://ru.wikipedia.org/wiki/Delphi_(язык_программирования)",
+        "about_IT": 0.15358152848202736,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 700,
+        "link": "https://ru.wikipedia.org/wiki/Транзистор",
+        "about_IT": 0.1205769644516176,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 692,
+        "link": "https://ru.wikipedia.org/wiki/Сервер_(аппаратное_обеспечение)",
+        "about_IT": 0.2116564727621153,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 553,
+        "link": "https://ru.wikipedia.org/wiki/Свободное_и_открытое_программное_обеспечение",
+        "about_IT": 0.14569633863607628,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1601,
+        "link": "https://ru.wikipedia.org/wiki/Телефильм",
+        "about_IT": 0.11294023773298249,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 628,
+        "link": "https://ru.wikipedia.org/wiki/Радиоприёмник",
+        "about_IT": 0.10730919006164186,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 1137,
+        "link": "https://ru.wikipedia.org/wiki/Универсальная_десятичная_классификация",
+        "about_IT": 0.10061150287598139,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1601,
+        "link": "https://ru.wikipedia.org/wiki/Электронная_почта",
+        "about_IT": 0.20007822857471183,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 700,
+        "link": "https://ru.wikipedia.org/wiki/Бейсик",
+        "about_IT": 0.16905075594317168,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 627,
+        "link": "https://ru.wikipedia.org/wiki/Плагин",
+        "about_IT": 0.2116792326234281,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1617,
+        "link": "https://ru.wikipedia.org/wiki/Английская_Википедия",
+        "about_IT": 0.1076993141497951,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 1615,
+        "link": "https://ru.wikipedia.org/wiki/Кругосвет",
+        "about_IT": 0.10729022825078573,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 536,
+        "link": "https://ru.wikipedia.org/wiki/Карта_памяти",
+        "about_IT": 0.18413785045966505,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1712,
+        "link": "https://ru.wikipedia.org/wiki/Кроссплатформенность",
+        "about_IT": 0.1667288364480353,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 555,
+        "link": "https://ru.wikipedia.org/wiki/Музыкальное_программирование",
+        "about_IT": 0.2133629774511792,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 2574,
+        "link": "https://ru.wikipedia.org/wiki/Синтезатор",
+        "about_IT": 0.19839479831668239,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 2700,
+        "link": "https://ru.wikipedia.org/wiki/Проприетарное_программное_обеспечение",
+        "about_IT": 0.11792966759027107,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 528,
+        "link": "https://ru.wikipedia.org/wiki/Дистрибутив_Linux",
+        "about_IT": 0.15741296692673737,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 553,
+        "link": "https://ru.wikipedia.org/wiki/Каталог_почтовых_марок",
+        "about_IT": 0.10049520006152586,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 632,
+        "link": "https://ru.wikipedia.org/wiki/Интерфейс_командной_строки",
+        "about_IT": 0.1359166318617229,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 2652,
+        "link": "https://ru.wikipedia.org/wiki/Нейронная_сеть",
+        "about_IT": 0.1277960246268776,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1634,
+        "link": "https://ru.wikipedia.org/wiki/База_данных",
+        "about_IT": 0.15793872288195415,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 563,
+        "link": "https://ru.wikipedia.org/wiki/Мультимедиа",
+        "about_IT": 0.14433345003053547,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 884,
+        "link": "https://ru.wikipedia.org/wiki/Библиография",
+        "about_IT": 0.13340132791160916,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 163193,
+        "link": "https://ru.wikipedia.org/wiki/Контрольный_номер_Библиотеки_Конгресса",
+        "about_IT": 0.1271662982920964,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 657,
+        "link": "https://ru.wikipedia.org/wiki/Интегрированная_среда_разработки",
+        "about_IT": 0.161157882223571,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 809,
+        "link": "https://ru.wikipedia.org/wiki/Микропроцессор",
+        "about_IT": 0.1637704274461915,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 884,
+        "link": "https://ru.wikipedia.org/wiki/Бит",
+        "about_IT": 0.13237393070943654,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 592,
+        "link": "https://ru.wikipedia.org/wiki/Двоичная_система_счисления",
+        "about_IT": 0.17214942262305513,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 960,
+        "link": "https://ru.wikipedia.org/wiki/Суперкомпьютер",
+        "about_IT": 0.1414137434893443,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 658,
+        "link": "https://ru.wikipedia.org/wiki/Загружаемый_контент",
+        "about_IT": 0.16850831807823852,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 892,
+        "link": "https://ru.wikipedia.org/wiki/Ядро_операционной_системы",
+        "about_IT": 0.171398795196039,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 39203,
+        "link": "https://ru.wikipedia.org/wiki/Лейбл_звукозаписи",
+        "about_IT": 0.11242824126384221,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 518,
+        "link": "https://ru.wikipedia.org/wiki/Грамота.ру",
+        "about_IT": 0.10416412310830007,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 827,
+        "link": "https://ru.wikipedia.org/wiki/Карты_Google",
+        "about_IT": 0.14074258396202433,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 669,
+        "link": "https://ru.wikipedia.org/wiki/Интернет-издание",
+        "about_IT": 0.1493722836545203,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 736,
+        "link": "https://ru.wikipedia.org/wiki/Криптовалюта",
+        "about_IT": 0.12120042025616082,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1159,
+        "link": "https://ru.wikipedia.org/wiki/Unix-подобная_операционная_система",
+        "about_IT": 0.16610534455893294,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 2826,
+        "link": "https://ru.wikipedia.org/wiki/Оперативная_память",
+        "about_IT": 0.1241095029443386,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 2510,
+        "link": "https://ru.wikipedia.org/wiki/Машинный_перевод",
+        "about_IT": 0.14559463536451486,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1168,
+        "link": "https://ru.wikipedia.org/wiki/Православие.ru",
+        "about_IT": 0.10867878826102242,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 1706,
+        "link": "https://ru.wikipedia.org/wiki/Программист",
+        "about_IT": 0.1931573717816112,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1169,
+        "link": "https://ru.wikipedia.org/wiki/Бесплатное_программное_обеспечение",
+        "about_IT": 0.14486791291468157,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 4196,
+        "link": "https://ru.wikipedia.org/wiki/Язык_программирования",
+        "about_IT": 0.14431975947809406,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 2724,
+        "link": "https://ru.wikipedia.org/wiki/Живой_Журнал",
+        "about_IT": 0.10255859667138958,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 4130,
+        "link": "https://ru.wikipedia.org/wiki/Google_(компания)",
+        "about_IT": 0.13827586508033654,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 1051,
+        "link": "https://ru.wikipedia.org/wiki/Видео",
+        "about_IT": 0.1394762017133568,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1466,
+        "link": "https://ru.wikipedia.org/wiki/Интерфейс_пользователя",
+        "about_IT": 0.2345948028145358,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1182,
+        "link": "https://ru.wikipedia.org/wiki/Лазер",
+        "about_IT": 0.1272063730224545,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 4315,
+        "link": "https://ru.wikipedia.org/wiki/Грампластинка",
+        "about_IT": 0.11919313504153656,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 2900,
+        "link": "https://ru.wikipedia.org/wiki/Радиолокационная_станция",
+        "about_IT": 0.10405216838233172,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 550,
+        "link": "https://ru.wikipedia.org/wiki/Лицензия_BSD",
+        "about_IT": 0.12888326622282226,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 1053,
+        "link": "https://ru.wikipedia.org/wiki/Графический_интерфейс_пользователя",
+        "about_IT": 0.20172933264931833,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1064,
+        "link": "https://ru.wikipedia.org/wiki/Вычислительная_сеть",
+        "about_IT": 0.25131066045058625,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1259,
+        "link": "https://ru.wikipedia.org/wiki/МТС_(компания)",
+        "about_IT": 0.13542076109056236,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 2102,
+        "link": "https://ru.wikipedia.org/wiki/Системные_требования",
+        "about_IT": 0.1379120370722376,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 20498,
+        "link": "https://ru.wikipedia.org/wiki/Телевидение",
+        "about_IT": 0.10190434348769487,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 9322,
+        "link": "https://ru.wikipedia.org/wiki/Информационные_технологии",
+        "about_IT": 0.14411835477181614,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 2867,
+        "link": "https://ru.wikipedia.org/wiki/Кинопоиск",
+        "about_IT": 0.16495237675029784,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 1426,
+        "link": "https://ru.wikipedia.org/wiki/Программирование",
+        "about_IT": 0.2574041872052476,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 751,
+        "link": "https://ru.wikipedia.org/wiki/Литий-ионный_аккумулятор",
+        "about_IT": 0.10385329299356921,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1078,
+        "link": "https://ru.wikipedia.org/wiki/Исходный_код",
+        "about_IT": 0.15623826045246625,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 752,
+        "link": "https://ru.wikipedia.org/wiki/Телевизор",
+        "about_IT": 0.12400921421940439,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 550,
+        "link": "https://ru.wikipedia.org/wiki/Хеш-функция",
+        "about_IT": 0.11286449181901004,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 37723,
+        "link": "https://ru.wikipedia.org/wiki/Викисклад",
+        "about_IT": 0.12036698875017464,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 16795,
+        "link": "https://ru.wikipedia.org/wiki/Викисловарь",
+        "about_IT": 0.1047709927719552,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 1496,
+        "link": "https://ru.wikipedia.org/wiki/Локализация_программного_обеспечения",
+        "about_IT": 0.1475810437877145,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 550,
+        "link": "https://ru.wikipedia.org/wiki/IP-телефония",
+        "about_IT": 0.13623483466638034,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 2744,
+        "link": "https://ru.wikipedia.org/wiki/Геймпад",
+        "about_IT": 0.1190306103695184,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 668,
+        "link": "https://ru.wikipedia.org/wiki/Объектно-ориентированное_программирование",
+        "about_IT": 0.11270242281542676,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 555,
+        "link": "https://ru.wikipedia.org/wiki/Десятичная_система_счисления",
+        "about_IT": 0.1692535106957491,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 665,
+        "link": "https://ru.wikipedia.org/wiki/Ноутбук",
+        "about_IT": 0.17038417397610223,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 554,
+        "link": "https://ru.wikipedia.org/wiki/Сетевая_модель_OSI",
+        "about_IT": 0.16108030275448554,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 706,
+        "link": "https://ru.wikipedia.org/wiki/Электронная_вычислительная_машина",
+        "about_IT": 0.19319523178689582,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 674,
+        "link": "https://ru.wikipedia.org/wiki/Библиотекарь",
+        "about_IT": 0.13929833006346598,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 579,
+        "link": "https://ru.wikipedia.org/wiki/Драйвер",
+        "about_IT": 0.2061199696483807,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 18411,
+        "link": "https://ru.wikipedia.org/wiki/Компьютерная_игра",
+        "about_IT": 0.12020211225462844,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 672,
+        "link": "https://ru.wikipedia.org/wiki/Хакер",
+        "about_IT": 0.16122920187481213,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 644,
+        "link": "https://ru.wikipedia.org/wiki/Сеть_Xbox",
+        "about_IT": 0.1614565192721784,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 580,
+        "link": "https://ru.wikipedia.org/wiki/Библиотека_(программирование)",
+        "about_IT": 0.15469911341497208,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 42776,
+        "link": "https://ru.wikipedia.org/wiki/Национальный_центр_биотехнологической_информации",
+        "about_IT": 0.10197319419433673,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 709,
+        "link": "https://ru.wikipedia.org/wiki/Камерофон",
+        "about_IT": 0.10806928867564744,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 557,
+        "link": "https://ru.wikipedia.org/wiki/Хронология_развития_теории_информации",
+        "about_IT": 0.1329453324434739,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 580,
+        "link": "https://ru.wikipedia.org/wiki/Утилита",
+        "about_IT": 0.17687107830463597,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 560,
+        "link": "https://ru.wikipedia.org/wiki/Рамблер",
+        "about_IT": 0.1419089894123877,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 912,
+        "link": "https://ru.wikipedia.org/wiki/Полит.ру",
+        "about_IT": 0.11316920762571196,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 581,
+        "link": "https://ru.wikipedia.org/wiki/Онлайн_и_офлайн",
+        "about_IT": 0.15114412192100038,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 980,
+        "link": "https://ru.wikipedia.org/wiki/Графический_процессор",
+        "about_IT": 0.1594224311755335,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 2183,
+        "link": "https://ru.wikipedia.org/wiki/Архитектура_компьютера",
+        "about_IT": 0.15966003382879232,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 2158,
+        "link": "https://ru.wikipedia.org/wiki/Цифровое_скачивание_музыки",
+        "about_IT": 0.18529930578910614,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 760,
+        "link": "https://ru.wikipedia.org/wiki/Хотлинк",
+        "about_IT": 0.14725856624543668,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 761,
+        "link": "https://ru.wikipedia.org/wiki/Файл",
+        "about_IT": 0.20440494303475135,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 2208,
+        "link": "https://ru.wikipedia.org/wiki/Искусственный_интеллект",
+        "about_IT": 0.10156640822454144,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 763,
+        "link": "https://ru.wikipedia.org/wiki/Дискета",
+        "about_IT": 0.15875593764993193,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 2351,
+        "link": "https://ru.wikipedia.org/wiki/Музыкальный_альбом",
+        "about_IT": 0.12687040845030423,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 1005,
+        "link": "https://ru.wikipedia.org/wiki/Генная_онтология",
+        "about_IT": 0.10642200803384184,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 2346,
+        "link": "https://ru.wikipedia.org/wiki/Гравюра",
+        "about_IT": 0.12067926015588455,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 2962,
+        "link": "https://ru.wikipedia.org/wiki/Геймдизайнер",
+        "about_IT": 0.10528426976460549,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 1755,
+        "link": "https://ru.wikipedia.org/wiki/Жёсткий_диск",
+        "about_IT": 0.14336156312595397,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 542,
+        "link": "https://ru.wikipedia.org/wiki/Интерфейс",
+        "about_IT": 0.12630110119269894,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1513,
+        "link": "https://ru.wikipedia.org/wiki/Архив_Интернета",
+        "about_IT": 0.1084698769804163,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 596,
+        "link": "https://ru.wikipedia.org/wiki/Локальная_вычислительная_сеть",
+        "about_IT": 0.10202459253632697,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1787,
+        "link": "https://ru.wikipedia.org/wiki/Потоковое_мультимедиа",
+        "about_IT": 0.16913774746418414,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 719,
+        "link": "https://ru.wikipedia.org/wiki/Вычислительная_техника",
+        "about_IT": 0.16360594183519983,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 724,
+        "link": "https://ru.wikipedia.org/wiki/Документ",
+        "about_IT": 0.10248815134271151,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 725,
+        "link": "https://ru.wikipedia.org/wiki/Протокол_передачи_данных",
+        "about_IT": 0.1594293342670426,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 564,
+        "link": "https://ru.wikipedia.org/wiki/Постоянное_запоминающее_устройство",
+        "about_IT": 0.13499156105266594,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 541,
+        "link": "https://ru.wikipedia.org/wiki/Подкастинг",
+        "about_IT": 0.1428720415569842,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 3153,
+        "link": "https://ru.wikipedia.org/wiki/Дезоксирибонуклеиновая_кислота",
+        "about_IT": 0.10236344225413632,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 724,
+        "link": "https://ru.wikipedia.org/wiki/Джойстик",
+        "about_IT": 0.1334355568047613,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 1493,
+        "link": "https://ru.wikipedia.org/wiki/Сенсорный_экран",
+        "about_IT": 0.12716844462556764,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 2946,
+        "link": "https://ru.wikipedia.org/wiki/Открытое_программное_обеспечение",
+        "about_IT": 0.17466584052890538,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1231,
+        "link": "https://ru.wikipedia.org/wiki/Электросвязь",
+        "about_IT": 0.11854326618742883,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 563,
+        "link": "https://ru.wikipedia.org/wiki/4K_(разрешение)",
+        "about_IT": 0.10327555672459615,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 543,
+        "link": "https://ru.wikipedia.org/wiki/Стадии_разработки_программного_обеспечения",
+        "about_IT": 0.16374884617768906,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1554,
+        "link": "https://ru.wikipedia.org/wiki/Поисковая_система",
+        "about_IT": 0.18650976693530347,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 4838,
+        "link": "https://ru.wikipedia.org/wiki/Викиданные",
+        "about_IT": 0.12091253434540704,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 3173,
+        "link": "https://ru.wikipedia.org/wiki/Персональный_компьютер",
+        "about_IT": 0.12191520541867552,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1368,
+        "link": "https://ru.wikipedia.org/wiki/Браузер",
+        "about_IT": 0.146566744387706,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1108,
+        "link": "https://ru.wikipedia.org/wiki/Компьютерная_анимация",
+        "about_IT": 0.1592404351612045,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1223,
+        "link": "https://ru.wikipedia.org/wiki/Игровой_картридж",
+        "about_IT": 0.15940844055481387,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 1824,
+        "link": "https://ru.wikipedia.org/wiki/Информатика",
+        "about_IT": 0.147621164052786,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 4574,
+        "link": "https://ru.wikipedia.org/wiki/Программное_обеспечение",
+        "about_IT": 0.24800818355142837,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 604,
+        "link": "https://ru.wikipedia.org/wiki/Звукозапись",
+        "about_IT": 0.14926123760640622,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 608,
+        "link": "https://ru.wikipedia.org/wiki/Информационная_безопасность",
+        "about_IT": 0.12864240029011853,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 4713,
+        "link": "https://ru.wikipedia.org/wiki/Коды_языков",
+        "about_IT": 0.15227818008808588,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 3369,
+        "link": "https://ru.wikipedia.org/wiki/Центральный_процессор",
+        "about_IT": 0.14330076345701373,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 523,
+        "link": "https://ru.wikipedia.org/wiki/Система_управления_базами_данных",
+        "about_IT": 0.1661063644254361,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 5520,
+        "link": "https://ru.wikipedia.org/wiki/Лицензия_на_программное_обеспечение",
+        "about_IT": 0.14277046601077578,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 794,
+        "link": "https://ru.wikipedia.org/wiki/Файловая_система",
+        "about_IT": 0.15229117824083885,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1916,
+        "link": "https://ru.wikipedia.org/wiki/IBM-PC-совместимый_компьютер",
+        "about_IT": 0.11595991631038487,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 531,
+        "link": "https://ru.wikipedia.org/wiki/Сценарный_язык",
+        "about_IT": 0.10651761070592329,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1592,
+        "link": "https://ru.wikipedia.org/wiki/Смартфон",
+        "about_IT": 0.17449721213895827,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 570,
+        "link": "https://ru.wikipedia.org/wiki/Условно-бесплатное_программное_обеспечение",
+        "about_IT": 0.13330218451312528,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 1879,
+        "link": "https://ru.wikipedia.org/wiki/Радио",
+        "about_IT": 0.101047856550983,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 620,
+        "link": "https://ru.wikipedia.org/wiki/Оптическое_распознавание_символов",
+        "about_IT": 0.14453363118491325,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 636,
+        "link": "https://ru.wikipedia.org/wiki/Разработка_программного_обеспечения",
+        "about_IT": 0.1908958962361794,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 859,
+        "link": "https://ru.wikipedia.org/wiki/Оптический_диск",
+        "about_IT": 0.13392214463868488,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 70666,
+        "link": "https://ru.wikipedia.org/wiki/Цифровой_идентификатор_объекта",
+        "about_IT": 0.1365814174328561,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 693,
+        "link": "https://ru.wikipedia.org/wiki/Фотоматрица",
+        "about_IT": 0.1585761886726444,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 650,
+        "link": "https://ru.wikipedia.org/wiki/Всемирная_паутина",
+        "about_IT": 0.17510387892834842,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 868,
+        "link": "https://ru.wikipedia.org/wiki/Вики",
+        "about_IT": 0.12714092994574458,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 653,
+        "link": "https://ru.wikipedia.org/wiki/IP-адрес",
+        "about_IT": 0.17513656670020686,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 623,
+        "link": "https://ru.wikipedia.org/wiki/Ядро_Linux",
+        "about_IT": 0.19886678532612595,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 692,
+        "link": "https://ru.wikipedia.org/wiki/Сотовая_связь",
+        "about_IT": 0.10201947796958848,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 690,
+        "link": "https://ru.wikipedia.org/wiki/Биткойн",
+        "about_IT": 0.11609241203404963,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 516,
+        "link": "https://ru.wikipedia.org/wiki/Кирилл_и_Мефодий_(компания)",
+        "about_IT": 0.10699171082685804,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 515,
+        "link": "https://ru.wikipedia.org/wiki/Звуковая_карта",
+        "about_IT": 0.11269812751294618,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 519,
+        "link": "https://ru.wikipedia.org/wiki/Робототехника",
+        "about_IT": 0.12377720485175295,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 514,
+        "link": "https://ru.wikipedia.org/wiki/Лисп",
+        "about_IT": 0.1645756851765327,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 511,
+        "link": "https://ru.wikipedia.org/wiki/Шестнадцатеричная_система_счисления",
+        "about_IT": 0.1597775465378072,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 500,
+        "link": "https://ru.wikipedia.org/wiki/Коммерческое_программное_обеспечение",
+        "about_IT": 0.12769232282714385,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 505,
+        "link": "https://ru.wikipedia.org/wiki/Веб-форум",
+        "about_IT": 0.15591730908956378,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 505,
+        "link": "https://ru.wikipedia.org/wiki/Байт",
+        "about_IT": 0.1316521552344784,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 503,
+        "link": "https://ru.wikipedia.org/wiki/Снимок_экрана",
+        "about_IT": 0.1858839254896421,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 500,
+        "link": "https://ru.wikipedia.org/wiki/Лицензия_MIT",
+        "about_IT": 0.13490869650526696,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 498,
+        "link": "https://ru.wikipedia.org/wiki/Сервер_(программное_обеспечение)",
+        "about_IT": 0.20664926447023294,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 501,
+        "link": "https://ru.wikipedia.org/wiki/Учётная_запись",
+        "about_IT": 0.1738105220797782,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 502,
+        "link": "https://ru.wikipedia.org/wiki/Видеоблог",
+        "about_IT": 0.1376865546684712,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 496,
+        "link": "https://ru.wikipedia.org/wiki/Сжатие_данных",
+        "about_IT": 0.15069613844680135,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 492,
+        "link": "https://ru.wikipedia.org/wiki/Киборг",
+        "about_IT": 0.12179820599034429,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 490,
+        "link": "https://ru.wikipedia.org/wiki/Магнитофон",
+        "about_IT": 0.1617553860000852,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 490,
+        "link": "https://ru.wikipedia.org/wiki/Преобразование_Фурье",
+        "about_IT": 0.1472993404895533,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 486,
+        "link": "https://ru.wikipedia.org/wiki/Веб-служба",
+        "about_IT": 0.251375845563598,
+        "group": 7,
+        "take": "1"
+    }
+]

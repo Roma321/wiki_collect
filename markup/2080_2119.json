@@ -1,0 +1,282 @@
+[
+    {
+        "references": 71,
+        "link": "https://ru.wikipedia.org/wiki/Видеорегистратор",
+        "about_IT": 0.17122811783105135,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 71,
+        "link": "https://ru.wikipedia.org/wiki/Многочлены_Чебышёва",
+        "about_IT": 0.12743718915929397,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 71,
+        "link": "https://ru.wikipedia.org/wiki/Рутинг",
+        "about_IT": 0.16940954811667325,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 71,
+        "link": "https://ru.wikipedia.org/wiki/Цифровой_маркетинг",
+        "about_IT": 0.13687071848728105,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 71,
+        "link": "https://ru.wikipedia.org/wiki/Микро_4:3",
+        "about_IT": 0.1424475639856731,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/Skype_для_бизнеса",
+        "about_IT": 0.11944915688457383,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/DNS-сервер",
+        "about_IT": 0.14447417335274318,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/Системный_блок",
+        "about_IT": 0.16761522049912148,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/Промышленный_Ethernet",
+        "about_IT": 0.13684214521483226,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/Параллельный_алгоритм",
+        "about_IT": 0.1401960982636357,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/Система_охлаждения_компьютера",
+        "about_IT": 0.15444760937878693,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/Многодокументный_интерфейс_с_вкладками",
+        "about_IT": 0.11621803848654963,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/Тематическое_моделирование",
+        "about_IT": 0.1109075333155208,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/Интернет-банкинг",
+        "about_IT": 0.12267269498746221,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/Помощник_(Microsoft_Office)",
+        "about_IT": 0.15897976555903975,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/TEA_(текстовый_редактор)",
+        "about_IT": 0.10119088558014483,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/Обратная_польская_запись",
+        "about_IT": 0.1800829643383622,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/HAMMER_(файловая_система)",
+        "about_IT": 0.10066400462722716,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/Статический_анализ_кода",
+        "about_IT": 0.13748171270020645,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/Алгоритм_COS",
+        "about_IT": 0.17400519528600852,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/Шифр_подстановки",
+        "about_IT": 0.1130247030272865,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/R*-дерево",
+        "about_IT": 0.1434177964553237,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 70,
+        "link": "https://ru.wikipedia.org/wiki/Маруся_(голосовой_помощник)",
+        "about_IT": 0.11471615892845545,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 69,
+        "link": "https://ru.wikipedia.org/wiki/Автоматическое_реферирование",
+        "about_IT": 0.165380635863932,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 69,
+        "link": "https://ru.wikipedia.org/wiki/Многодокументный_интерфейс",
+        "about_IT": 0.10558324894601745,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 69,
+        "link": "https://ru.wikipedia.org/wiki/Агентно-ориентированный_подход",
+        "about_IT": 0.1079103711691192,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 69,
+        "link": "https://ru.wikipedia.org/wiki/Нейронный_машинный_перевод",
+        "about_IT": 0.12517253508664328,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 69,
+        "link": "https://ru.wikipedia.org/wiki/Интернет_в_Туркменистане",
+        "about_IT": 0.18246912201769494,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 69,
+        "link": "https://ru.wikipedia.org/wiki/Metro_(интерфейс)",
+        "about_IT": 0.1170946674765825,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 69,
+        "link": "https://ru.wikipedia.org/wiki/Типаж_(абстрактный_тип)",
+        "about_IT": 0.15949734977645372,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 69,
+        "link": "https://ru.wikipedia.org/wiki/ЙЦУКЕН",
+        "about_IT": 0.10248628793827569,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 69,
+        "link": "https://ru.wikipedia.org/wiki/Мультивещание",
+        "about_IT": 0.17982227057218553,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 69,
+        "link": "https://ru.wikipedia.org/wiki/Закон_Густавсона_—_Барсиса",
+        "about_IT": 0.10569065154195414,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 69,
+        "link": "https://ru.wikipedia.org/wiki/Сервис-ориентированная_архитектура",
+        "about_IT": 0.179171000708205,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 69,
+        "link": "https://ru.wikipedia.org/wiki/Сетевой_шлюз",
+        "about_IT": 0.20473975900793448,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 69,
+        "link": "https://ru.wikipedia.org/wiki/Разработка,_управляемая_моделями",
+        "about_IT": 0.15881606349094698,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 69,
+        "link": "https://ru.wikipedia.org/wiki/Лучевой_поиск",
+        "about_IT": 0.12411186666312543,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 69,
+        "link": "https://ru.wikipedia.org/wiki/Языково-ориентированное_программирование",
+        "about_IT": 0.13354716345282464,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 69,
+        "link": "https://ru.wikipedia.org/wiki/Интернет_в_Таджикистане",
+        "about_IT": 0.13525273010600358,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 69,
+        "link": "https://ru.wikipedia.org/wiki/Программа_удалённого_администрирования",
+        "about_IT": 0.21049768751496836,
+        "group": 7,
+        "take": ""
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "references": 77,
+        "link": "https://ru.wikipedia.org/wiki/Electric_(САПР)",
+        "about_IT": 0.1339673627400771,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 77,
+        "link": "https://ru.wikipedia.org/wiki/Узел_сети",
+        "about_IT": 0.19282268524621032,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 77,
+        "link": "https://ru.wikipedia.org/wiki/ECC-память",
+        "about_IT": 0.10057571672849008,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 77,
+        "link": "https://ru.wikipedia.org/wiki/Кнопка_(элемент_интерфейса_программ)",
+        "about_IT": 0.11654267182143835,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 77,
+        "link": "https://ru.wikipedia.org/wiki/Зацепление_(программирование)",
+        "about_IT": 0.12459247817969299,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 77,
+        "link": "https://ru.wikipedia.org/wiki/Конструктор_(функциональное_программирование)",
+        "about_IT": 0.12214496948989108,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 77,
+        "link": "https://ru.wikipedia.org/wiki/Анализатор_трафика",
+        "about_IT": 0.14097700976482075,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 77,
+        "link": "https://ru.wikipedia.org/wiki/Контейнеризация",
+        "about_IT": 0.13332466069647733,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 77,
+        "link": "https://ru.wikipedia.org/wiki/Искажения_сигнала",
+        "about_IT": 0.11319216189052289,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 77,
+        "link": "https://ru.wikipedia.org/wiki/Cobra_(язык_программирования)",
+        "about_IT": 0.14274253711046186,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 77,
+        "link": "https://ru.wikipedia.org/wiki/Стек_вызовов",
+        "about_IT": 0.16680886689157756,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 77,
+        "link": "https://ru.wikipedia.org/wiki/Троичная_система_счисления",
+        "about_IT": 0.12126655367735241,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 76,
+        "link": "https://ru.wikipedia.org/wiki/Вейвлет",
+        "about_IT": 0.1918623820587527,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 76,
+        "link": "https://ru.wikipedia.org/wiki/Закон_Амдала",
+        "about_IT": 0.11886885587882716,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 76,
+        "link": "https://ru.wikipedia.org/wiki/Встроенный_графический_процессор",
+        "about_IT": 0.29161068350076674,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 76,
+        "link": "https://ru.wikipedia.org/wiki/Метод_золотого_сечения",
+        "about_IT": 0.11025975850255539,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 76,
+        "link": "https://ru.wikipedia.org/wiki/Tk_(программа)",
+        "about_IT": 0.14387472313828767,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 76,
+        "link": "https://ru.wikipedia.org/wiki/Салливан,_Уильям_Джон",
+        "about_IT": 0.10495148554133872,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 76,
+        "link": "https://ru.wikipedia.org/wiki/Файлообменник",
+        "about_IT": 0.1233421504645693,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 76,
+        "link": "https://ru.wikipedia.org/wiki/ПЛ/1",
+        "about_IT": 0.13019671477377415,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 76,
+        "link": "https://ru.wikipedia.org/wiki/Виртуальная_служба_знакомств",
+        "about_IT": 0.18206597442667072,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 76,
+        "link": "https://ru.wikipedia.org/wiki/Статистический_машинный_перевод",
+        "about_IT": 0.11530010680014836,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 76,
+        "link": "https://ru.wikipedia.org/wiki/VGA_(разъём)",
+        "about_IT": 0.16206909595057367,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 76,
+        "link": "https://ru.wikipedia.org/wiki/Сварка_оптического_волокна",
+        "about_IT": 0.13033721928484737,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 76,
+        "link": "https://ru.wikipedia.org/wiki/Квантовый_алгоритм",
+        "about_IT": 0.23631355181957284,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 76,
+        "link": "https://ru.wikipedia.org/wiki/Лига_безопасного_интернета",
+        "about_IT": 0.12434957245298262,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 75,
+        "link": "https://ru.wikipedia.org/wiki/Домофон",
+        "about_IT": 0.14374443532433362,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 75,
+        "link": "https://ru.wikipedia.org/wiki/Апплет",
+        "about_IT": 0.12494035317756547,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 75,
+        "link": "https://ru.wikipedia.org/wiki/Криптология",
+        "about_IT": 0.12719678539782764,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 76,
+        "link": "https://ru.wikipedia.org/wiki/Алгоритм_Полига_—_Хеллмана",
+        "about_IT": 0.1817674277786864,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 75,
+        "link": "https://ru.wikipedia.org/wiki/Распределённая_хеш-таблица",
+        "about_IT": 0.10477932051289826,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 75,
+        "link": "https://ru.wikipedia.org/wiki/Каталог_ресурсов_в_Интернете",
+        "about_IT": 0.17180925873954864,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 75,
+        "link": "https://ru.wikipedia.org/wiki/Повторное_использование_кода",
+        "about_IT": 0.12366997660511905,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 75,
+        "link": "https://ru.wikipedia.org/wiki/Функциональный_тип",
+        "about_IT": 0.10552718176639996,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 75,
+        "link": "https://ru.wikipedia.org/wiki/Блинная_сортировка",
+        "about_IT": 0.11640761836897581,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 75,
+        "link": "https://ru.wikipedia.org/wiki/История_версий_iOS",
+        "about_IT": 0.14195315790945615,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 75,
+        "link": "https://ru.wikipedia.org/wiki/Контроллер_памяти",
+        "about_IT": 0.19442537503297597,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 75,
+        "link": "https://ru.wikipedia.org/wiki/Интернет_во_Вьетнаме",
+        "about_IT": 0.13070720985332238,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 75,
+        "link": "https://ru.wikipedia.org/wiki/Шаблоны_C++",
+        "about_IT": 0.15928808104298595,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 75,
+        "link": "https://ru.wikipedia.org/wiki/Lightning_(коннектор)",
+        "about_IT": 0.13331623983103782,
+        "group": 7,
+        "take": ""
+    }
+]

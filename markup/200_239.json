@@ -1,0 +1,282 @@
+[
+    {
+        "references": 481,
+        "link": "https://ru.wikipedia.org/wiki/Расширение_имени_файла",
+        "about_IT": 0.1542646422982216,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 481,
+        "link": "https://ru.wikipedia.org/wiki/Автопилот",
+        "about_IT": 0.13362647173667533,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 482,
+        "link": "https://ru.wikipedia.org/wiki/Монофония",
+        "about_IT": 0.10585867389260481,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 483,
+        "link": "https://ru.wikipedia.org/wiki/Клавиатура",
+        "about_IT": 0.13001667583382434,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 478,
+        "link": "https://ru.wikipedia.org/wiki/Карманный_персональный_компьютер",
+        "about_IT": 0.18588695174807476,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 476,
+        "link": "https://ru.wikipedia.org/wiki/Симулятор",
+        "about_IT": 0.10115977261797525,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 471,
+        "link": "https://ru.wikipedia.org/wiki/Лицензия_Apache",
+        "about_IT": 0.16839224458154706,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 473,
+        "link": "https://ru.wikipedia.org/wiki/Фреймворк",
+        "about_IT": 0.1922935568743075,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 471,
+        "link": "https://ru.wikipedia.org/wiki/Факультет_вычислительной_математики_и_кибернетики_МГУ",
+        "about_IT": 0.1006553381054387,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 468,
+        "link": "https://ru.wikipedia.org/wiki/Система_на_кристалле",
+        "about_IT": 0.1549751470944929,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 465,
+        "link": "https://ru.wikipedia.org/wiki/Рабочая_станция",
+        "about_IT": 0.10780487266136334,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 468,
+        "link": "https://ru.wikipedia.org/wiki/Система_автоматизированного_проектирования",
+        "about_IT": 0.16835473854793237,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 464,
+        "link": "https://ru.wikipedia.org/wiki/Электронная_подпись",
+        "about_IT": 0.12938356345138427,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 463,
+        "link": "https://ru.wikipedia.org/wiki/Веб-приложение",
+        "about_IT": 0.1983194633120937,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 462,
+        "link": "https://ru.wikipedia.org/wiki/Компьютерная_память",
+        "about_IT": 0.1382470051637938,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 459,
+        "link": "https://ru.wikipedia.org/wiki/Микроконтроллер",
+        "about_IT": 0.20130249758018182,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 455,
+        "link": "https://ru.wikipedia.org/wiki/Многопоточность",
+        "about_IT": 0.11266752476803958,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 456,
+        "link": "https://ru.wikipedia.org/wiki/Радиостанция_(техническое_средство)",
+        "about_IT": 0.13814424246229465,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 455,
+        "link": "https://ru.wikipedia.org/wiki/Растровая_графика",
+        "about_IT": 0.12934566966982353,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 453,
+        "link": "https://ru.wikipedia.org/wiki/Metal_Storm_(сайт)",
+        "about_IT": 0.11401027608662843,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 454,
+        "link": "https://ru.wikipedia.org/wiki/Время_(телепрограмма)",
+        "about_IT": 0.12302325520431623,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 452,
+        "link": "https://ru.wikipedia.org/wiki/Монитор_(устройство)",
+        "about_IT": 0.18161010829906446,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 452,
+        "link": "https://ru.wikipedia.org/wiki/Протокол_установления_сеанса",
+        "about_IT": 0.11004067717760335,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 449,
+        "link": "https://ru.wikipedia.org/wiki/Вредоносная_программа",
+        "about_IT": 0.14499121743703855,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 452,
+        "link": "https://ru.wikipedia.org/wiki/Принтер",
+        "about_IT": 0.1374999449462848,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 446,
+        "link": "https://ru.wikipedia.org/wiki/Инновация",
+        "about_IT": 0.10587955295923165,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 446,
+        "link": "https://ru.wikipedia.org/wiki/Домашний_компьютер",
+        "about_IT": 0.17817780318437143,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 443,
+        "link": "https://ru.wikipedia.org/wiki/Антиблокировочная_система",
+        "about_IT": 0.1017226924055389,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 442,
+        "link": "https://ru.wikipedia.org/wiki/Программная_ошибка",
+        "about_IT": 0.12714356658666826,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 439,
+        "link": "https://ru.wikipedia.org/wiki/Компьютерный_вирус",
+        "about_IT": 0.15812449337794937,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 435,
+        "link": "https://ru.wikipedia.org/wiki/Материнская_плата",
+        "about_IT": 0.14231454266208368,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 434,
+        "link": "https://ru.wikipedia.org/wiki/Проектирование",
+        "about_IT": 0.12538832849849396,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 435,
+        "link": "https://ru.wikipedia.org/wiki/Автоматическая_телефонная_станция",
+        "about_IT": 0.1427611613273998,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 430,
+        "link": "https://ru.wikipedia.org/wiki/Интернет-магазин",
+        "about_IT": 0.15272054928282158,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 427,
+        "link": "https://ru.wikipedia.org/wiki/Кабельное_телевидение",
+        "about_IT": 0.10120968092232943,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 429,
+        "link": "https://ru.wikipedia.org/wiki/Встраиваемая_система",
+        "about_IT": 0.17533064835321663,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 426,
+        "link": "https://ru.wikipedia.org/wiki/Промозапись",
+        "about_IT": 0.1296367523400113,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 425,
+        "link": "https://ru.wikipedia.org/wiki/64_бита",
+        "about_IT": 0.13282043852765735,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 425,
+        "link": "https://ru.wikipedia.org/wiki/AES_(стандарт_шифрования)",
+        "about_IT": 0.11001303828602735,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 423,
+        "link": "https://ru.wikipedia.org/wiki/Eclipse_(среда_разработки)",
+        "about_IT": 0.155213062358754,
+        "group": 7,
+        "take": "2"
+    }
+]

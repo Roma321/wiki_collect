@@ -1,0 +1,282 @@
+[
+    {
+        "references": 64,
+        "link": "https://ru.wikipedia.org/wiki/Семплирование_(математическая_статистика)",
+        "about_IT": 0.1292920263673988,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Контрольная_группа_(Linux)",
+        "about_IT": 0.1360640982859133,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Вычислительная_теория_групп",
+        "about_IT": 0.1033847305605797,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Lightning_(ПО)",
+        "about_IT": 0.13429604993822675,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Цифровая_антенная_решётка",
+        "about_IT": 0.13963691818228524,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Рациональный_тип_данных",
+        "about_IT": 0.13218449852720368,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Управление_корпоративным_контентом",
+        "about_IT": 0.136650515452493,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Бейсик_Вильнюс",
+        "about_IT": 0.10226848422219821,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Конкордансер",
+        "about_IT": 0.11402786201588241,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Радиокнопка",
+        "about_IT": 0.1332705745207412,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Термоэлектрогенератор",
+        "about_IT": 0.12143372223676124,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Дифференциальная_эволюция",
+        "about_IT": 0.14277047332808643,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Calibre_(программа)",
+        "about_IT": 0.15150102151204078,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Декоратор_(шаблон_проектирования)",
+        "about_IT": 0.11860071793166248,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Видеоконтроллер",
+        "about_IT": 0.14817199832501096,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/5K_(разрешение)",
+        "about_IT": 0.11003756616976008,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Документация",
+        "about_IT": 0.11313376101898029,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Netsky_(червь)",
+        "about_IT": 0.10411023909026491,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Типобезопасность",
+        "about_IT": 0.15854180995291764,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Открытая_система_(информатика)",
+        "about_IT": 0.1341565719274804,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Конструирование_программного_обеспечения",
+        "about_IT": 0.2086239391627411,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/МЦСТ-R",
+        "about_IT": 0.14571103567257523,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Права_доступа",
+        "about_IT": 0.11608554350900437,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Расширение_браузера",
+        "about_IT": 0.17504282492678613,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 63,
+        "link": "https://ru.wikipedia.org/wiki/Азбука_(электронная_книга)",
+        "about_IT": 0.16253282632591437,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 62,
+        "link": "https://ru.wikipedia.org/wiki/MUI_(интерфейс)",
+        "about_IT": 0.17730708939912307,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 62,
+        "link": "https://ru.wikipedia.org/wiki/ГОСТ_34.10-2018",
+        "about_IT": 0.10067971071028815,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 62,
+        "link": "https://ru.wikipedia.org/wiki/Синхронная_цифровая_иерархия",
+        "about_IT": 0.14143984527181602,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 62,
+        "link": "https://ru.wikipedia.org/wiki/Амплитудно-фазовая_частотная_характеристика",
+        "about_IT": 0.13004659620055464,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 62,
+        "link": "https://ru.wikipedia.org/wiki/Программы_сертификации_Apple",
+        "about_IT": 0.16349609598643536,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 62,
+        "link": "https://ru.wikipedia.org/wiki/Википедия_на_языке_суахили",
+        "about_IT": 0.19612679220736026,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 62,
+        "link": "https://ru.wikipedia.org/wiki/Модель_Изинга",
+        "about_IT": 0.1345324223408372,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 62,
+        "link": "https://ru.wikipedia.org/wiki/Коммуникационная_сеть",
+        "about_IT": 0.15992827536143261,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 62,
+        "link": "https://ru.wikipedia.org/wiki/Чистота_функции",
+        "about_IT": 0.17035847009625285,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 62,
+        "link": "https://ru.wikipedia.org/wiki/Алгоритм_Карацубы",
+        "about_IT": 0.1358439404949119,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 62,
+        "link": "https://ru.wikipedia.org/wiki/Компьютеризация",
+        "about_IT": 0.15783771467395127,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 62,
+        "link": "https://ru.wikipedia.org/wiki/Метод_роя_частиц",
+        "about_IT": 0.12031964671645815,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 62,
+        "link": "https://ru.wikipedia.org/wiki/Куча_(память)",
+        "about_IT": 0.13779286127537488,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 62,
+        "link": "https://ru.wikipedia.org/wiki/Тамагочи",
+        "about_IT": 0.11495627155527473,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 62,
+        "link": "https://ru.wikipedia.org/wiki/ОКС-7",
+        "about_IT": 0.12441355332754457,
+        "group": 7,
+        "take": ""
+    }
+]

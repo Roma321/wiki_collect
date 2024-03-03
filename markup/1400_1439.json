@@ -1,0 +1,282 @@
+[
+    {
+        "references": 112,
+        "link": "https://ru.wikipedia.org/wiki/Система_отслеживания_ошибок",
+        "about_IT": 0.12568059763781583,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 112,
+        "link": "https://ru.wikipedia.org/wiki/Колмогоровская_сложность",
+        "about_IT": 0.13795817840548877,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 112,
+        "link": "https://ru.wikipedia.org/wiki/Едадил",
+        "about_IT": 0.12136151498074041,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 112,
+        "link": "https://ru.wikipedia.org/wiki/Разработка_приложений_для_мобильных_устройств",
+        "about_IT": 0.19285490495654253,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 112,
+        "link": "https://ru.wikipedia.org/wiki/Горлица_(БПЛА)",
+        "about_IT": 0.10201956054079346,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 112,
+        "link": "https://ru.wikipedia.org/wiki/Даркнет",
+        "about_IT": 0.11112642833766968,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 112,
+        "link": "https://ru.wikipedia.org/wiki/Flock_(браузер)",
+        "about_IT": 0.1625154049048433,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 112,
+        "link": "https://ru.wikipedia.org/wiki/Оптическая_звукозапись",
+        "about_IT": 0.1132585249883546,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 112,
+        "link": "https://ru.wikipedia.org/wiki/Электронные_методы_и_средства_разведки",
+        "about_IT": 0.1281782992537046,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 112,
+        "link": "https://ru.wikipedia.org/wiki/Яндекс.Модуль",
+        "about_IT": 0.11979384357303692,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 112,
+        "link": "https://ru.wikipedia.org/wiki/Сообщество_свободного_программного_обеспечения",
+        "about_IT": 0.14585720350733028,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 111,
+        "link": "https://ru.wikipedia.org/wiki/Спецхран",
+        "about_IT": 0.12339419715572149,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 111,
+        "link": "https://ru.wikipedia.org/wiki/Яндекс.Атом",
+        "about_IT": 0.11591616951945154,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 112,
+        "link": "https://ru.wikipedia.org/wiki/Маркетплейс",
+        "about_IT": 0.1424209877717658,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 111,
+        "link": "https://ru.wikipedia.org/wiki/Яндекс.Сибирь",
+        "about_IT": 0.1361554715848927,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 111,
+        "link": "https://ru.wikipedia.org/wiki/Объектно-ориентированная_база_данных",
+        "about_IT": 0.18655197049956768,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 111,
+        "link": "https://ru.wikipedia.org/wiki/Таймер_(информатика)",
+        "about_IT": 0.13469923259981442,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 111,
+        "link": "https://ru.wikipedia.org/wiki/Spectre_(уязвимость)",
+        "about_IT": 0.10645441635808145,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 111,
+        "link": "https://ru.wikipedia.org/wiki/BitTorrent-трекер",
+        "about_IT": 0.13067980795167386,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 111,
+        "link": "https://ru.wikipedia.org/wiki/Java-апплет",
+        "about_IT": 0.15732358121394,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 111,
+        "link": "https://ru.wikipedia.org/wiki/Оптимальное_управление",
+        "about_IT": 0.125316643821896,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 111,
+        "link": "https://ru.wikipedia.org/wiki/Jami_(программа)",
+        "about_IT": 0.1805598644391549,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 111,
+        "link": "https://ru.wikipedia.org/wiki/IOTA_(технология)",
+        "about_IT": 0.11899174760328605,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 111,
+        "link": "https://ru.wikipedia.org/wiki/Bluetooth_с_низким_энергопотреблением",
+        "about_IT": 0.11197126794140785,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 110,
+        "link": "https://ru.wikipedia.org/wiki/Корти_Милли",
+        "about_IT": 0.10071799636280047,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 110,
+        "link": "https://ru.wikipedia.org/wiki/Midori_(операционная_система)",
+        "about_IT": 0.14003731998013488,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 110,
+        "link": "https://ru.wikipedia.org/wiki/Carna_(ботнет)",
+        "about_IT": 0.1255729968032728,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 110,
+        "link": "https://ru.wikipedia.org/wiki/Офисный_пакет",
+        "about_IT": 0.21989928487455473,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 110,
+        "link": "https://ru.wikipedia.org/wiki/Цифровое_радио",
+        "about_IT": 0.13976675953142279,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 110,
+        "link": "https://ru.wikipedia.org/wiki/Фрикинг",
+        "about_IT": 0.14648938137756584,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 110,
+        "link": "https://ru.wikipedia.org/wiki/Dolphin_(браузер)",
+        "about_IT": 0.1975879738533298,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 110,
+        "link": "https://ru.wikipedia.org/wiki/Радиотелеграф",
+        "about_IT": 0.14466770021710545,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 110,
+        "link": "https://ru.wikipedia.org/wiki/Мобильное_интернет-устройство",
+        "about_IT": 0.1359456405291894,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 110,
+        "link": "https://ru.wikipedia.org/wiki/Поисковая_машина",
+        "about_IT": 0.15840577044679474,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 110,
+        "link": "https://ru.wikipedia.org/wiki/Интерпретатор_командной_строки",
+        "about_IT": 0.18416098278897922,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 110,
+        "link": "https://ru.wikipedia.org/wiki/CHIP_(Россия)",
+        "about_IT": 0.10631383698791978,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 110,
+        "link": "https://ru.wikipedia.org/wiki/Вырезать,_копировать,_вставить",
+        "about_IT": 0.17099135103118088,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 110,
+        "link": "https://ru.wikipedia.org/wiki/T1_(цифровые_каналы)",
+        "about_IT": 0.17602687748149037,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 110,
+        "link": "https://ru.wikipedia.org/wiki/Светодиодный_принтер",
+        "about_IT": 0.12074127933010459,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 110,
+        "link": "https://ru.wikipedia.org/wiki/Диаграмма_связей",
+        "about_IT": 0.13036477460271653,
+        "group": 7,
+        "take": ""
+    }
+]

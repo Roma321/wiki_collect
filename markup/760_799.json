@@ -1,0 +1,282 @@
+[
+    {
+        "references": 180,
+        "link": "https://ru.wikipedia.org/wiki/Бионика",
+        "about_IT": 0.10209538138472757,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 181,
+        "link": "https://ru.wikipedia.org/wiki/Спутниковый_мониторинг_транспорта",
+        "about_IT": 0.1544592600201334,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 180,
+        "link": "https://ru.wikipedia.org/wiki/Дерево_решений",
+        "about_IT": 0.10256980426299075,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 180,
+        "link": "https://ru.wikipedia.org/wiki/Сетевое_оборудование",
+        "about_IT": 0.16491469617467375,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 180,
+        "link": "https://ru.wikipedia.org/wiki/RIP_(сетевой_протокол)",
+        "about_IT": 0.10664932449678115,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 180,
+        "link": "https://ru.wikipedia.org/wiki/Эмодзи",
+        "about_IT": 0.12467458125126238,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 180,
+        "link": "https://ru.wikipedia.org/wiki/Обмен_сообщениями",
+        "about_IT": 0.16540600889577314,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 180,
+        "link": "https://ru.wikipedia.org/wiki/Форм-фактор_(техника)",
+        "about_IT": 0.1051889010207643,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 179,
+        "link": "https://ru.wikipedia.org/wiki/Акустическая_система",
+        "about_IT": 0.10041289763757959,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 180,
+        "link": "https://ru.wikipedia.org/wiki/Метод_наименьших_квадратов",
+        "about_IT": 0.11258440597859376,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 179,
+        "link": "https://ru.wikipedia.org/wiki/Юзабилити",
+        "about_IT": 0.12608415288174704,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 179,
+        "link": "https://ru.wikipedia.org/wiki/Реляционная_СУБД",
+        "about_IT": 0.21147517311360894,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 179,
+        "link": "https://ru.wikipedia.org/wiki/Подсветка_синтаксиса",
+        "about_IT": 0.11552891292210136,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 179,
+        "link": "https://ru.wikipedia.org/wiki/Обучение_с_учителем",
+        "about_IT": 0.10681051874610906,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 179,
+        "link": "https://ru.wikipedia.org/wiki/Лекун,_Ян",
+        "about_IT": 0.10630285206367261,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 178,
+        "link": "https://ru.wikipedia.org/wiki/Голос_(франшиза)",
+        "about_IT": 0.10751892862802682,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 179,
+        "link": "https://ru.wikipedia.org/wiki/Система_воздушных_сигналов",
+        "about_IT": 0.11388198277154178,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 179,
+        "link": "https://ru.wikipedia.org/wiki/Кворум_(компьютер)",
+        "about_IT": 0.12922943605226464,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 178,
+        "link": "https://ru.wikipedia.org/wiki/Сетевой_коммутатор",
+        "about_IT": 0.15104435453064402,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 178,
+        "link": "https://ru.wikipedia.org/wiki/Сетевая_энциклопедия",
+        "about_IT": 0.16106188015229153,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 178,
+        "link": "https://ru.wikipedia.org/wiki/Символ_(компьютер)",
+        "about_IT": 0.13122896323911845,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 177,
+        "link": "https://ru.wikipedia.org/wiki/Лаборатория_Google",
+        "about_IT": 0.12121904656058177,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 178,
+        "link": "https://ru.wikipedia.org/wiki/Ранний_доступ",
+        "about_IT": 0.11481554091291468,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 177,
+        "link": "https://ru.wikipedia.org/wiki/Интернет-планшет",
+        "about_IT": 0.15360815044356665,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 177,
+        "link": "https://ru.wikipedia.org/wiki/Яндекс_Видео",
+        "about_IT": 0.1313223422660182,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 177,
+        "link": "https://ru.wikipedia.org/wiki/Микшерный_пульт",
+        "about_IT": 0.1234045044307343,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 177,
+        "link": "https://ru.wikipedia.org/wiki/Полезные_программы_Google",
+        "about_IT": 0.15278766941338517,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 177,
+        "link": "https://ru.wikipedia.org/wiki/Мегафон",
+        "about_IT": 0.1355176441759492,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 176,
+        "link": "https://ru.wikipedia.org/wiki/Мастер_сообществ_Google",
+        "about_IT": 0.13299733508081937,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 176,
+        "link": "https://ru.wikipedia.org/wiki/Яндекс.Народ",
+        "about_IT": 0.15116338876541704,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 175,
+        "link": "https://ru.wikipedia.org/wiki/Пульт_дистанционного_управления",
+        "about_IT": 0.16042778358096257,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 176,
+        "link": "https://ru.wikipedia.org/wiki/Язык_разметки",
+        "about_IT": 0.1404357445727025,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 176,
+        "link": "https://ru.wikipedia.org/wiki/Волоконно-оптическая_линия_передачи",
+        "about_IT": 0.14652767872568803,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 175,
+        "link": "https://ru.wikipedia.org/wiki/Копирайтинг",
+        "about_IT": 0.1198571723847029,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 175,
+        "link": "https://ru.wikipedia.org/wiki/Аспектно-ориентированное_программирование",
+        "about_IT": 0.18103745386681774,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 176,
+        "link": "https://ru.wikipedia.org/wiki/Интерфейс_(объектно-ориентированное_программирование)",
+        "about_IT": 0.11781843491189647,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 175,
+        "link": "https://ru.wikipedia.org/wiki/Обучение_с_подкреплением",
+        "about_IT": 0.10830891561927274,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 175,
+        "link": "https://ru.wikipedia.org/wiki/Система_пользовательского_поиска_Google",
+        "about_IT": 0.18590089153837075,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 175,
+        "link": "https://ru.wikipedia.org/wiki/Мир_(платёжная_система)",
+        "about_IT": 0.10089986931416206,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 175,
+        "link": "https://ru.wikipedia.org/wiki/Тематический_индекс_цитирования",
+        "about_IT": 0.12970030859035128,
+        "group": 7,
+        "take": ""
+    }
+]

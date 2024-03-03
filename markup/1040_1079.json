@@ -1,0 +1,282 @@
+[
+    {
+        "references": 146,
+        "link": "https://ru.wikipedia.org/wiki/CDR_(формат_файла)",
+        "about_IT": 0.18353539721186582,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 146,
+        "link": "https://ru.wikipedia.org/wiki/Бесконтактная_карта",
+        "about_IT": 0.15748171217589213,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 146,
+        "link": "https://ru.wikipedia.org/wiki/5Э92б",
+        "about_IT": 0.10854104668775108,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 146,
+        "link": "https://ru.wikipedia.org/wiki/Церебро",
+        "about_IT": 0.10970847913995385,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 145,
+        "link": "https://ru.wikipedia.org/wiki/Основные_компоненты_Windows",
+        "about_IT": 0.21854185212093094,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 145,
+        "link": "https://ru.wikipedia.org/wiki/Беспроводная_вычислительная_сеть",
+        "about_IT": 0.16007701948336844,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 145,
+        "link": "https://ru.wikipedia.org/wiki/Инвертор_(электротехника)",
+        "about_IT": 0.1068755100510316,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 145,
+        "link": "https://ru.wikipedia.org/wiki/Линейный_дискриминантный_анализ",
+        "about_IT": 0.10025560733886847,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 145,
+        "link": "https://ru.wikipedia.org/wiki/Итеративная_разработка",
+        "about_IT": 0.13605579683873137,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 145,
+        "link": "https://ru.wikipedia.org/wiki/Видеопамять",
+        "about_IT": 0.14912716142716817,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 145,
+        "link": "https://ru.wikipedia.org/wiki/ARIA_(криптография)",
+        "about_IT": 0.11407924613915384,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 145,
+        "link": "https://ru.wikipedia.org/wiki/История_Википедии",
+        "about_IT": 0.11408317193594197,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 145,
+        "link": "https://ru.wikipedia.org/wiki/ABC_(криптография)",
+        "about_IT": 0.13587806868599728,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 145,
+        "link": "https://ru.wikipedia.org/wiki/Спецификация",
+        "about_IT": 0.10469985118834302,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 145,
+        "link": "https://ru.wikipedia.org/wiki/Коллизия_хеш-функции",
+        "about_IT": 0.13472676006145776,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 144,
+        "link": "https://ru.wikipedia.org/wiki/Статистическая_теория_обучения",
+        "about_IT": 0.13835339420184029,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 144,
+        "link": "https://ru.wikipedia.org/wiki/Полное_раскрытие",
+        "about_IT": 0.10556773954749588,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 144,
+        "link": "https://ru.wikipedia.org/wiki/Crash_(журнал)",
+        "about_IT": 0.12812633740885013,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 144,
+        "link": "https://ru.wikipedia.org/wiki/Многопеременная_логистическая_функция",
+        "about_IT": 0.16155087074264884,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 144,
+        "link": "https://ru.wikipedia.org/wiki/Cobra_(шифр)",
+        "about_IT": 0.11286181836304339,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 144,
+        "link": "https://ru.wikipedia.org/wiki/Present_(шифр)",
+        "about_IT": 0.10062471530167386,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 144,
+        "link": "https://ru.wikipedia.org/wiki/Стандартная_библиотека_языка_Си",
+        "about_IT": 0.11073299155745189,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 144,
+        "link": "https://ru.wikipedia.org/wiki/Установка_программного_обеспечения",
+        "about_IT": 0.22881125451996923,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 144,
+        "link": "https://ru.wikipedia.org/wiki/Умножение_матриц",
+        "about_IT": 0.10549914276925847,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 144,
+        "link": "https://ru.wikipedia.org/wiki/Тензорный_процессор_Google",
+        "about_IT": 0.12420594794986149,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 144,
+        "link": "https://ru.wikipedia.org/wiki/Теория_вычислительного_обучения",
+        "about_IT": 0.12168389946365586,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 144,
+        "link": "https://ru.wikipedia.org/wiki/Системное_программное_обеспечение",
+        "about_IT": 0.16655731419178968,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 144,
+        "link": "https://ru.wikipedia.org/wiki/Сравнение_хостингов_для_проектов_свободного_программного_обеспечения",
+        "about_IT": 0.16060504702230294,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 144,
+        "link": "https://ru.wikipedia.org/wiki/Несанкционированный_доступ",
+        "about_IT": 0.12115511675235918,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 143,
+        "link": "https://ru.wikipedia.org/wiki/Кокрановская_библиотека",
+        "about_IT": 0.11013251284179701,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 143,
+        "link": "https://ru.wikipedia.org/wiki/Спутниковый_телефон",
+        "about_IT": 0.1002290953990795,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 143,
+        "link": "https://ru.wikipedia.org/wiki/Акадо",
+        "about_IT": 0.13267891194579232,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 143,
+        "link": "https://ru.wikipedia.org/wiki/Яндекс_Директ",
+        "about_IT": 0.18057668645633385,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 143,
+        "link": "https://ru.wikipedia.org/wiki/Радиоэлектроника",
+        "about_IT": 0.13025118168715077,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 143,
+        "link": "https://ru.wikipedia.org/wiki/Адаптивная_дифференциальная_импульсно-кодовая_модуляция",
+        "about_IT": 0.10481515672872774,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 143,
+        "link": "https://ru.wikipedia.org/wiki/Двоичный_файл",
+        "about_IT": 0.20420207132119686,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 143,
+        "link": "https://ru.wikipedia.org/wiki/Машиносчитываемый_паспорт",
+        "about_IT": 0.13374935145489872,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 143,
+        "link": "https://ru.wikipedia.org/wiki/Орион-128",
+        "about_IT": 0.1445945408847183,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 142,
+        "link": "https://ru.wikipedia.org/wiki/Вероятно_приближённо_корректное_обучение",
+        "about_IT": 0.11504003412458891,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 142,
+        "link": "https://ru.wikipedia.org/wiki/Dash_(криптовалюта)",
+        "about_IT": 0.13387519334739242,
+        "group": 7,
+        "take": ""
+    }
+]

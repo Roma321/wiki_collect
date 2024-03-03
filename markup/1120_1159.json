@@ -1,0 +1,282 @@
+[
+    {
+        "references": 138,
+        "link": "https://ru.wikipedia.org/wiki/Барабанный_процессор",
+        "about_IT": 0.11730917645036243,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 138,
+        "link": "https://ru.wikipedia.org/wiki/М-13_(электронно-вычислительная_машина)",
+        "about_IT": 0.13616082210093736,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 138,
+        "link": "https://ru.wikipedia.org/wiki/УМ-1НХ",
+        "about_IT": 0.14544296265240908,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 138,
+        "link": "https://ru.wikipedia.org/wiki/Метод_релевантных_векторов",
+        "about_IT": 0.11546530152970393,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 137,
+        "link": "https://ru.wikipedia.org/wiki/Онлайн-сервис_обмена_цифровых_валют",
+        "about_IT": 0.12403752166805242,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 137,
+        "link": "https://ru.wikipedia.org/wiki/Страничная_память",
+        "about_IT": 0.13422394776716828,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 137,
+        "link": "https://ru.wikipedia.org/wiki/Метод_нечёткой_кластеризации_C-средних",
+        "about_IT": 0.13257916581683926,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 137,
+        "link": "https://ru.wikipedia.org/wiki/Скай_Линк",
+        "about_IT": 0.10886080677184509,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 137,
+        "link": "https://ru.wikipedia.org/wiki/Тарджан,_Роберт",
+        "about_IT": 0.10988748877183147,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 137,
+        "link": "https://ru.wikipedia.org/wiki/Электроника_Д3-28",
+        "about_IT": 0.17641585856591435,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 136,
+        "link": "https://ru.wikipedia.org/wiki/Динамическое_изменение_напряжения",
+        "about_IT": 0.13742771016105132,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 136,
+        "link": "https://ru.wikipedia.org/wiki/ЕС-2701",
+        "about_IT": 0.10332891163967647,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 136,
+        "link": "https://ru.wikipedia.org/wiki/Теория_сложности_вычислений",
+        "about_IT": 0.14760893702897354,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 136,
+        "link": "https://ru.wikipedia.org/wiki/Яндекс.Лента",
+        "about_IT": 0.10928354486823082,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 136,
+        "link": "https://ru.wikipedia.org/wiki/ПЛИС",
+        "about_IT": 0.1606038569007069,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 136,
+        "link": "https://ru.wikipedia.org/wiki/Диспетчер_операционной_системы",
+        "about_IT": 0.1430010135019464,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 136,
+        "link": "https://ru.wikipedia.org/wiki/5Э53",
+        "about_IT": 0.10206175988007869,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 136,
+        "link": "https://ru.wikipedia.org/wiki/Электроника_901",
+        "about_IT": 0.1495080019906163,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 136,
+        "link": "https://ru.wikipedia.org/wiki/Менеджер_окон_X_Window_System",
+        "about_IT": 0.15848617285239294,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 135,
+        "link": "https://ru.wikipedia.org/wiki/Информационная_модель",
+        "about_IT": 0.1133399084120174,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 136,
+        "link": "https://ru.wikipedia.org/wiki/Компьютерные_шахматы",
+        "about_IT": 0.14038549455527877,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 135,
+        "link": "https://ru.wikipedia.org/wiki/М-220",
+        "about_IT": 0.1169168346375227,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 136,
+        "link": "https://ru.wikipedia.org/wiki/Ботнет",
+        "about_IT": 0.16044538089902036,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 135,
+        "link": "https://ru.wikipedia.org/wiki/Разделяемая_память",
+        "about_IT": 0.11481895069591701,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 135,
+        "link": "https://ru.wikipedia.org/wiki/Спекулятивное_исполнение",
+        "about_IT": 0.1466870567202568,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 135,
+        "link": "https://ru.wikipedia.org/wiki/Компоновщик",
+        "about_IT": 0.10541010934175574,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 135,
+        "link": "https://ru.wikipedia.org/wiki/Телефонный_автоответчик",
+        "about_IT": 0.11180325182225637,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 135,
+        "link": "https://ru.wikipedia.org/wiki/Регистровый_файл",
+        "about_IT": 0.21756723739339837,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 135,
+        "link": "https://ru.wikipedia.org/wiki/Роуминг",
+        "about_IT": 0.13116140111863692,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 135,
+        "link": "https://ru.wikipedia.org/wiki/Абстрактный_тип_данных",
+        "about_IT": 0.12338114515203051,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 135,
+        "link": "https://ru.wikipedia.org/wiki/Данные_(вычислительная_техника)",
+        "about_IT": 0.13830779168085428,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 135,
+        "link": "https://ru.wikipedia.org/wiki/Адаптивное_управление",
+        "about_IT": 0.12124312270764047,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 134,
+        "link": "https://ru.wikipedia.org/wiki/IP-АТС",
+        "about_IT": 0.10308352379270218,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 134,
+        "link": "https://ru.wikipedia.org/wiki/МАРС_(компьютер)",
+        "about_IT": 0.1808553674723953,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 134,
+        "link": "https://ru.wikipedia.org/wiki/Распознавание_рукописного_ввода",
+        "about_IT": 0.11153806674340339,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 134,
+        "link": "https://ru.wikipedia.org/wiki/Веб-интерфейс",
+        "about_IT": 0.18228035497886594,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 134,
+        "link": "https://ru.wikipedia.org/wiki/Электроника_МС_1504",
+        "about_IT": 0.11823745456963984,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 134,
+        "link": "https://ru.wikipedia.org/wiki/Виртуальный_мир",
+        "about_IT": 0.1270628161582863,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 134,
+        "link": "https://ru.wikipedia.org/wiki/Многоагентная_система",
+        "about_IT": 0.11368401792521278,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 134,
+        "link": "https://ru.wikipedia.org/wiki/Цифровая_звуковая_рабочая_станция",
+        "about_IT": 0.16519292558615023,
+        "group": 7,
+        "take": ""
+    }
+]

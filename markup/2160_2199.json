@@ -1,0 +1,282 @@
+[
+    {
+        "references": 67,
+        "link": "https://ru.wikipedia.org/wiki/Флажок_(интерфейс)",
+        "about_IT": 0.12685847052023747,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 67,
+        "link": "https://ru.wikipedia.org/wiki/Мидлет",
+        "about_IT": 0.1654100394807756,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 67,
+        "link": "https://ru.wikipedia.org/wiki/Аврора_(операционная_система)",
+        "about_IT": 0.12711297446677539,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 67,
+        "link": "https://ru.wikipedia.org/wiki/Программное_обеспечение_для_управления_проектами",
+        "about_IT": 0.145222789750856,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 67,
+        "link": "https://ru.wikipedia.org/wiki/Док-станция",
+        "about_IT": 0.14570394962502178,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 67,
+        "link": "https://ru.wikipedia.org/wiki/Комплексный_тип_данных",
+        "about_IT": 0.14568018042741138,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 67,
+        "link": "https://ru.wikipedia.org/wiki/ACB_(архиватор)",
+        "about_IT": 0.14489890097950894,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 67,
+        "link": "https://ru.wikipedia.org/wiki/Магнитная_головка",
+        "about_IT": 0.1488560005514459,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 67,
+        "link": "https://ru.wikipedia.org/wiki/Nashorn_(движок_JavaScript)",
+        "about_IT": 0.1331237073176973,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 67,
+        "link": "https://ru.wikipedia.org/wiki/DAR_(архиватор)",
+        "about_IT": 0.15945220040545488,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Статистика_запросов",
+        "about_IT": 0.151510249161058,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Вычислимая_функция",
+        "about_IT": 0.12140177245086166,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Межсайтовый_скриптинг",
+        "about_IT": 0.14937256764620543,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Поиск_подстроки",
+        "about_IT": 0.15164336391414204,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Алгоритм_Левенберга_—_Марквардта",
+        "about_IT": 0.20733731656335294,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Мост_(шаблон_проектирования)",
+        "about_IT": 0.1075759009439415,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Системный_фотоаппарат",
+        "about_IT": 0.11985696694706954,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Размещение_патинко",
+        "about_IT": 0.12039583906243934,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Геолокация_(информатика)",
+        "about_IT": 0.16106357819662662,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Delicious_(сайт)",
+        "about_IT": 0.10349371075122193,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Алгоритм_Адлемана",
+        "about_IT": 0.13479878330669764,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Распределённая_система",
+        "about_IT": 0.10936615949613042,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Препроцессор",
+        "about_IT": 0.11940053688961216,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Блок_питания_компьютера",
+        "about_IT": 0.14488489918377517,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Репликация_(вычислительная_техника)",
+        "about_IT": 0.11692229397262313,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Метод_сопряжённых_градиентов",
+        "about_IT": 0.15054978156229482,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Бережливая_разработка_программного_обеспечения",
+        "about_IT": 0.1741349869815167,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Пикабу",
+        "about_IT": 0.11987161435827147,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Речевой_корпус",
+        "about_IT": 0.12498561610571213,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Hydra_(контроллер)",
+        "about_IT": 0.13374513912458497,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Santy_(червь)",
+        "about_IT": 0.11936121432642852,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Метод_Лемана",
+        "about_IT": 0.10714806991600198,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 65,
+        "link": "https://ru.wikipedia.org/wiki/Голографическая_память",
+        "about_IT": 0.13195401813233426,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Автоматное_программирование",
+        "about_IT": 0.15039537152518856,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 66,
+        "link": "https://ru.wikipedia.org/wiki/Список_интегралов_от_обратных_тригонометрических_функций",
+        "about_IT": 0.10833332885522395,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 65,
+        "link": "https://ru.wikipedia.org/wiki/Аппликативное_программирование",
+        "about_IT": 0.13666633776632475,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 65,
+        "link": "https://ru.wikipedia.org/wiki/Генератор_тактовых_импульсов",
+        "about_IT": 0.17232685757593977,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 65,
+        "link": "https://ru.wikipedia.org/wiki/HDR-видео",
+        "about_IT": 0.12625262450426816,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 65,
+        "link": "https://ru.wikipedia.org/wiki/Принципиальная_схема",
+        "about_IT": 0.1323256246134406,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 65,
+        "link": "https://ru.wikipedia.org/wiki/Иридиум",
+        "about_IT": 0.10497124255474773,
+        "group": 7,
+        "take": ""
+    }
+]

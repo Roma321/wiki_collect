@@ -1,0 +1,282 @@
+[
+    {
+        "references": 247,
+        "link": "https://ru.wikipedia.org/wiki/Аналоговый_сигнал",
+        "about_IT": 0.10117613090745484,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 246,
+        "link": "https://ru.wikipedia.org/wiki/Сетевой_трафик",
+        "about_IT": 0.14667780399516536,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 247,
+        "link": "https://ru.wikipedia.org/wiki/Пролог_(язык_программирования)",
+        "about_IT": 0.12249384180052272,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 245,
+        "link": "https://ru.wikipedia.org/wiki/Телефонный_коммутатор",
+        "about_IT": 0.12266372324098483,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 247,
+        "link": "https://ru.wikipedia.org/wiki/Интернет_в_Белоруссии",
+        "about_IT": 0.14785517871007323,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 245,
+        "link": "https://ru.wikipedia.org/wiki/Агент_Mail.ru",
+        "about_IT": 0.12457311226106767,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 245,
+        "link": "https://ru.wikipedia.org/wiki/Аналоговый_компьютер",
+        "about_IT": 0.12694586683440232,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 245,
+        "link": "https://ru.wikipedia.org/wiki/Система_управления_содержимым",
+        "about_IT": 0.1917903438428766,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 244,
+        "link": "https://ru.wikipedia.org/wiki/Параллельные_вычислительные_системы",
+        "about_IT": 0.18910753442673012,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 244,
+        "link": "https://ru.wikipedia.org/wiki/2K_(компания)",
+        "about_IT": 0.16535254376940428,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 244,
+        "link": "https://ru.wikipedia.org/wiki/Электронная_библиотека",
+        "about_IT": 0.14104830177413533,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 244,
+        "link": "https://ru.wikipedia.org/wiki/Дискретное_логарифмирование",
+        "about_IT": 0.15421722133954366,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 243,
+        "link": "https://ru.wikipedia.org/wiki/Оберон_(язык_программирования)",
+        "about_IT": 0.12123192302921476,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 244,
+        "link": "https://ru.wikipedia.org/wiki/Штриховой_код",
+        "about_IT": 0.10239177149830057,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 243,
+        "link": "https://ru.wikipedia.org/wiki/Плеер_(проигрыватель)",
+        "about_IT": 0.10998122500410924,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 242,
+        "link": "https://ru.wikipedia.org/wiki/Брандмауэр_Windows",
+        "about_IT": 0.2516098034568131,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 242,
+        "link": "https://ru.wikipedia.org/wiki/Диспетчер_файлов",
+        "about_IT": 0.2261421461123973,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 242,
+        "link": "https://ru.wikipedia.org/wiki/Мировая_цифровая_библиотека",
+        "about_IT": 0.13367765130630385,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 242,
+        "link": "https://ru.wikipedia.org/wiki/Встроенное_программное_обеспечение",
+        "about_IT": 0.17274129627711612,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 242,
+        "link": "https://ru.wikipedia.org/wiki/Кортана_(голосовой_помощник)",
+        "about_IT": 0.1610340155661106,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 241,
+        "link": "https://ru.wikipedia.org/wiki/Нейронный_процессор",
+        "about_IT": 0.16573542248965664,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 242,
+        "link": "https://ru.wikipedia.org/wiki/Радиорелейная_связь",
+        "about_IT": 0.10618671616913551,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 241,
+        "link": "https://ru.wikipedia.org/wiki/Виртуальная_память",
+        "about_IT": 0.14061063672357704,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 240,
+        "link": "https://ru.wikipedia.org/wiki/Дистанционное_обучение",
+        "about_IT": 0.1193928257697156,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 240,
+        "link": "https://ru.wikipedia.org/wiki/Интернет_вещей",
+        "about_IT": 0.1170047808617043,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 239,
+        "link": "https://ru.wikipedia.org/wiki/Кодек",
+        "about_IT": 0.18928974059277348,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 239,
+        "link": "https://ru.wikipedia.org/wiki/Радиолюбительство",
+        "about_IT": 0.15070185124641283,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 239,
+        "link": "https://ru.wikipedia.org/wiki/R_(язык_программирования)",
+        "about_IT": 0.1083286622668513,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 238,
+        "link": "https://ru.wikipedia.org/wiki/Zoom_(программа)",
+        "about_IT": 0.14025989023244215,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 238,
+        "link": "https://ru.wikipedia.org/wiki/Панель_задач",
+        "about_IT": 0.1329483279797177,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 239,
+        "link": "https://ru.wikipedia.org/wiki/Глубокое_обучение",
+        "about_IT": 0.12055873270993206,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 238,
+        "link": "https://ru.wikipedia.org/wiki/Служба_Windows",
+        "about_IT": 0.18878507427881622,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 237,
+        "link": "https://ru.wikipedia.org/wiki/Периферийное_устройство",
+        "about_IT": 0.1775802599149756,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 238,
+        "link": "https://ru.wikipedia.org/wiki/Троянская_программа",
+        "about_IT": 0.15475847405141394,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 237,
+        "link": "https://ru.wikipedia.org/wiki/Текстовый_процессор",
+        "about_IT": 0.16885046235043913,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 236,
+        "link": "https://ru.wikipedia.org/wiki/Переменная_среды",
+        "about_IT": 0.20680150606203823,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 236,
+        "link": "https://ru.wikipedia.org/wiki/Пейдж,_Ларри",
+        "about_IT": 0.11107870241232579,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 235,
+        "link": "https://ru.wikipedia.org/wiki/Промышленный_компьютер",
+        "about_IT": 0.15965652756071905,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 235,
+        "link": "https://ru.wikipedia.org/wiki/Противообледенительная_система",
+        "about_IT": 0.13651753576472403,
+        "group": 7,
+        "take": ""
+    },
+    {
+        "references": 235,
+        "link": "https://ru.wikipedia.org/wiki/Канальный_уровень",
+        "about_IT": 0.14929090142453788,
+        "group": 7,
+        "take": ""
+    }
+]
