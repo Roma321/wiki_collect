@@ -1,282 +1,562 @@
 [
     {
+        "references": 195,
+        "link": "https://ru.wikipedia.org/wiki/Каталог_(файловая_система)",
+        "about_IT": 0.18810544489857017,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 195,
+        "link": "https://ru.wikipedia.org/wiki/Базовая_станция",
+        "about_IT": 0.13225356048372175,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 195,
+        "link": "https://ru.wikipedia.org/wiki/Диск_3,5_дюйма",
+        "about_IT": 0.11138825259672908,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 194,
+        "link": "https://ru.wikipedia.org/wiki/Микроплатёж",
+        "about_IT": 0.11986038237344473,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 195,
+        "link": "https://ru.wikipedia.org/wiki/Медиаконтейнер",
+        "about_IT": 0.1603475580108352,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 194,
+        "link": "https://ru.wikipedia.org/wiki/Параллелизм_на_уровне_команд",
+        "about_IT": 0.11424929070371119,
+        "group": 7,
+        "take": "2"
+    },
+    {
+        "references": 194,
+        "link": "https://ru.wikipedia.org/wiki/Протоколы_прикладного_уровня",
+        "about_IT": 0.1493118977174163,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 194,
+        "link": "https://ru.wikipedia.org/wiki/Центр_мобильности_Windows",
+        "about_IT": 0.1969001115125252,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 194,
+        "link": "https://ru.wikipedia.org/wiki/Интернет-радио",
+        "about_IT": 0.17354729530246307,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 193,
+        "link": "https://ru.wikipedia.org/wiki/Координатор_распределённых_транзакций",
+        "about_IT": 0.2130837033926086,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 193,
+        "link": "https://ru.wikipedia.org/wiki/M4_(макропроцессор)",
+        "about_IT": 0.13373667164317643,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 193,
+        "link": "https://ru.wikipedia.org/wiki/Защита_доступа_к_сети",
+        "about_IT": 0.1847200974174484,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 193,
+        "link": "https://ru.wikipedia.org/wiki/Транспортный_уровень",
+        "about_IT": 0.14247563145981984,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 193,
+        "link": "https://ru.wikipedia.org/wiki/Процесс_исполнения_клиент-сервер",
+        "about_IT": 0.1460897741493162,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 193,
+        "link": "https://ru.wikipedia.org/wiki/Наноробот",
+        "about_IT": 0.11913508643360379,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 192,
+        "link": "https://ru.wikipedia.org/wiki/Радиотехническая_система_ближней_навигации",
+        "about_IT": 0.12758488829195913,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 192,
+        "link": "https://ru.wikipedia.org/wiki/Echo_(команда)",
+        "about_IT": 0.1253726076534284,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 192,
+        "link": "https://ru.wikipedia.org/wiki/Группы_Google",
+        "about_IT": 0.11515235093732674,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 192,
+        "link": "https://ru.wikipedia.org/wiki/Делопроизводство",
+        "about_IT": 0.13570140259606497,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 192,
+        "link": "https://ru.wikipedia.org/wiki/Электронно-цифровая_система_управления_двигателем",
+        "about_IT": 0.10601270708162337,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 192,
+        "link": "https://ru.wikipedia.org/wiki/Календарь_Windows",
+        "about_IT": 0.20477489263750612,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 191,
+        "link": "https://ru.wikipedia.org/wiki/Фильтр_(электроника)",
+        "about_IT": 0.11977456983983178,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 191,
+        "link": "https://ru.wikipedia.org/wiki/Каннингем,_Уорд",
+        "about_IT": 0.11037002486506632,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 191,
+        "link": "https://ru.wikipedia.org/wiki/Электроника_МС_0511",
+        "about_IT": 0.1283716730906495,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 191,
+        "link": "https://ru.wikipedia.org/wiki/Соджорнер_(марсоход)",
+        "about_IT": 0.11802904045209289,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 191,
+        "link": "https://ru.wikipedia.org/wiki/Службы_Windows_SharePoint",
+        "about_IT": 0.20274395952906665,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 191,
+        "link": "https://ru.wikipedia.org/wiki/Консоль_восстановления",
+        "about_IT": 0.21397964891179333,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 190,
+        "link": "https://ru.wikipedia.org/wiki/Запоминающее_устройство",
+        "about_IT": 0.19761463982673982,
+        "group": 7,
+        "take": "1"
+    },
+    {
+        "references": 190,
+        "link": "https://ru.wikipedia.org/wiki/Сервер_проверки_подлинности_локальной_системы_безопасности",
+        "about_IT": 0.17979931707195645,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 190,
+        "link": "https://ru.wikipedia.org/wiki/Доплеровский_измеритель_скорости_и_сноса",
+        "about_IT": 0.10848986387181167,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 190,
+        "link": "https://ru.wikipedia.org/wiki/Защита_ресурсов_Windows",
+        "about_IT": 0.1844474408775568,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 190,
+        "link": "https://ru.wikipedia.org/wiki/Фильтр_Байера",
+        "about_IT": 0.10416531985198768,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 190,
+        "link": "https://ru.wikipedia.org/wiki/Средство_просмотра_фотографий_Windows",
+        "about_IT": 0.14896324391923016,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 190,
+        "link": "https://ru.wikipedia.org/wiki/Экранный_диктор_(Windows)",
+        "about_IT": 0.19696489903144537,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 189,
+        "link": "https://ru.wikipedia.org/wiki/Средство_переноса_данных_Windows",
+        "about_IT": 0.23423121152445675,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 189,
+        "link": "https://ru.wikipedia.org/wiki/Радиодальномер",
+        "about_IT": 0.11120843451314916,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 189,
+        "link": "https://ru.wikipedia.org/wiki/Семантическая_паутина",
+        "about_IT": 0.11921756944308678,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 189,
+        "link": "https://ru.wikipedia.org/wiki/AIFF_(аудиоформат)",
+        "about_IT": 0.1857180114214619,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 189,
+        "link": "https://ru.wikipedia.org/wiki/Сайты_Google",
+        "about_IT": 0.17850153202190996,
+        "group": 7,
+        "take": "3"
+    },
+    {
+        "references": 188,
+        "link": "https://ru.wikipedia.org/wiki/Индекс_производительности_Windows",
+        "about_IT": 0.2113765984180976,
+        "group": 7,
+        "take": "3"
+    },
+    {
         "references": 189,
         "link": "https://ru.wikipedia.org/wiki/Службы_управления_правами",
         "about_IT": 0.17266018522253337,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 188,
         "link": "https://ru.wikipedia.org/wiki/Диспетчер_устройств",
         "about_IT": 0.2080207277015275,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 188,
         "link": "https://ru.wikipedia.org/wiki/Звукозапись_(Windows)",
         "about_IT": 0.17637539363931865,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 188,
         "link": "https://ru.wikipedia.org/wiki/Диспетчер_программ",
         "about_IT": 0.14791896849955347,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 188,
         "link": "https://ru.wikipedia.org/wiki/Временная_многопоточность",
         "about_IT": 0.10415101487721716,
         "group": 7,
-        "take": ""
+        "take": "1"
     },
     {
         "references": 188,
         "link": "https://ru.wikipedia.org/wiki/Ножницы_(Windows)",
         "about_IT": 0.1952054580731783,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 188,
         "link": "https://ru.wikipedia.org/wiki/DVD-студия_Windows",
         "about_IT": 0.23487544836476446,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 187,
         "link": "https://ru.wikipedia.org/wiki/Параметры_(Windows)",
         "about_IT": 0.24865523748513724,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 187,
         "link": "https://ru.wikipedia.org/wiki/VK_Музыка",
         "about_IT": 0.12247438242775388,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 187,
         "link": "https://ru.wikipedia.org/wiki/Spotlight_(программа)",
         "about_IT": 0.10177633170969784,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 187,
         "link": "https://ru.wikipedia.org/wiki/Процесс_запуска_Windows_NT",
         "about_IT": 0.2175167810966206,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 187,
         "link": "https://ru.wikipedia.org/wiki/Просмотр_событий",
         "about_IT": 0.15307083671984453,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 187,
         "link": "https://ru.wikipedia.org/wiki/Фотографии_(Microsoft)",
         "about_IT": 0.18169337550643833,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 186,
         "link": "https://ru.wikipedia.org/wiki/Императивное_программирование",
         "about_IT": 0.11972790703875943,
         "group": 7,
-        "take": ""
+        "take": "1"
     },
     {
         "references": 187,
         "link": "https://ru.wikipedia.org/wiki/Матричный_процессор",
         "about_IT": 0.1217529257242859,
         "group": 7,
-        "take": ""
+        "take": "1"
     },
     {
         "references": 187,
         "link": "https://ru.wikipedia.org/wiki/Байт_(компьютер)",
         "about_IT": 0.11516178661425198,
         "group": 7,
-        "take": ""
+        "take": "1"
     },
     {
         "references": 186,
         "link": "https://ru.wikipedia.org/wiki/Панель_инструментов_Google",
         "about_IT": 0.17424177654409925,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 186,
         "link": "https://ru.wikipedia.org/wiki/Перемещаемые_профили_пользователей",
         "about_IT": 0.23799710191254106,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 186,
         "link": "https://ru.wikipedia.org/wiki/Автоматическая_бортовая_система_управления",
         "about_IT": 0.13868817848428575,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 186,
         "link": "https://ru.wikipedia.org/wiki/История_Linux",
         "about_IT": 0.13996642714511837,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 186,
         "link": "https://ru.wikipedia.org/wiki/Список_микропроцессоров_Intel",
         "about_IT": 0.10902802726595837,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 186,
         "link": "https://ru.wikipedia.org/wiki/Пространство_имён_оболочки_Windows",
         "about_IT": 0.1227710687109114,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 185,
         "link": "https://ru.wikipedia.org/wiki/Службы_печати_для_UNIX",
         "about_IT": 0.1955886705379401,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 186,
         "link": "https://ru.wikipedia.org/wiki/Компьютерный_терминал",
         "about_IT": 0.16005946992424866,
         "group": 7,
-        "take": ""
+        "take": "1"
     },
     {
         "references": 185,
         "link": "https://ru.wikipedia.org/wiki/Проверка_системных_файлов",
         "about_IT": 0.17848096769303085,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 185,
         "link": "https://ru.wikipedia.org/wiki/Эволюционные_алгоритмы",
         "about_IT": 0.10840263150865212,
         "group": 7,
-        "take": ""
+        "take": "1"
     },
     {
         "references": 185,
         "link": "https://ru.wikipedia.org/wiki/Теория_вычислимости",
         "about_IT": 0.11309239404508845,
         "group": 7,
-        "take": ""
+        "take": "1"
     },
     {
         "references": 185,
         "link": "https://ru.wikipedia.org/wiki/Байт-код",
         "about_IT": 0.1480108323532881,
         "group": 7,
-        "take": ""
+        "take": "1"
     },
     {
         "references": 185,
         "link": "https://ru.wikipedia.org/wiki/Записки_(Windows)",
         "about_IT": 0.13212012018115882,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 184,
         "link": "https://ru.wikipedia.org/wiki/Байесовская_сеть",
         "about_IT": 0.13670341147355633,
         "group": 7,
-        "take": ""
+        "take": "1"
     },
     {
         "references": 184,
         "link": "https://ru.wikipedia.org/wiki/Транзакционная_NTFS",
         "about_IT": 0.16047166292418671,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 184,
         "link": "https://ru.wikipedia.org/wiki/Изоляция_привилегий_пользовательского_интерфейса",
         "about_IT": 0.13456982497125863,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 184,
         "link": "https://ru.wikipedia.org/wiki/Лазерный_принтер",
         "about_IT": 0.10163776000871703,
         "group": 7,
-        "take": ""
+        "take": "2"
     },
     {
         "references": 183,
         "link": "https://ru.wikipedia.org/wiki/Псевдографика",
         "about_IT": 0.16546001191335646,
         "group": 7,
-        "take": ""
+        "take": "1"
     },
     {
         "references": 182,
         "link": "https://ru.wikipedia.org/wiki/Хост",
         "about_IT": 0.13763145577162506,
         "group": 7,
-        "take": ""
+        "take": "1"
     },
     {
         "references": 182,
         "link": "https://ru.wikipedia.org/wiki/Метод_опорных_векторов",
         "about_IT": 0.13913261875277386,
         "group": 7,
-        "take": ""
+        "take": "1"
     },
     {
         "references": 181,
         "link": "https://ru.wikipedia.org/wiki/Дерево_(структура_данных)",
         "about_IT": 0.1067093734163791,
         "group": 7,
-        "take": ""
+        "take": "1"
     },
     {
         "references": 181,
         "link": "https://ru.wikipedia.org/wiki/Сеть_хранения_данных",
         "about_IT": 0.1539007753627153,
         "group": 7,
-        "take": ""
+        "take": "1"
     },
     {
         "references": 181,
         "link": "https://ru.wikipedia.org/wiki/Кодовый_штамп",
         "about_IT": 0.13444384884472432,
         "group": 7,
-        "take": ""
+        "take": "3"
     },
     {
         "references": 181,
         "link": "https://ru.wikipedia.org/wiki/Проводная_телефонная_связь",
         "about_IT": 0.10396188578306464,
         "group": 7,
-        "take": ""
+        "take": "3"
     }
 ]
