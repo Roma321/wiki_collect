@@ -44,9 +44,8 @@ def make_insert_term_task(definition, title):
     tire = '—'
     if tire in definition and tire not in title:
         to_replace_title = definition.split(tire)[0]
-        to_replace_definition = "".join(definition.split(tire)[1:])
         term_task = definition.replace(to_replace_title, f'<<<{to_replace_title}>>>')
-        definition_task = definition.replace(to_replace_definition, f'<<<{to_replace_definition}>>>')
+        definition_task = definition.replace(tire, f'{tire}<<<', 1) + '>>>'
     else:
         term_task = definition.replace(title, f'<<<{title}>>>')
         definition_task = definition.replace(title, f'{title}<<<') + '>>>'
