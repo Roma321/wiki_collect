@@ -5,6 +5,7 @@ from os.path import isfile, join
 import requests
 from bs4 import BeautifulSoup
 
+from main import make_corpus
 from string_utils import delete_inside_parentheses_and_brackets
 
 
@@ -41,16 +42,7 @@ from string_utils import delete_inside_parentheses_and_brackets
 #         return link_dict
 #
 #
-def first_p_by_link(link):
-    page = requests.get(link).text
-    page_soup = BeautifulSoup(page, 'html.parser')
-    article = page_soup.find('div', {'class': 'mw-content-ltr mw-parser-output'})
-    infobox_tables = article.find_all('table', {'class': 'infobox'})
-    for table in infobox_tables:
-        table.decompose()
-    first_p = article.find('p', class_=lambda x: x != "mw-empty-elt" and x != 'wikidata-claim')
-    definition = delete_inside_parentheses_and_brackets(first_p.text)
-    return definition
+
 
 
 #
@@ -104,19 +96,19 @@ def first_p_by_link(link):
 #         json.dump(with_work_group, file, ensure_ascii=False, indent=4)
 
 
-def step_4():
-    with open('links-8-with-work-group.json', 'r') as file:
-        j = json.load(file)
-
-    j = [x for x in j if x['group'] == 7]
-    for x in j:
-        x['take'] = ""
-    for i in range(len(j) // 40 + 1):
-        start = i * 40
-        end = min((i + 1) * 40, len(j))
-        block = j[start:end]
-        with open(f'markup/{start}_{end - 1}.json', 'w') as file:
-            json.dump(block, file, ensure_ascii=False, indent=4)
+# def step_4():
+#     with open('links-8-with-work-group.json', 'r') as file:
+#         j = json.load(file)
+#
+#     j = [x for x in j if x['group'] == 7]
+#     for x in j:
+#         x['take'] = ""
+#     for i in range(len(j) // 40 + 1):
+#         start = i * 40
+#         end = min((i + 1) * 40, len(j))
+#         block = j[start:end]
+#         with open(f'markup/{start}_{end - 1}.json', 'w') as file:
+#             json.dump(block, file, ensure_ascii=False, indent=4)
 
 
 # step_4()
@@ -125,7 +117,6 @@ def step_5():
         progress = int(file_progress.read())
     files = [x for x in listdir('markup') if x.endswith('.json') and int(x.split('_')[0]) >= progress]
     files = sorted(files, key=lambda x: int(x.split('_')[0]))
-    print(files)
     res_data = []
     for file in files:
         with open(f'markup/{file}', 'r') as file_data:
@@ -145,14 +136,39 @@ def step_5():
                     print(link)
             res_data.append(link)
             print('OK')
+
         with open('markup/progress-info', 'w') as file_progress:
-            file_progress.write(file.split('_')[1].replace('.json',''))
+            file_progress.write(file.split('_')[1].replace('.json', ''))
         with open(f'markup/{file}', 'w') as file_save_data:
             json.dump(res_data, file_save_data, ensure_ascii=False, indent=4)
+        res_data = []
         print('Файл размечен и сохранён. 1 чтобы завершить')
         ans = input('> ')
         if ans == '1':
             exit(0)
 
 
-step_5()
+def step_6():
+    files = [x for x in listdir('markup') if x.endswith('.json')]
+    files = sorted(files, key=lambda x: int(x.split('_')[0]))[:3]
+    print(files)
+    articles = []
+    for file in files:
+        with open(f'markup/{file}', 'r') as file_data:
+            j = json.load(file_data)[-40:]
+            articles += [x for x in j if x['take'] == '1']
+    with open('corpus-1/links.json', 'w') as file:
+        json.dump(articles, file, ensure_ascii=False, indent=4)
+    print(len(articles))
+
+
+# step_6()
+
+
+def step_7():
+    with open('corpus-1/links.json', 'r') as file:
+        j = json.load(file)
+    make_corpus([x['link'] for x in j], directory='corpus-1', step_info=5)
+
+
+step_7()

@@ -1,8 +1,12 @@
 import concurrent.futures
 import re
 
+import requests
 import stanza
+from bs4 import BeautifulSoup
 from gensim.models import KeyedVectors
+
+from string_utils import delete_inside_parentheses_and_brackets
 
 stanza.download('ru')
 nlp_ru = stanza.Pipeline('ru')
@@ -42,3 +46,15 @@ def rate_is_text_about_IT(text):
         else:
             continue
     return sum(definition_quality) / len(definition_quality)
+
+
+def first_p_by_link(link):
+    page = requests.get(link).text
+    page_soup = BeautifulSoup(page, 'html.parser')
+    article = page_soup.find('div', {'class': 'mw-content-ltr mw-parser-output'})
+    infobox_tables = article.find_all('table', {'class': 'infobox'})
+    for table in infobox_tables:
+        table.decompose()
+    first_p = article.find('p', class_=lambda x: x != "mw-empty-elt" and x != 'wikidata-claim')
+    definition = delete_inside_parentheses_and_brackets(first_p.text)
+    return definition

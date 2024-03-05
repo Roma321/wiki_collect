@@ -41,23 +41,18 @@ def make_purpose_task(phrase):
 
 
 def make_insert_term_task(definition, title):
-    definition_res = definition.replace(title, f'<<<{title}>>>')
-    title_cleaned = [x.lemma for x in nlp_ru(re.sub('[́̀]', '', title).lower()).sentences[0].words]
-
-    term_quality = []
-
-    for word in title_cleaned:
-        if word in model.key_to_index:
-            word_quality = [model.similarity(x, word) for x in information_words]
-            term_quality += word_quality
-        else:
-            if len(word) > 1:
-                term_quality.append(-10)
-
+    tire = '—'
+    if tire in definition and tire not in title:
+        to_replace_title = definition.split(tire)[0]
+        to_replace_definition = "".join(definition.split(tire)[1:])
+        term_task = definition.replace(to_replace_title, f'<<<{to_replace_title}>>>')
+        definition_task = definition.replace(to_replace_definition, f'<<<{to_replace_definition}>>>')
+    else:
+        term_task = definition.replace(title, f'<<<{title}>>>')
+        definition_task = definition.replace(title, f'{title}<<<') + '>>>'
     return {
-        'quality_term': sum(term_quality) / len(term_quality),
-        'quality_def': rate_is_text_about_IT(definition),
-        'definition': definition_res
+        'term_task': term_task,
+        'definition_task': definition_task
     }
 
 
