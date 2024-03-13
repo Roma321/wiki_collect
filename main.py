@@ -1,4 +1,5 @@
 import json
+import os
 
 import requests
 from bs4 import BeautifulSoup
@@ -36,6 +37,11 @@ def process_link(idx, link):
 
 
 def make_corpus(links, directory=None, num_threads=5, step_info=100):
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+    with open(f'{directory}/links.json', 'w') as file:
+        json.dump(links, file, ensure_ascii=False, indent=4)
+
     raw_results = parallel_map(num_threads, links, process_link, step_info)
     results = [x for x in raw_results if x is not None]
     errors_count = len([x for x in raw_results if x is None])
