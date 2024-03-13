@@ -11,6 +11,7 @@ from string_utils import delete_inside_parentheses_and_brackets
 stanza.download('ru')
 nlp_ru = stanza.Pipeline('ru')
 nlp_ru_lemma = stanza.Pipeline('ru', processors='tokenize,lemma')
+nlp_ru_tokenize = stanza.Pipeline('ru', processors='tokenize')
 model = KeyedVectors.load_word2vec_format('word_vectors.w2v')
 purpose_words = ['в качестве', 'с целью', 'для того чтобы', 'для того, чтобы', 'чтобы', 'применяются', 'применяется',
                  'используется', 'используются', 'используют', 'нацеленный на', 'нацеленная на', 'нацеленные на', 'для']

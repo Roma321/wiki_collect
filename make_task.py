@@ -1,6 +1,8 @@
 import re
 
-from utils import rate_is_text_about_IT, purpose_words, nlp_ru, model, information_words, ignore_headers
+from string_utils import delete_inside_parentheses_and_brackets
+from utils import rate_is_text_about_IT, purpose_words, nlp_ru, model, information_words, ignore_headers, \
+    nlp_ru_tokenize
 
 
 def has_substring(string):
@@ -11,7 +13,31 @@ def has_substring(string):
     return False, -1, None, None
 
 
-def make_purpose_task(phrase):
+def make_purpose_task_from_page(soup):
+    children_tmp = soup.find('div', {'class': 'mw-content-ltr mw-parser-output'}).findChildren(recursive=False)
+    res = []
+    children = group_by_h2(children_tmp)
+    for group in children:
+        group_text = ''.join(
+            [delete_inside_parentheses_and_brackets('\n'.join([y.text for y in x])) for x in group['children']])
+        del group['children']
+        sentences = nlp_ru_tokenize(group_text).sentences
+        res_group = []
+        for sentence_tokens in sentences:
+            from_ = sentence_tokens.words[0].start_char
+            to_ = sentence_tokens.words[-1].end_char
+            phrase = group_text[from_: to_]
+            task_phrase = make_purpose_task_from_phrase(phrase)
+            if task_phrase:
+                res_group.append(task_phrase)
+        group['tasks'] = res_group
+        res.append(group)
+    return res
+    # group['group_text'] = group_text
+    # print(group)
+
+
+def make_purpose_task_from_phrase(phrase):
     contains, idx_start, idx_end, found_str = has_substring(phrase)
     if not contains:
         return
@@ -32,8 +58,9 @@ def make_purpose_task(phrase):
         return None
     mark_from = idx_end + 1
     mark_end = max(x.end_char for x in s if x.id in collected)
+    if mark_end - mark_from < len(phrase) / 5:
+        return None
     return {
-        'phrase': phrase,
         'task': phrase[0:mark_from] + '<<<' + phrase[mark_from:mark_end] + '>>>' + phrase[mark_end:],
         'word': found_str
     }

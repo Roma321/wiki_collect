@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 from collect_links import all_articles
-from make_task import make_insert_term_task, make_purpose_task, make_ul_li_task
+from make_task import make_insert_term_task, make_purpose_task_from_phrase, make_ul_li_task, make_purpose_task_from_page
 from string_utils import delete_inside_parentheses_and_brackets
 from utils import parallel_map, first_p_by_link
 
@@ -24,7 +24,7 @@ def process_link(idx, link):
         title = delete_inside_parentheses_and_brackets(title.text)
         definition = delete_inside_parentheses_and_brackets(first_p.text)
         term_task = make_insert_term_task(definition, title)
-        purpose_task = make_purpose_task(definition)
+        purpose_task = make_purpose_task_from_page(page_soup)
         ul_task = make_ul_li_task(page_soup)
         return {'term': term_task, 'purpose': purpose_task, 'ul': ul_task, 'link': link}
     except Exception as e:
