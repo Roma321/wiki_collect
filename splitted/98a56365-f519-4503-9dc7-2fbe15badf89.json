@@ -1,0 +1,18 @@
+{
+    "task": "Протоколы<<<DCCP \nRUDP \nSCTP \nTCP \nUDP \nUDP Lite >>>",
+    "correct": [
+        [
+            "DCCP ",
+            "RUDP ",
+            "SCTP ",
+            "TCP ",
+            "UDP ",
+            "UDP Lite"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Транспортный_уровень"
+    }
+}

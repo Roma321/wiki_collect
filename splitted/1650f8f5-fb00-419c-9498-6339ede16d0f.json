@@ -1,0 +1,21 @@
+{
+    "task": "Троянские программы обычно имеют следующие расширения:\n<<<.exe, .com, .appimage ;\n.js, .vbs, .jse, .vbe, .bat, .cmd, .sh ;\n.html, .htm, .shtml, .shtm, .xhtml, .xht, .hta ;\n.pif ;\n.docm, .xlsm и т. п. ;\n.xml, .xsl, .svg, .xaml ;\n.cab и прочие установщики элементов ActiveX \n.scr ;\nнекоторые другие.>>>",
+    "correct": [
+        [
+            ".exe, .com, .appimage ;",
+            ".js, .vbs, .jse, .vbe, .bat, .cmd, .sh ;",
+            ".html, .htm, .shtml, .shtm, .xhtml, .xht, .hta ;",
+            ".pif ;",
+            ".docm, .xlsm и т. п. ;",
+            ".xml, .xsl, .svg, .xaml ;",
+            ".cab и прочие установщики элементов ActiveX ",
+            ".scr ;",
+            "некоторые другие."
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Троянская_программа"
+    }
+}

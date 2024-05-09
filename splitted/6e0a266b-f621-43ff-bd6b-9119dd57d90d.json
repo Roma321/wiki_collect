@@ -1,0 +1,17 @@
+{
+    "task": "К ним относятся:\n<<<Spectre\nMeltdown\nSpoiler\nForeshadow\nВыборка микроархитектурных данных>>>",
+    "correct": [
+        [
+            "Spectre",
+            "Meltdown",
+            "Spoiler",
+            "Foreshadow",
+            "Выборка микроархитектурных данных"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Спекулятивное_исполнение"
+    }
+}

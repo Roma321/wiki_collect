@@ -1,0 +1,23 @@
+{
+    "task": "Список ведущих фирм — производителей микроконтроллеров:\n<<<Atmel Corporation\nFujitsu\nInfineon Technologies\nMicrochip Technology\nNXP Semiconductors\nRenesas Electronics\nFreescale Semiconductor\nSTMicroelectronics\nTexas Instruments\nTransmeta\nVIA Technologies>>>",
+    "correct": [
+        [
+            "Atmel Corporation",
+            "Fujitsu",
+            "Infineon Technologies",
+            "Microchip Technology",
+            "NXP Semiconductors",
+            "Renesas Electronics",
+            "Freescale Semiconductor",
+            "STMicroelectronics",
+            "Texas Instruments",
+            "Transmeta",
+            "VIA Technologies"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Встраиваемая_система"
+    }
+}

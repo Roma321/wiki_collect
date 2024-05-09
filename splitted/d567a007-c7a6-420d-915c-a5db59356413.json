@@ -1,0 +1,17 @@
+{
+    "task": "Примеры языковых тегов:\n<<<Английский язык: en-GB , en-US , en-AU .\nИспанский язык: es-ES , es-MX , es-AR , es-CO .\nПортугальский язык: pt-PT , pt-BR .\nКитайский язык: zh-CN , zh-TW , zh-HK .\nРусский язык: ru-RU .>>>",
+    "correct": [
+        [
+            "Английский язык: en-GB , en-US , en-AU .",
+            "Испанский язык: es-ES , es-MX , es-AR , es-CO .",
+            "Португальский язык: pt-PT , pt-BR .",
+            "Китайский язык: zh-CN , zh-TW , zh-HK .",
+            "Русский язык: ru-RU ."
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Локализация_программного_обеспечения"
+    }
+}

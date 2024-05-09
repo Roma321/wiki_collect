@@ -1,0 +1,52 @@
+{
+    "task": "Задуманное изначально не как многоплатформенное, ядро Linux на данное время перенесено на очень широкий круг архитектур, запускается на широком спектре оборудования от iPAQ  до IBM S/390 . Системы на основе Linux используются в качестве основных почти на всех суперкомпьютерах , в том числе и на самом мощном — Summit.\nИзначально Linux разрабатывался для 32-битных x86-совместимых ПК; на сегодняшний день различные версии ядра Linux запускаются на следующих процессорных архитектурах:\n<<<ARM:\nAcorn: Archimedes, A5000, RiscPC;\nStrongARM, Intel XScale и тому подобных;\nAxis Communications CRIS;\nDEC Alpha;\nHP PA-RISC;\nHitachi: SuperH , H8/300;\nIBM System/390;\nIBM zSeries-мэйнфреймы;\nIntel 80386 и выше: IBM PC и совместимые с процессорами:\n80386, 80486, а также AMD, Cyrix, TI и IBM-варианты;\nсерия Pentium;\nCore, Core2 Duo в 32- и 64-битных версиях;\nAMD Am5x86, K5, K6, Athlon , Duron;\nAMD64: 64-битная технология AMD ;\nCyrix 5x86, 6x86 , 6x86MX и MediaGX  серия;\nVIA C3 и последующие процессоры;\nподдержка Intel 8086, 8088, 80186, 80188 и 80286 процессоров находится в разработке ;\nMicrosoft Xbox ;\nIntel IA-64 ;\nMIPS;\nSilicon Graphics, Inc.;\nCobalt Qube, Cobalt RaQ;\nSony/Toshiba/IBM — Emotion Engine и Cell, используемые в PlayStation 2 и PlayStation 3 соответственно;\nDECstation\nи некоторые другие;\nMotorola 68020 и выше:\nболее новые Amiga: A1200, A2500, A3000, A4000;\nApple Macintosh II, LC, Quadra, Centris и ранняя серия Performa;\nрабочие станции Sun Microsystems серии 3 ;\nNEC v850e;\nRenesas M32R;\nPowerPC и IBM POWER:\nвсе новые компьютеры Apple ,\nклоны PCI Power Mac, разработанные Power Computing, UMAX и Motorola;\nIBM RS/6000, iSeries- и pSeries-системы;\nPegasos I и II системы;\nнекоторые встроенные системы PowerPC;\nQualcomm Hexagon\nSPARC и UltraSPARC: Sun 4-series, SPARCstation/SPARCserver, Ultra-, Blade- и Fire-серии рабочих станций и серверов.>>>",
+    "correct": [
+        [
+            "ARM:",
+            "Acorn: Archimedes, A5000, RiscPC;",
+            "StrongARM, Intel XScale и тому подобных;",
+            "Axis Communications CRIS;",
+            "DEC Alpha;",
+            "HP PA-RISC;",
+            "Hitachi: SuperH , H8/300;",
+            "IBM System/390;",
+            "IBM zSeries-мэйнфреймы;",
+            "Intel 80386 и выше: IBM PC и совместимые с процессорами:",
+            "80386, 80486, а также AMD, Cyrix, TI и IBM-варианты;",
+            "серия Pentium;",
+            "Core, Core2 Duo в 32- и 64-битных версиях;",
+            "AMD Am5x86, K5, K6, Athlon , Duron;",
+            "AMD64: 64-битная технология AMD ;",
+            "Cyrix 5x86, 6x86 , 6x86MX и MediaGX  серия;",
+            "VIA C3 и последующие процессоры;",
+            "поддержка Intel 8086, 8088, 80186, 80188 и 80286 процессоров находится в разработке ;",
+            "Microsoft Xbox ;",
+            "Intel IA-64 ;",
+            "MIPS;",
+            "Silicon Graphics, Inc.;",
+            "Cobalt Qube, Cobalt RaQ;",
+            "Sony/Toshiba/IBM — Emotion Engine и Cell, используемые в PlayStation 2 и PlayStation 3 соответственно;",
+            "DECstation",
+            "и некоторые другие;",
+            "Motorola 68020 и выше:",
+            "более новые Amiga: A1200, A2500, A3000, A4000;",
+            "Apple Macintosh II, LC, Quadra, Centris и ранняя серия Performa;",
+            "рабочие станции Sun Microsystems серии 3 ;",
+            "NEC v850e;",
+            "Renesas M32R;",
+            "PowerPC и IBM POWER:",
+            "все новые компьютеры Apple ,",
+            "клоны PCI Power Mac, разработанные Power Computing, UMAX и Motorola;",
+            "IBM RS/6000, iSeries- и pSeries-системы;",
+            "Pegasos I и II системы;",
+            "некоторые встроенные системы PowerPC;",
+            "Qualcomm Hexagon",
+            "SPARC и UltraSPARC: Sun 4-series, SPARCstation/SPARCserver, Ultra-, Blade- и Fire-серии рабочих станций и серверов."
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Ядро_Linux"
+    }
+}

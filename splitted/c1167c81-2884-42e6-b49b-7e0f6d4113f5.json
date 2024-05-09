@@ -1,0 +1,52 @@
+{
+    "task": "Основная статья: Передача данных<<<Проводная связь, кабельные линии связи\nТелефонная сеть PSTN\nМодем и коммутируемый доступ\nВыделенные линии\nКоммутация пакетов\nFrame relay\nPDH\nEthernet\nRS-232\nПередача по оптоволоконному кабелю\nSynchronous optical networking\nFiber distributed data interface\nБеспроводная связь\nБлижнего радиуса действия\nBluetooth\nHuman Area Network\nСреднего радиуса действия\nIEEE 802.11\nNetsukuku\nIEEE 802.16e WiMAX\nДальнего радиуса действия\nСпутниковая связь\nMMDS\nSMDS\nПередача данных при помощи мобильных телефонов\nCSD\nGPRS\nHSCSD\nEDGE\nUMTS\nHSDPA\nHSUPA\nCDMA\nLTE\nIEEE 802.16e WiMAX\nCDPD\nPaging networks\nDataTAC\nMobitex\nMotient>>>",
+    "correct": [
+        [
+            "Проводная связь, кабельные линии связи",
+            "Телефонная сеть PSTN",
+            "Модем и коммутируемый доступ",
+            "Выделенные линии",
+            "Коммутация пакетов",
+            "Frame relay",
+            "PDH",
+            "Ethernet",
+            "RS-232",
+            "Передача по оптоволоконному кабелю",
+            "Synchronous optical networking",
+            "Fiber distributed data interface",
+            "Беспроводная связь",
+            "Ближнего радиуса действия",
+            "Bluetooth",
+            "Human Area Network",
+            "Среднего радиуса действия",
+            "IEEE 802.11",
+            "Netsukuku",
+            "IEEE 802.16e WiMAX",
+            "Дальнего радиуса действия",
+            "Спутниковая связь",
+            "MMDS",
+            "SMDS",
+            "Передача данных при помощи мобильных телефонов",
+            "CSD",
+            "GPRS",
+            "HSCSD",
+            "EDGE",
+            "UMTS",
+            "HSDPA",
+            "HSUPA",
+            "CDMA",
+            "LTE",
+            "IEEE 802.16e WiMAX",
+            "CDPD",
+            "Paging networks",
+            "DataTAC",
+            "Mobitex",
+            "Motient"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Вычислительная_сеть"
+    }
+}

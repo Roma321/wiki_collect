@@ -1,0 +1,32 @@
+{
+    "task": "Список процессоров на базе архитектуры MIPS по компаниям<<<Alchemy Au1000, 1100, 1200\nAtheros AR23xx, AR52xx, AR71xx, AR72xx, AR93xx\nATI Xilleon\nBroadcom Sentry5\nБайкал Электроникс Baikal-T1\nIDT RC32438\nInfineon Technologies EasyPort, Amazon, Danube, ADM5120, WildPass, INCA-IP, INCA-IP2\nIngenic JZ47, M\nGodson-3B1500\nLemote Loongson I, Loongson II, Loongson III\nMicrochip Technology PIC32\nNEC EMMA and EMMA2, NEC VR4181A, VR4121, VR4122, VR4181A, VR5432, VR5500\nНИИСИ РАН KOMDIV-32, KOMDIV-64\nOak Technologies Generation\nPMC-Sierra RM11200\nRealtek RTD1055, RTD1185, RTD1186\nSigma Designs SMP8640, SMP8650, SMP8910\nQuickLogic QuickMIPS ESP\nRMI XLR7xx, Cavium Octeon CN30xx, CN31xx, CN36xx, CN38xx и CN5xxx\nToshiba Donau, Toshiba TMPR492x, TX4925, TX9956, TX7901.>>>",
+    "correct": [
+        [
+            "Alchemy Au1000, 1100, 1200",
+            "Atheros AR23xx, AR52xx, AR71xx, AR72xx, AR93xx",
+            "ATI Xilleon",
+            "Broadcom Sentry5",
+            "Байкал Электроникс Baikal-T1",
+            "IDT RC32438",
+            "Infineon Technologies EasyPort, Amazon, Danube, ADM5120, WildPass, INCA-IP, INCA-IP2",
+            "Ingenic JZ47, M",
+            "Godson-3B1500",
+            "Lemote Loongson I, Loongson II, Loongson III",
+            "Microchip Technology PIC32",
+            "NEC EMMA and EMMA2, NEC VR4181A, VR4121, VR4122, VR4181A, VR5432, VR5500",
+            "НИИСИ РАН KOMDIV-32, KOMDIV-64",
+            "Oak Technologies Generation",
+            "PMC-Sierra RM11200",
+            "Realtek RTD1055, RTD1185, RTD1186",
+            "Sigma Designs SMP8640, SMP8650, SMP8910",
+            "QuickLogic QuickMIPS ESP",
+            "RMI XLR7xx, Cavium Octeon CN30xx, CN31xx, CN36xx, CN38xx и CN5xxx",
+            "Toshiba Donau, Toshiba TMPR492x, TX4925, TX9956, TX7901."
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/MIPS_(архитектура)"
+    }
+}

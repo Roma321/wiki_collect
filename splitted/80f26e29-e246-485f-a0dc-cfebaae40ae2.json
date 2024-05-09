@@ -1,0 +1,14 @@
+{
+    "task": "Программное обеспечение<<<WordNet\nSNePS>>>",
+    "correct": [
+        [
+            "WordNet",
+            "SNePS"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Семантическая_сеть"
+    }
+}

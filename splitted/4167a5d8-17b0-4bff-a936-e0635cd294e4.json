@@ -1,0 +1,37 @@
+{
+    "task": "В этой статье литературные источники могут не соответствовать правилам Википедии. Вы можете улучшить эту статью, удалив из неё излишние и неприемлемые источники.<<<Брюс Шнайер. Прикладная криптография\nМао, В. Современная криптография: теория и практика. : Пер. с английского. М.: Издательский дом «Вильямс», 2005. — 768 с. : ил. — Парал. тит. англ. Шифрование — асимметричные методы. Глава 8 \nDieter Gollmann . Computer Security Second Edition West Sussex, England: John Wiley & Sons, Ltd.\nT. Kivinen; M. Kojo, SSH Communications Security.:  More Modular Exponential  Diffie-Hellman groups for Internet Key Exchange   . Standards Track. Инженерный совет Интернета . — Стандартные группы открытых чисел p и g, рекомендуемые Инженерным советом Интернета . Дата обращения: 15 февраля 2016.\nThe possibility of Non-Secret digital encryption J. H. Ellis, January 1970.\nNon-Secret Encryption Using a Finite Field MJ Williamson, January 21, 1974.\nThoughts on Cheaper Non-Secret Encryption MJ Williamson, August 10, 1976.\nNew Directions in Cryptography W. Diffie and M. E. Hellman, IEEE Transactions on Information Theory, vol. IT-22, Nov. 1976, pp: 644—654.\nCryptographic apparatus and method Martin E. Hellman, Bailey W. Diffie, and Ralph C. Merkle, U.S. Patent #4,200,770, 29 April 1980\nThe History of Non-Secret Encryption JH Ellis 1987  \nThe First Ten Years of Public-Key Cryptography Whitfield Diffie, Proceedings of the IEEE, vol. 76, no. 5, May 1988, pp: 560—577 \nMenezes, Alfred; van Oorschot, Paul; Vanstone, Scott . Handbook of Applied Cryptography Boca Raton, Florida: CRC Press. ISBN 0-8493-8523-7. \nSingh, Simon  The Code Book: the evolution of secrecy from Mary Queen of Scots to quantum cryptography New York: Doubleday ISBN 0-385-49531-5\nAn Overview of Public Key Cryptography Martin E. Hellman, IEEE Communications Magazine, May 2002, pp: 42—49. \nDiffie-Hellman key exchange explained in 5 minutes\nOral history interview with Martin Hellman, Charles Babbage Institute, University of Minnesota. Leading cryptography scholar *Martin Hellman discusses the circumstances and fundamental insights of his invention of public key cryptography with collaborators Whitfield Diffie and Ralph Merkle at Stanford University in the mid-1970s.\nRFC 2631 — Diffie-Hellman Key Agreement Method E. Rescorla June 1999.\nSummary of ANSI X9.42: Agreement of Symmetric Keys Using Discrete Logarithm Cryptography  \nDiffie-Hellman Key Exchange — A Non-Mathematician’s Explanation by Keith Palmgren\nCrypt::DH Perl module from CPAN\nHands-on Diffie-Hellman demonstration\nC implementation using GNU Multiple Precision Arithmetic Library\nDiffie Hellman in 2 lines of Perl \nSmart Account Management  \nTalk by Martin Hellman in 2007, Google video>>>",
+    "correct": [
+        [
+            "Брюс Шнайер. Прикладная криптография",
+            "Мао, В. Современная криптография: теория и практика. : Пер. с английского. М.: Издательский дом «Вильямс», 2005. — 768 с. : ил. — Парал. тит. англ. Шифрование — асимметричные методы. Глава 8 ",
+            "Dieter Gollmann . Computer Security Second Edition West Sussex, England: John Wiley & Sons, Ltd.",
+            "T. Kivinen; M. Kojo, SSH Communications Security.:  More Modular Exponential  Diffie-Hellman groups for Internet Key Exchange   . Standards Track. Инженерный совет Интернета . — Стандартные группы открытых чисел p и g, рекомендуемые Инженерным советом Интернета . Дата обращения: 15 февраля 2016.",
+            "The possibility of Non-Secret digital encryption J. H. Ellis, January 1970.",
+            "Non-Secret Encryption Using a Finite Field MJ Williamson, January 21, 1974.",
+            "Thoughts on Cheaper Non-Secret Encryption MJ Williamson, August 10, 1976.",
+            "New Directions in Cryptography W. Diffie and M. E. Hellman, IEEE Transactions on Information Theory, vol. IT-22, Nov. 1976, pp: 644—654.",
+            "Cryptographic apparatus and method Martin E. Hellman, Bailey W. Diffie, and Ralph C. Merkle, U.S. Patent #4,200,770, 29 April 1980",
+            "The History of Non-Secret Encryption JH Ellis 1987  ",
+            "The First Ten Years of Public-Key Cryptography Whitfield Diffie, Proceedings of the IEEE, vol. 76, no. 5, May 1988, pp: 560—577 ",
+            "Menezes, Alfred; van Oorschot, Paul; Vanstone, Scott . Handbook of Applied Cryptography Boca Raton, Florida: CRC Press. ISBN 0-8493-8523-7. ",
+            "Singh, Simon  The Code Book: the evolution of secrecy from Mary Queen of Scots to quantum cryptography New York: Doubleday ISBN 0-385-49531-5",
+            "An Overview of Public Key Cryptography Martin E. Hellman, IEEE Communications Magazine, May 2002, pp: 42—49. ",
+            "Diffie-Hellman key exchange explained in 5 minutes",
+            "Oral history interview with Martin Hellman, Charles Babbage Institute, University of Minnesota. Leading cryptography scholar *Martin Hellman discusses the circumstances and fundamental insights of his invention of public key cryptography with collaborators Whitfield Diffie and Ralph Merkle at Stanford University in the mid-1970s.",
+            "RFC 2631 — Diffie-Hellman Key Agreement Method E. Rescorla June 1999.",
+            "Summary of ANSI X9.42: Agreement of Symmetric Keys Using Discrete Logarithm Cryptography  ",
+            "Diffie-Hellman Key Exchange — A Non-Mathematician’s Explanation by Keith Palmgren",
+            "Crypt::DH Perl module from CPAN",
+            "Hands-on Diffie-Hellman demonstration",
+            "C implementation using GNU Multiple Precision Arithmetic Library",
+            "Diffie Hellman in 2 lines of Perl ",
+            "Smart Account Management  ",
+            "Talk by Martin Hellman in 2007, Google video"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Протокол_Диффи_—_Хеллмана"
+    }
+}

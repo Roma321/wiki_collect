@@ -1,0 +1,24 @@
+{
+    "task": "Примеры ОС с оконным интерфейсом<<<8½ и rio для Plan 9\nGEM\nFresco/Berlin\nNEXTSTEP\nAmigaOS#Workbench в AmigaOS\nQuartz для Mac OS X\nX Window System для Unix-подобных ОС\nY Window System\nMicrosoft Windows\nMac OS\nPalm OS\nChrome OS>>>",
+    "correct": [
+        [
+            "8½ и rio для Plan 9",
+            "GEM",
+            "Fresco/Berlin",
+            "NEXTSTEP",
+            "AmigaOS#Workbench в AmigaOS",
+            "Quartz для Mac OS X",
+            "X Window System для Unix-подобных ОС",
+            "Y Window System",
+            "Microsoft Windows",
+            "Mac OS",
+            "Palm OS",
+            "Chrome OS"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Оконный_интерфейс"
+    }
+}

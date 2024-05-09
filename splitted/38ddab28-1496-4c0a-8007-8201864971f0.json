@@ -1,0 +1,10 @@
+{
+    "task": "Ряд Фурье́ —<<< представление функции f{\\displaystyle f} с периодом τ{\\displaystyle \\tau } в виде ряда>>>",
+    "correct": [
+        "представление функции f{\\displaystyle f} с периодом τ{\\displaystyle \\tau } в виде ряда"
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "definition"
+    }
+}

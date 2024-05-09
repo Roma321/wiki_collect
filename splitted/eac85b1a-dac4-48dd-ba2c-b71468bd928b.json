@@ -1,0 +1,10 @@
+{
+    "task": "Лицензия Apache  —<<< лицензия на свободное программное обеспечение Apache Software Foundation.>>>",
+    "correct": [
+        "лицензия на свободное программное обеспечение Apache Software Foundation."
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "definition"
+    }
+}

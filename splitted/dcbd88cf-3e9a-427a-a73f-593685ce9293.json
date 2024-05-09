@@ -1,0 +1,15 @@
+{
+    "task": "Источники<<<RFC 1122\nRFC 3439\nComputer Networks, Fourth Edition, Andrew S.Tanenbaum, Prentice Hall, ISBN 0130661023.>>>",
+    "correct": [
+        [
+            "RFC 1122",
+            "RFC 3439",
+            "Computer Networks, Fourth Edition, Andrew S.Tanenbaum, Prentice Hall, ISBN 0130661023."
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Протоколы_сетевого_уровня"
+    }
+}

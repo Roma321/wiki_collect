@@ -1,0 +1,19 @@
+{
+    "task": "Исследовательские системы<<<Unix \nMach \nxv6 \nK42 \nMISS \nДЕМОС \nИНМОС .>>>",
+    "correct": [
+        [
+            "Unix ",
+            "Mach ",
+            "xv6 ",
+            "K42 ",
+            "MISS ",
+            "ДЕМОС ",
+            "ИНМОС ."
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Unix-подобная_операционная_система"
+    }
+}

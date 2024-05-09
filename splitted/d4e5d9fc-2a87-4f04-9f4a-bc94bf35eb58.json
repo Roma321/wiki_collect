@@ -1,0 +1,17 @@
+{
+    "task": "Примеры Issuer Identification Number:\n<<<Билайн: 89 7 0199\nМТС: 89 7 0101\nМегаФон: 89 7 0102\nТеле2: 89 7 0120\nVodafone UA: 89 380 01>>>",
+    "correct": [
+        [
+            "Билайн: 89 7 0199",
+            "МТС: 89 7 0101",
+            "МегаФон: 89 7 0102",
+            "Теле2: 89 7 0120",
+            "Vodafone UA: 89 380 01"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Сим-карта"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "task": "На стороне клиента используется:\n<<<Для реализации GUI\nHTML, XHTML\nCSS\nДля формирования запросов, создания интерактивного и независимого от браузера интерфейса:\nActiveX\nAdobe Flash, Adobe Flex\nJava\nJavaScript\nSilverlight>>>",
+    "correct": [
+        [
+            "Для реализации GUI",
+            "HTML, XHTML",
+            "CSS",
+            "Для формирования запросов, создания интерактивного и независимого от браузера интерфейса:",
+            "ActiveX",
+            "Adobe Flash, Adobe Flex",
+            "Java",
+            "JavaScript",
+            "Silverlight"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Веб-приложение"
+    }
+}

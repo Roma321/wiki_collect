@@ -1,0 +1,48 @@
+{
+    "task": "Пусть \n\n\n\n\n\nC\n\n\n\n\n{\\displaystyle {\\mathcal {C}}}\n\n и \n\n\n\n\n\nH\n\n\n\n\n{\\displaystyle {\\mathcal {H}}}\n\n являются классами понятий, содержащих целевые понятия и гипотезы соответственно. Тогда, для констант \n\n\n\nα\n⩾\n0\n\n\n{\\displaystyle \\alpha \\geqslant 0}\n\n и \n\n\n\n0\n⩽\nβ\n<\n1\n\n\n{\\displaystyle 0\\leqslant \\beta <1}\n\n алгоритм обучения \n\n\n\nL\n\n\n{\\displaystyle L}\n\n является \n\n\n\n\n\n\n{\\displaystyle }\n\n-оккамовым алгоритмом для \n\n\n\n\n\nC\n\n\n\n\n{\\displaystyle {\\mathcal {C}}}\n\n по гипотезам \n\n\n\n\n\nH\n\n\n\n\n{\\displaystyle {\\mathcal {H}}}\n\n тогда и только тогда, когда, если дано множество \n\n\n\nS\n=\n{\nx\n}\n\n\n{\\displaystyle S=\\{x\\}}\n\n, содержащее \n\n\n\nm\n\n\n{\\displaystyle m}\n\n экземпляров, помеченных согласно понятию \n\n\n\nc\n\n∈\n\n\nC\n\n\n\n\n{\\displaystyle c\\in {\\mathcal {C}}}\n\n, выходом алгоритма \n\n\n\nL\n\n\n{\\displaystyle L}\n\n является гипотеза \n\n\n\nh\n∈\n\n\nH\n\n\n\n\n{\\displaystyle h\\in {\\mathcal {H}}}\n\n, такая, что\n<<<\n\n\n\nh\n\n\n{\\displaystyle h}\n\n согласуется с \n\n\n\nc\n\n\n{\\displaystyle c}\n\n на \n\n\n\nS\n\n\n{\\displaystyle S}\n\n (то есть \n\n\n\nh\n\n=\nc\n\n,\n∀\nx\n∈\nS\n\n\n{\\displaystyle h=c,\\forall x\\in S}\n\n)\n\n\n\n\ns\ni\nz\ne\n\n⩽\n(\nn\n⋅\ns\ni\nz\ne\n\n\n)\n\nα\n\n\n\nm\n\nβ\n\n\n\n\n{\\displaystyle size\\leqslant (n\\cdot size)^{\\alpha }m^{\\beta }}\n\n>>>",
+    "correct": [
+        [
+            "h",
+            "{\\displaystyle h}",
+            " согласуется с ",
+            "c",
+            "{\\displaystyle c}",
+            " на ",
+            "S",
+            "{\\displaystyle S}",
+            " (то есть ",
+            "h",
+            "=",
+            "c",
+            ",",
+            "∀",
+            "x",
+            "∈",
+            "S",
+            "{\\displaystyle h=c,\\forall x\\in S}",
+            ")",
+            "s",
+            "i",
+            "z",
+            "e",
+            "⩽",
+            "(",
+            "n",
+            "⋅",
+            "s",
+            "i",
+            "z",
+            "e",
+            ")",
+            "α",
+            "m",
+            "β",
+            "{\\displaystyle size\\leqslant (n\\cdot size)^{\\alpha }m^{\\beta }}"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Оккамово_обучение"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "task": "Аналогами MVA являются технологии:\n<<<PVA  от Samsung;\nSuper PVA от Sony-Samsung ;\nSuper MVA от Chi Mei Optoelectronics;\nASV , также называется ASVA  от Sharp. Дальнейшее развитие технологии ASV — UV2A ;\nAMVA от AU Optronics.>>>",
+    "correct": [
+        [
+            "PVA  от Samsung;",
+            "Super PVA от Sony-Samsung ;",
+            "Super MVA от Chi Mei Optoelectronics;",
+            "ASV , также называется ASVA  от Sharp. Дальнейшее развитие технологии ASV — UV2A ;",
+            "AMVA от AU Optronics."
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Жидкокристаллический_дисплей"
+    }
+}

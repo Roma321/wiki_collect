@@ -1,0 +1,13 @@
+{
+    "task": "В искусстве<<<Флэшка >>>",
+    "correct": [
+        [
+            "Флэшка"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/USB-флеш-накопитель"
+    }
+}

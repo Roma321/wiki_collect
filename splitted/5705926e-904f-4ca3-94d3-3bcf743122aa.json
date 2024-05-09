@@ -1,0 +1,14 @@
+{
+    "task": "Япония<<<NEC VR \nHitachi SH >>>",
+    "correct": [
+        [
+            "NEC VR ",
+            "Hitachi SH"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Центральный_процессор"
+    }
+}

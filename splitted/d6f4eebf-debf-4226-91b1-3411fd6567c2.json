@@ -1,0 +1,16 @@
+{
+    "task": "Основные используемые в настоящее время технологии показа стереофильмов:\n<<<Dolby 3D\nXpanD\nRealD\nIMAX>>>",
+    "correct": [
+        [
+            "Dolby 3D",
+            "XpanD",
+            "RealD",
+            "IMAX"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Трёхмерная_графика"
+    }
+}

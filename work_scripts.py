@@ -143,16 +143,12 @@ def step_8():
     make_corpus([x['link'] for x in j], directory='corpus-2', step_info=5)
 
 
-# step_7()
+def step_9():
+    all_links = get_good_links(2000)
+    print(all_links)
+    make_corpus([x['link'] for x in all_links], directory='corpus-3', step_info=5)
 
-# text = '''Форк (fork с англ. — «развилка, вилка») или ответвление — использование кода программного проекта в качестве старта для другого, при этом основной проект может как продолжать существование, так и прекратить его.
-#
-# Ответвлённый проект или форк может поддерживать и обмениваться частью содержимого с основным проектом, а может и приобрести абсолютно другие свойства, перестав иметь с базовым проектом что-то общее. Пример: разделение проекта X Window System на XFree86 и X.Org, разделение проекта OpenOffice.org на LibreOffice и Apache OpenOffice. Разделения были и среди несвободного программного обеспечения. Пример: Windows NT, которая по мере развития разделилась на две ветви: Windows 2000 и Windows Server.'''
-# a = nlp_ru_tokenize(text)
-#
-# print(a.sentences)
-# print(len(a.sentences))
-# make_purpose_task_from_page()
 
 # step_7()
-step_8()
+
+step_9()

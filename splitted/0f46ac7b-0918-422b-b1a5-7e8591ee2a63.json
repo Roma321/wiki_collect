@@ -1,0 +1,24 @@
+{
+    "task": "Коммерческие программные продукты<<<AgenaRisk Bayesian network tool: http://www.agenarisk.com Архивная копия от 16 марта 2022 на Wayback Machine\nBayesFusion : https://www.bayesfusion.com/ Архивная копия от 29 ноября 2018 на Wayback Machine\nBayesian network application library: http://www.norsys.com/netlibrary/index.htm Архивная копия от 11 июня 2007 на Wayback Machine\nBayesia: http://www.bayesia.com Архивная копия от 8 марта 2022 на Wayback Machine\nHugin: http://www.hugin.com Архивная копия от 30 мая 2020 на Wayback Machine\nNetica: http://www.norsys.com Архивная копия от 20 мая 2007 на Wayback Machine\nBNet: http://www.cra.com/bnet Архивная копия от 5 июля 2008 на Wayback Machine\nDezide: http://www.dezide.com Архивная копия от 8 марта 2022 на Wayback Machine\nMSBNx: a component-centric toolkit for modeling and inference with Bayesian Network : https://www.microsoft.com/en-us/download/details.aspx?id=52299 Архивная копия от 29 ноября 2018 на Wayback Machine\nBayes Net Toolbox for Matlab: http://bnt.sourceforge.net/ Архивная копия от 10 мая 2007 на Wayback Machine\ndVelox: http://www.apara.es/en/about-apara-predictive-analytics Архивная копия от 29 ноября 2018 на Wayback Machine\nSIAM & Causeway: https://web.archive.org/web/20070221060515/http://www.inet.saic.com/>>>",
+    "correct": [
+        [
+            "AgenaRisk Bayesian network tool: http://www.agenarisk.com Архивная копия от 16 марта 2022 на Wayback Machine",
+            "BayesFusion : https://www.bayesfusion.com/ Архивная копия от 29 ноября 2018 на Wayback Machine",
+            "Bayesian network application library: http://www.norsys.com/netlibrary/index.htm Архивная копия от 11 июня 2007 на Wayback Machine",
+            "Bayesia: http://www.bayesia.com Архивная копия от 8 марта 2022 на Wayback Machine",
+            "Hugin: http://www.hugin.com Архивная копия от 30 мая 2020 на Wayback Machine",
+            "Netica: http://www.norsys.com Архивная копия от 20 мая 2007 на Wayback Machine",
+            "BNet: http://www.cra.com/bnet Архивная копия от 5 июля 2008 на Wayback Machine",
+            "Dezide: http://www.dezide.com Архивная копия от 8 марта 2022 на Wayback Machine",
+            "MSBNx: a component-centric toolkit for modeling and inference with Bayesian Network : https://www.microsoft.com/en-us/download/details.aspx?id=52299 Архивная копия от 29 ноября 2018 на Wayback Machine",
+            "Bayes Net Toolbox for Matlab: http://bnt.sourceforge.net/ Архивная копия от 10 мая 2007 на Wayback Machine",
+            "dVelox: http://www.apara.es/en/about-apara-predictive-analytics Архивная копия от 29 ноября 2018 на Wayback Machine",
+            "SIAM & Causeway: https://web.archive.org/web/20070221060515/http://www.inet.saic.com/"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Байесовская_сеть"
+    }
+}

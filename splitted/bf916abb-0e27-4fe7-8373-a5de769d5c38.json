@@ -1,0 +1,28 @@
+{
+    "task": "Постоянная  дисперсия случайных ошибок во всех наблюдениях : \n\n\n\nV\n\n=\n\nσ\n\n2\n\n\n=\nc\no\nn\ns\nt\n\n\n{\\displaystyle V=\\sigma ^{2}=const}\n\n.<<<Отсутствие корреляции  случайных ошибок в разных наблюдениях между собой \n\n\n\nc\no\nv\n\n=\n0\n\n∀\n1\n≤\ni\n<\nj\n≤\nn\n\n\n{\\displaystyle cov=0\\quad \\forall 1\\leq i<j\\leq n}\n\n.>>>",
+    "correct": [
+        [
+            "Отсутствие корреляции  случайных ошибок в разных наблюдениях между собой ",
+            "c",
+            "o",
+            "v",
+            "=",
+            "0",
+            "∀",
+            "1",
+            "≤",
+            "i",
+            "<",
+            "j",
+            "≤",
+            "n",
+            "{\\displaystyle cov=0\\quad \\forall 1\\leq i<j\\leq n}",
+            "."
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Метод_наименьших_квадратов"
+    }
+}

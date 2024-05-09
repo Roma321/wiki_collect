@@ -1,0 +1,36 @@
+{
+    "task": "Умножение и деление чисел в FPR-системе счисления выполняется с помощью сложения и вычитания соответствующих числовых кортежей. Пусть даны числовые \n\n\n\nn\n\n\n{\\displaystyle n}\n\n-кортежи \n\n\n\nA\n=\n\n\n\n{\\displaystyle A=}\n\n и \n\n\n\nB\n=\n\n\n\n{\\displaystyle B=}\n\n. Определим для них следующие операции:\n<<<\n\n\n\nA\n+\nB\n=\n(\n\n,\n\n,\n⋯\n,\n\n)\n.\n\n\n{\\displaystyle A+B=(,,\\cdots ,).}\n\n\n\n\n\n\nA\n−\nB\n=\n(\n\n,\n\n,\n⋯\n,\n\n)\n.\n\n\n{\\displaystyle A-B=(,,\\cdots ,).}\n\n>>>",
+    "correct": [
+        [
+            "A",
+            "+",
+            "B",
+            "=",
+            "(",
+            ",",
+            ",",
+            "⋯",
+            ",",
+            ")",
+            ".",
+            "{\\displaystyle A+B=(,,\\cdots ,).}",
+            "A",
+            "−",
+            "B",
+            "=",
+            "(",
+            ",",
+            ",",
+            "⋯",
+            ",",
+            ")",
+            ".",
+            "{\\displaystyle A-B=(,,\\cdots ,).}"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Система_счисления"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "task": "В настоящее время известны следующие стандартные реализации алгоритма A3:\n<<<COMP128\nCOMP128-2\nCOMP128-3\nMILENAGE>>>",
+    "correct": [
+        [
+            "COMP128",
+            "COMP128-2",
+            "COMP128-3",
+            "MILENAGE"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/A3_(шифр)"
+    }
+}

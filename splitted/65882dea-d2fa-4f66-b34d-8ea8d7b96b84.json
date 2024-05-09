@@ -1,0 +1,15 @@
+{
+    "task": "Библиография<<<Extensive Bibliography on Association Rules by J.M. Luna\nAnnotated Bibliography on Association Rules by M. Hahsler\nStatsoft Electronic Statistics Textbook: Association Rules  by Dell Software>>>",
+    "correct": [
+        [
+            "Extensive Bibliography on Association Rules by J.M. Luna",
+            "Annotated Bibliography on Association Rules by M. Hahsler",
+            "Statsoft Electronic Statistics Textbook: Association Rules  by Dell Software"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Обучение_ассоциативным_правилам"
+    }
+}

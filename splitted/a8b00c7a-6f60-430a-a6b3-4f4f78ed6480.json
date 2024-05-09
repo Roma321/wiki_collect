@@ -1,0 +1,22 @@
+{
+    "task": "Виды асимметричных шифров<<<RSA \nDSA \nElgamal \nDiffie-Hellman \nECDSA  — алгоритм с открытым ключом для создания цифровой подписи.\nГОСТ Р 34.10-2012\nRabin\nLuc\nMcEliece\nКриптосистема Уильямса>>>",
+    "correct": [
+        [
+            "RSA ",
+            "DSA ",
+            "Elgamal ",
+            "Diffie-Hellman ",
+            "ECDSA  — алгоритм с открытым ключом для создания цифровой подписи.",
+            "ГОСТ Р 34.10-2012",
+            "Rabin",
+            "Luc",
+            "McEliece",
+            "Криптосистема Уильямса"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Криптосистема_с_открытым_ключом"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "task": "\n\n\n\n\n\n\n\n(\n\nf\n\n\n\n\n)\n\n^\n\n\n\n=\n\n|\n\na\n\n\n|\n\n\nn\n\n\n\n\n\nf\n^\n\n\n\n\n.\n\n\n{\\displaystyle {\\widehat {\\left(f\\left\\right)}}=|a|^{n}{\\hat {f}}.}\n\n<<<Более общо, если \n\n\n\nA\n:\n\n\nR\n\n\nn\n\n\n→\n\n\nR\n\n\nn\n\n\n\n\n{\\displaystyle A\\colon \\mathbb {R} ^{n}\\to \\mathbb {R} ^{n}}\n\n — обратимое линейное отображение, то>>>",
+    "correct": [
+        [
+            "Более общо, если ",
+            "A",
+            ":",
+            "R",
+            "n",
+            "→",
+            "R",
+            "n",
+            "{\\displaystyle A\\colon \\mathbb {R} ^{n}\\to \\mathbb {R} ^{n}}",
+            " — обратимое линейное отображение, то"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Преобразование_Фурье"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "task": "ПО для системного анализа<<<Wolfram SystemModeler\nMATLAB/Simulink\nMapleSim\nVisSim\n20-sim>>>",
+    "correct": [
+        [
+            "Wolfram SystemModeler",
+            "MATLAB/Simulink",
+            "MapleSim",
+            "VisSim",
+            "20-sim"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Системный_анализ"
+    }
+}

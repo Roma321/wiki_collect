@@ -1,0 +1,17 @@
+{
+    "task": "Реализации<<<Berkeley routed\nZebra Архивная копия от 1 февраля 2022 на Wayback Machine\nQuagga Архивная копия от 21 апреля 2008 на Wayback Machine\nnx-routed Архивная копия от 23 ноября 2008 на Wayback Machine\nBird Архивная копия от 12 июля 2011 на Wayback Machine>>>",
+    "correct": [
+        [
+            "Berkeley routed",
+            "Zebra Архивная копия от 1 февраля 2022 на Wayback Machine",
+            "Quagga Архивная копия от 21 апреля 2008 на Wayback Machine",
+            "nx-routed Архивная копия от 23 ноября 2008 на Wayback Machine",
+            "Bird Архивная копия от 12 июля 2011 на Wayback Machine"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/RIP_(сетевой_протокол)"
+    }
+}

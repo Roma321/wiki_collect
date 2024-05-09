@@ -1,0 +1,17 @@
+{
+    "task": "Известные компиляторы бейсика для МК:\n<<<MikroBasic \nBascom \nFastAVR \nPICBasic \nSwordfish >>>",
+    "correct": [
+        [
+            "MikroBasic ",
+            "Bascom ",
+            "FastAVR ",
+            "PICBasic ",
+            "Swordfish"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Микроконтроллер"
+    }
+}

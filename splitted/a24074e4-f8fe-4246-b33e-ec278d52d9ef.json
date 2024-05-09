@@ -1,0 +1,48 @@
+{
+    "task": "Список примеров в этой статье не основывается на авторитетных источниках, посвящённых непосредственно предмету статьи. Добавьте ссылки на источники, предметом рассмотрения которых является тема настоящей статьи  в целом, а не отдельные элементы списка. В противном случае список примеров может быть удалён.<<<Allen-Babcock RUSH  Time-sharing System on IBM S/360 hardware → Tymshare\nAT&T Bell Labs Unix → UC Berkeley BSD Unix\nBBN PDP-1 Time-sharing System → Massachusetts General Hospital PDP-1D → MUMPS\nBBN TENEX → DEC TOPS-20, Foonly FOONEX, MAXC OS at PARC, Stanford Low Overhead Timesharing System \nBerkeley Timesharing System at UC Berkeley Project Genie → Scientific Data Systems SDS 940  → BCC 500 → MAXC at PARC\nBurroughs Time-sharing MCP → HP 3000 MPE\nCambridge Multiple Access System was developed for the Titan, the prototype Atlas 2 computer built by Ferranti for the University of Cambridge. This was the first time-sharing system developed outside the United States, and which influenced the later development of UNIX.\nCDC MACE, APEX → Kronos → NOS → NOS/VE\nCompuServe, also branded as Compu-Serv, CIS.\nCompu-Time, Inc., on Honeywell 400/4000, started in 1968 in Ft Lauderdale, Florida, moved to Daytona Beach in 1970.\nDartmouth Time Sharing System  → GE Time-sharing → GEnie\nDEC PDP-6 Time-sharing Monitor → TOPS-10 → TSS-8, RSTS-11, RSX-11 → VAX/VMS\nHP 2000 Time-Shared BASIC\nIBM CALL/360, CALL/OS — using IBM 360/50\nIBM CP-40 → CP-67 → CP-370 → CP/CMS → VM/CMS\nIBM TSO for OS/MVT → for OS/VS2 → for MVS → for z/OS\nIBM TSS/360 → TSS/370\nInternational Timesharing Corporation on dual CDC 3300 systems.\nMIT CTSS → MULTICS  → Unix\nMIT Time-sharing System for the DEC PDP-1 → ITS\nMcGill University MUSIC → IBM MUSIC/SP\nMichigan Terminal System, on the IBM S/360-67, S/370, and successors.\nMichigan State University CDC SCOPE/HUSTLER System\nNational CSS VP/CSS, на серии IBM 360; originally based on IBM’s CP/CMS.\nOregon State University OS-3, on CDC 3000 series.\nPrime Computer PRIMOS\nRAND JOSS → JOSS-2 → JOSS-3\nRCA TSOS → Univac / Unisys VMOS → VS/9\nService in Informatics and Analysis , on CDC 6600 Kronos.\nSystem Development Corporation Time-sharing System, on the AN/FSQ-32.\nStanford ORVYL and WYLBUR, on IBM S/360-67.\nStanford PDP-1 Time-sharing System → SAIL → WAITS\nTime Sharing Ltd.  on DEC PDP-10 systems → Automatic Data Processing , первая коммерческая система распределения времени в Европе и первая двойная  система распределения времени.\nTymshare SDS-940 → Tymcom X → Tymcom XX\nUC Berkeley CAL-TSS, on CDC 6400.\nXDS UTS → CP-V → Honeywell CP-6>>>",
+    "correct": [
+        [
+            "Allen-Babcock RUSH  Time-sharing System on IBM S/360 hardware → Tymshare",
+            "AT&T Bell Labs Unix → UC Berkeley BSD Unix",
+            "BBN PDP-1 Time-sharing System → Massachusetts General Hospital PDP-1D → MUMPS",
+            "BBN TENEX → DEC TOPS-20, Foonly FOONEX, MAXC OS at PARC, Stanford Low Overhead Timesharing System ",
+            "Berkeley Timesharing System at UC Berkeley Project Genie → Scientific Data Systems SDS 940  → BCC 500 → MAXC at PARC",
+            "Burroughs Time-sharing MCP → HP 3000 MPE",
+            "Cambridge Multiple Access System was developed for the Titan, the prototype Atlas 2 computer built by Ferranti for the University of Cambridge. This was the first time-sharing system developed outside the United States, and which influenced the later development of UNIX.",
+            "CDC MACE, APEX → Kronos → NOS → NOS/VE",
+            "CompuServe, also branded as Compu-Serv, CIS.",
+            "Compu-Time, Inc., on Honeywell 400/4000, started in 1968 in Ft Lauderdale, Florida, moved to Daytona Beach in 1970.",
+            "Dartmouth Time Sharing System  → GE Time-sharing → GEnie",
+            "DEC PDP-6 Time-sharing Monitor → TOPS-10 → TSS-8, RSTS-11, RSX-11 → VAX/VMS",
+            "HP 2000 Time-Shared BASIC",
+            "IBM CALL/360, CALL/OS — using IBM 360/50",
+            "IBM CP-40 → CP-67 → CP-370 → CP/CMS → VM/CMS",
+            "IBM TSO for OS/MVT → for OS/VS2 → for MVS → for z/OS",
+            "IBM TSS/360 → TSS/370",
+            "International Timesharing Corporation on dual CDC 3300 systems.",
+            "MIT CTSS → MULTICS  → Unix",
+            "MIT Time-sharing System for the DEC PDP-1 → ITS",
+            "McGill University MUSIC → IBM MUSIC/SP",
+            "Michigan Terminal System, on the IBM S/360-67, S/370, and successors.",
+            "Michigan State University CDC SCOPE/HUSTLER System",
+            "National CSS VP/CSS, на серии IBM 360; originally based on IBM’s CP/CMS.",
+            "Oregon State University OS-3, on CDC 3000 series.",
+            "Prime Computer PRIMOS",
+            "RAND JOSS → JOSS-2 → JOSS-3",
+            "RCA TSOS → Univac / Unisys VMOS → VS/9",
+            "Service in Informatics and Analysis , on CDC 6600 Kronos.",
+            "System Development Corporation Time-sharing System, on the AN/FSQ-32.",
+            "Stanford ORVYL and WYLBUR, on IBM S/360-67.",
+            "Stanford PDP-1 Time-sharing System → SAIL → WAITS",
+            "Time Sharing Ltd.  on DEC PDP-10 systems → Automatic Data Processing , первая коммерческая система распределения времени в Европе и первая двойная  система распределения времени.",
+            "Tymshare SDS-940 → Tymcom X → Tymcom XX",
+            "UC Berkeley CAL-TSS, on CDC 6400.",
+            "XDS UTS → CP-V → Honeywell CP-6"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Разделение_времени"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "task": "Колли́зия хеш-фу́нкции —<<< два различных входных блока данных x{\\displaystyle x} и y{\\displaystyle y} для хеш-функции H{\\displaystyle H} таких, что H=H.{\\displaystyle H=H.}>>>",
+    "correct": [
+        "два различных входных блока данных x{\\displaystyle x} и y{\\displaystyle y} для хеш-функции H{\\displaystyle H} таких, что H=H.{\\displaystyle H=H.}"
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "definition"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "task": "Для редактирования<<<HEX-редактор\nbeye \nhiew \nWinHex \nSublime Text\nИ другие>>>",
+    "correct": [
+        [
+            "HEX-редактор",
+            "beye ",
+            "hiew ",
+            "WinHex ",
+            "Sublime Text",
+            "И другие"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Двоичный_файл"
+    }
+}

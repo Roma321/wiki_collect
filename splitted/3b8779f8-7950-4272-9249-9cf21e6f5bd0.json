@@ -1,0 +1,14 @@
+{
+    "task": "Одним из первых коммерческих фреймворков приложения был MacApp, написанный Apple для «Macintosh». Первоначально созданный с помощью расширенной  версии языка «Object Pascal», впоследствии он был переписан на «C++». Другие популярные каркасы для «Macintosh» включали:\n<<<Metrowerks PowerPlant и MacZoop ;\nWebObjects от NeXT.>>>",
+    "correct": [
+        [
+            "Metrowerks PowerPlant и MacZoop ;",
+            "WebObjects от NeXT."
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Фреймворк"
+    }
+}

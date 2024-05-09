@@ -1,0 +1,13 @@
+{
+    "task": "Другие<<<Open Physics Initiative — проект, инициированный компаниями AMD и Pixelux Entertainment по объединению Bullet Physics Library и Digital Molecular Matter, добавлении в новообразованный продукт поддержки OpenCL и DirectCompute и оптимизации результирующего движка для выполнения на графических процессорах Radeon.>>>",
+    "correct": [
+        [
+            "Open Physics Initiative — проект, инициированный компаниями AMD и Pixelux Entertainment по объединению Bullet Physics Library и Digital Molecular Matter, добавлении в новообразованный продукт поддержки OpenCL и DirectCompute и оптимизации результирующего движка для выполнения на графических процессорах Radeon."
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Физический_движок"
+    }
+}

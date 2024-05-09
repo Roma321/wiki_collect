@@ -1,0 +1,15 @@
+{
+    "task": "Существуют следующие фреймворки , относящиеся к области архитектуры ПО:\n<<<4+1\nRM-ODP \nService-Oriented Modeling Framework >>>",
+    "correct": [
+        [
+            "4+1",
+            "RM-ODP ",
+            "Service-Oriented Modeling Framework"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Архитектура_программного_обеспечения"
+    }
+}

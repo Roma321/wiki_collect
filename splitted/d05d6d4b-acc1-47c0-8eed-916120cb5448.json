@@ -1,0 +1,20 @@
+{
+    "task": "Основной источник: lidar - Definition of lidar  . Дата обращения: 2 мая 2013. Архивировано 11 мая 2013 года.<<<Laser Induced Differential Absorption Radar \nLaser Induced Direction and Range System \nLASER Infrared RADAR \nLASER Intensity Direction and Ranging \nLight Detection and Range \nLight Detection and Ranging\nLight Detection and Ranging Instrument \nLight Intensity Detection and Ranging >>>",
+    "correct": [
+        [
+            "Laser Induced Differential Absorption Radar ",
+            "Laser Induced Direction and Range System ",
+            "LASER Infrared RADAR ",
+            "LASER Intensity Direction and Ranging ",
+            "Light Detection and Range ",
+            "Light Detection and Ranging",
+            "Light Detection and Ranging Instrument ",
+            "Light Intensity Detection and Ranging"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Лидар"
+    }
+}

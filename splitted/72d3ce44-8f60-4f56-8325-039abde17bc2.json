@@ -1,0 +1,25 @@
+{
+    "task": "Пусть\n<<<\n\n\n\n\nu\n\nm\n\n\n\n\n\n{\\displaystyle u_{m}}\n\n — информационный  сигнал,\n\n\n\n\n\nu\n\nc\n\n\n\n=\n\nA\n\nc\n\n\ncos\n⁡\n\n\n\n{\\displaystyle u_{c}=A_{c}\\cos}\n\n — несущий  сигнал .>>>",
+    "correct": [
+        [
+            "u",
+            "m",
+            "{\\displaystyle u_{m}}",
+            " — информационный  сигнал,",
+            "u",
+            "c",
+            "=",
+            "A",
+            "c",
+            "cos",
+            "⁡",
+            "{\\displaystyle u_{c}=A_{c}\\cos}",
+            " — несущий  сигнал ."
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Частотная_модуляция"
+    }
+}

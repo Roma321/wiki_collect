@@ -1,0 +1,16 @@
+{
+    "task": "Примеры универсальных компьютерных шин<<<Futurebus\nInfiniBand\nQuickRing\nSCI>>>",
+    "correct": [
+        [
+            "Futurebus",
+            "InfiniBand",
+            "QuickRing",
+            "SCI"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Шина_(компьютер)"
+    }
+}

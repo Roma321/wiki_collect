@@ -1,0 +1,15 @@
+{
+    "task": "Инструменты<<<В ОС Windows свой IP-адрес можно узнать, набрав ipconfig в командной строке.\nВ ОС Unix свой IP-адрес можно узнать, набрав ifconfig или ip addr в командной строке.\nIP-адрес, соответствующий доменному имени, можно узнать с помощью команды: nslookup example.net или ping example.net>>>",
+    "correct": [
+        [
+            "В ОС Windows свой IP-адрес можно узнать, набрав ipconfig в командной строке.",
+            "В ОС Unix свой IP-адрес можно узнать, набрав ifconfig или ip addr в командной строке.",
+            "IP-адрес, соответствующий доменному имени, можно узнать с помощью команды: nslookup example.net или ping example.net"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/IP-адрес"
+    }
+}

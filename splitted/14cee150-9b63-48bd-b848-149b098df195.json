@@ -1,0 +1,15 @@
+{
+    "task": "Поточные шифры<<<RC4\nA5\nMosquito>>>",
+    "correct": [
+        [
+            "RC4",
+            "A5",
+            "Mosquito"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Шифр"
+    }
+}

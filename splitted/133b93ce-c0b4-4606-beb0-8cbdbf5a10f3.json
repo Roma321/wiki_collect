@@ -1,0 +1,15 @@
+{
+    "task": "Примеры программ управления рассылками:\n<<<mailman;\nSympa;\nMajordomo.>>>",
+    "correct": [
+        [
+            "mailman;",
+            "Sympa;",
+            "Majordomo."
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Электронная_почта"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "task": "Ссылки и примечания<<<Comparing Linux/UNIX Binary Package Formats . — Сравнение бинарных форматов пакетов Linux/UNIX. Дата обращения: 31 октября 2008. Архивировано 4 марта 2012 года.\nThe Debian GNU/Linux FAQ  . — Глава 6 — Основы системы управления пакетами Debian. Дата обращения: 31 октября 2008. Архивировано 4 марта 2012 года.\nPackage Management Cheatsheet . DistroWatch.>>>",
+    "correct": [
+        [
+            "Comparing Linux/UNIX Binary Package Formats . — Сравнение бинарных форматов пакетов Linux/UNIX. Дата обращения: 31 октября 2008. Архивировано 4 марта 2012 года.",
+            "The Debian GNU/Linux FAQ  . — Глава 6 — Основы системы управления пакетами Debian. Дата обращения: 31 октября 2008. Архивировано 4 марта 2012 года.",
+            "Package Management Cheatsheet . DistroWatch."
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Система_управления_пакетами"
+    }
+}

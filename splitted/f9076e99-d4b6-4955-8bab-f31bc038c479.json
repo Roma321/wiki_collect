@@ -1,0 +1,18 @@
+{
+    "task": "Помимо них, SHA—256 используется также в:\n<<<Steemit;\nPeerCoin;\nNameCoin;\nOcoin;\nZetacoin;\nEmerCoin.>>>",
+    "correct": [
+        [
+            "Steemit;",
+            "PeerCoin;",
+            "NameCoin;",
+            "Ocoin;",
+            "Zetacoin;",
+            "EmerCoin."
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Криптографическая_хеш-функция"
+    }
+}

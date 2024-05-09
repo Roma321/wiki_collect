@@ -1,0 +1,41 @@
+{
+    "task": "Обозначения переменных и функций:\n<<<\n\n\n\n\nx\n\nt\n\n\n\n\n{\\displaystyle x_{t}}\n\n: вектор входного слоя\n\n\n\n\n\nh\n\nt\n\n\n\n\n{\\displaystyle h_{t}}\n\n:  вектор скрытого слоя\n\n\n\n\n\ny\n\nt\n\n\n\n\n{\\displaystyle y_{t}}\n\n:  вектор выходного слоя\n\n\n\n\nW\n\n\n{\\displaystyle W}\n\n, \n\n\n\nU\n\n\n{\\displaystyle U}\n\n и \n\n\n\nb\n\n\n{\\displaystyle b}\n\n: Матрицы весов соединений и вектор параметров\n\n\n\n\n\nσ\n\nh\n\n\n\n\n{\\displaystyle \\sigma _{h}}\n\n и \n\n\n\n\nσ\n\ny\n\n\n\n\n{\\displaystyle \\sigma _{y}}\n\n: Функция активации>>>",
+    "correct": [
+        [
+            "x",
+            "t",
+            "{\\displaystyle x_{t}}",
+            ": вектор входного слоя",
+            "h",
+            "t",
+            "{\\displaystyle h_{t}}",
+            ":  вектор скрытого слоя",
+            "y",
+            "t",
+            "{\\displaystyle y_{t}}",
+            ":  вектор выходного слоя",
+            "W",
+            "{\\displaystyle W}",
+            ", ",
+            "U",
+            "{\\displaystyle U}",
+            " и ",
+            "b",
+            "{\\displaystyle b}",
+            ": Матрицы весов соединений и вектор параметров",
+            "σ",
+            "h",
+            "{\\displaystyle \\sigma _{h}}",
+            " и ",
+            "σ",
+            "y",
+            "{\\displaystyle \\sigma _{y}}",
+            ": Функция активации"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Рекуррентная_нейронная_сеть"
+    }
+}

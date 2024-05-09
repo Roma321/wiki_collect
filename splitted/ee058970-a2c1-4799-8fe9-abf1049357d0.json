@@ -1,0 +1,21 @@
+{
+    "task": "Примеры систем, которые использовали псевдографику:\n<<<Оригинальный IBM PC с MDA\nCommodore PET\nSinclair ZX80 и ZX81\nMattel Aquarius\nPanasonic JR-200\nSharp MZ\nMatra Alice\nCompukit UK101  был одной из ранних систем которые использовали набор из 256 символов.\nApple II>>>",
+    "correct": [
+        [
+            "Оригинальный IBM PC с MDA",
+            "Commodore PET",
+            "Sinclair ZX80 и ZX81",
+            "Mattel Aquarius",
+            "Panasonic JR-200",
+            "Sharp MZ",
+            "Matra Alice",
+            "Compukit UK101  был одной из ранних систем которые использовали набор из 256 символов.",
+            "Apple II"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Псевдографика"
+    }
+}

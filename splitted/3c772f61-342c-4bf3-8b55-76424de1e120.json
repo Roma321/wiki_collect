@@ -1,0 +1,26 @@
+{
+    "task": "Веб-службы разворачиваются на серверах приложений. Некоторые серверы приложений:\n<<<ColdFusion от Adobe\nDotGNU от GNU Project \nGlassFish — от компании Oracle\nGoogle App Engine — платформа для масштабируемых приложений, использующих инфраструктуру компании Google\nIBM Lotus Notes линейка ПО для организации совместной работы от IBM\nJBoss — компании Red Hat\nMono — платформа разработки от Xamarin \n.NET Framework серверы от Microsoft\nWeb Application Server от SAP \nWebLogic от компании Oracle \nwebMethods Integration Platform от Software AG\nWebSphere Application Server от IBM \nZend Framework — от Zend Technologies\nZope является объектно-ориентированным сервером приложений написанным на Python>>>",
+    "correct": [
+        [
+            "ColdFusion от Adobe",
+            "DotGNU от GNU Project ",
+            "GlassFish — от компании Oracle",
+            "Google App Engine — платформа для масштабируемых приложений, использующих инфраструктуру компании Google",
+            "IBM Lotus Notes линейка ПО для организации совместной работы от IBM",
+            "JBoss — компании Red Hat",
+            "Mono — платформа разработки от Xamarin ",
+            ".NET Framework серверы от Microsoft",
+            "Web Application Server от SAP ",
+            "WebLogic от компании Oracle ",
+            "webMethods Integration Platform от Software AG",
+            "WebSphere Application Server от IBM ",
+            "Zend Framework — от Zend Technologies",
+            "Zope является объектно-ориентированным сервером приложений написанным на Python"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Веб-служба"
+    }
+}

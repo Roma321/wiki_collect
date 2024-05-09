@@ -1,0 +1,17 @@
+{
+    "task": "Список основных производителей чипсетов для архитектуры x86:\n<<<Intel: \nNVidia: \nATI/AMD: \nVIA: \nSiS: >>>",
+    "correct": [
+        [
+            "Intel: ",
+            "NVidia: ",
+            "ATI/AMD: ",
+            "VIA: ",
+            "SiS:"
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Чипсет"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "task": "Третье поколение<<<seL4 от фирмы NICTA.\nCoyotos  от фирмы «The EROS Group, LLC».\nNOVA.>>>",
+    "correct": [
+        [
+            "seL4 от фирмы NICTA.",
+            "Coyotos  от фирмы «The EROS Group, LLC».",
+            "NOVA."
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Микроядро"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "task": "Примеры форматов и их реализаций<<<универсальные — Zip, 7-Zip, RAR, GZip, PAQ и др.\nзвук — FLAC , Monkey's Audio , TTA , TTE, LA , RealAudio Lossless, WavPack и др.\nизображения — PNG, AVIF и др.\nвидео — Huffyuv.>>>",
+    "correct": [
+        [
+            "универсальные — Zip, 7-Zip, RAR, GZip, PAQ и др.",
+            "звук — FLAC , Monkey's Audio , TTA , TTE, LA , RealAudio Lossless, WavPack и др.",
+            "изображения — PNG, AVIF и др.",
+            "видео — Huffyuv."
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Сжатие_без_потерь"
+    }
+}

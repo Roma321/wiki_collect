@@ -1,0 +1,27 @@
+{
+    "task": "Этот раздел слишком короткий. Пожалуйста, улучшите и дополните его.<<<Behringer,\nCreative Labs,\nASUS,\nC-Media,\nDiamond Multimedia,\nESI Audiotechnik GmbH,\nESS Technology ,\nKYE Systems ,\nM-Audio,\nRealtek,\nTurtle Beach Systems,\nYamaha Media Technology,\nVIA Technologies,\nFocusrite,\nSteinberg.>>>",
+    "correct": [
+        [
+            "Behringer,",
+            "Creative Labs,",
+            "ASUS,",
+            "C-Media,",
+            "Diamond Multimedia,",
+            "ESI Audiotechnik GmbH,",
+            "ESS Technology ,",
+            "KYE Systems ,",
+            "M-Audio,",
+            "Realtek,",
+            "Turtle Beach Systems,",
+            "Yamaha Media Technology,",
+            "VIA Technologies,",
+            "Focusrite,",
+            "Steinberg."
+        ]
+    ],
+    "wrong": [],
+    "meta": {
+        "type": "ul",
+        "link": "https://ru.wikipedia.org/wiki/Звуковая_карта"
+    }
+}
