@@ -1,11 +1,14 @@
 import json
 import os
 
+from real_algorithms.bow_intersection import bow_intersection
 from real_algorithms.levenstein import levenshtein_distance
 
 dir = '/home/roman/projects/my/wiki_collect/markup-part-1'
 
-# 0.725
+
+# 0.725 и 52.3% для Левенштейна
+# 0.335 и 60.3% для BOW
 def listfiles():
     files = os.listdir(dir)
     return files
@@ -78,6 +81,72 @@ def train_levenstein():
     print(best, best_coef)
 
 
-train_levenstein()
+def train_bow():
+    best = 0
+    best_coef = 0
+    for try_coef in [x / 1000 for x in range(150, 951, 5)]:
+        martix = [[0, 0], [0, 0]]
+        for file in listfiles():
+            file_path = os.path.join(dir, file)
+            with open(file_path, 'r') as f:
+                j = json.load(f)
+                correct_answer = j['correct'][0]
+                other_correct_answer = j['correct'][1:]
+                wrong_answer = j['wrong']
+                if j['meta']['type'] == 'definition':
+                    for other in other_correct_answer:
+                        coef = bow_intersection(correct_answer, other)
+                        if coef > try_coef:
+                            martix[0][0] += 1
+                        else:
+                            martix[0][1] += 1
+                    for wrong in wrong_answer:
+                        coef = bow_intersection(correct_answer, wrong)
+                        if coef < try_coef:
+                            martix[1][1] += 1
+                        else:
+                            martix[1][0] += 1
+                if j['meta']['type'] == 'ul':
+                    for other_group in other_correct_answer:
+                        for other in other_group:
+                            is_correct_alg_opinion = max(
+                                [levenshtein_distance(other, correct_answer_1) for correct_answer_1 in
+                                 correct_answer]) > try_coef
+                            if is_correct_alg_opinion:
+                                martix[0][0] += 1
+                            else:
+                                martix[0][1] += 1
+
+                    for wrong in wrong_answer:
+                        is_correct_alg_opinion = max(
+                            [levenshtein_distance(wrong, correct_answer_1) for correct_answer_1 in
+                             correct_answer]) > try_coef
+                        if not is_correct_alg_opinion:
+                            martix[1][1] += 1
+                        else:
+                            martix[1][0] += 1
+        # f1 = martix[0][0] / sum(martix[0]) + martix[1][1] / sum(martix[1])
+        # print(f"----{f1}-----")
+        # if f1 > best:
+        #     best = f1
+
+        my_measure = (martix[0][0] / sum(martix[0]) + martix[1][1] / sum(martix[1])) / 2
+        print(f"----{my_measure}-----")
+        if my_measure > best:
+            best = my_measure
+            best_coef = try_coef
+    print(best, best_coef)
+
 
 # print(get_f1([[0, 10], [0, 10]]))
+# train_bow()
+# from utils import model
+# s1 = 'столица'
+# s2 = 'германия'
+# print(model.similarity(s1,s2))
+# v1 = model.get_vector(s1)
+# v2 = model.get_vector(s2)
+# print(v1[:10], v2[:10])
+# s = v1+v2
+# print(s[:10])
+# print(model.similar_by_vector(s))
