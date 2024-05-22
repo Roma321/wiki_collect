@@ -2,20 +2,48 @@ import json
 import os
 
 from real_algorithms.main import listfiles, dir, lemmatize
+from utils import model
 
-# 69.9 % при границе в 0.255
-def bow_intersection(s1, s2):
-    bag1 = lemmatize(s1)
-    bag2 = lemmatize(s2)
-    if len(bag1) == 0 or len(bag2) == 0:
-        return 0
-    return len(bag1.intersection(bag2)) / min(len(bag1), len(bag2))
+import numpy as np
 
 
-def train_bow():
+# 74.4% при 0.623
+
+def cosine_similarity(a, b):
+    # print(len(a))
+    # print(len(b))
+    # print(a)
+    # print(b)
+    numerator = np.dot(a, b)
+    denominator = np.sqrt(np.dot(a, a)) * np.sqrt(np.dot(b, b))
+    if denominator == 0:
+        print(a, b)
+        # return 1
+    return numerator / denominator
+
+
+def w2v_similarity_total(s1, s2):
+    # print('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!', s1, '&&&&&&&&&&&&&&&&&&&&&&&&', s2)
+    s1_vector = np.sum([model.get_vector(x) for x in lemmatize(s1) if x in model.key_to_index], axis=0)
+    s2_vector = np.sum([model.get_vector(x) for x in lemmatize(s2) if x in model.key_to_index], axis=0)
+    # print(s1_vector)
+    if is_nullish(s1_vector):
+        return 1 if s1 in s2 else 0
+    if is_nullish(s2_vector):
+        return 1 if s2 in s1 else 0
+    return cosine_similarity(s1_vector, s2_vector)
+
+
+def is_nullish(vector):
+    return (isinstance(vector, (list, tuple, np.ndarray)) and (
+            all(v == 0.0 for v in vector) or len(vector) == 0)) or (
+            not isinstance(vector, (list, tuple, np.ndarray)) and vector == 0.0)
+
+
+def train_w2v():
     best = 0
     best_coef = 0
-    for try_coef in [x / 1000 for x in range(150, 951, 5)]:
+    for try_coef in [x / 1000 for x in range(1, 700, 1)]:
         martix = [[0, 0], [0, 0]]
         for file in listfiles():
             file_path = os.path.join(dir, file)
@@ -26,13 +54,13 @@ def train_bow():
                 wrong_answer = j['wrong']
                 if j['meta']['type'] == 'definition':
                     for other in other_correct_answer:
-                        coef = bow_intersection(correct_answer, other)
+                        coef = w2v_similarity_total(correct_answer, other)
                         if coef > try_coef:
                             martix[0][0] += 1
                         else:
                             martix[0][1] += 1
                     for wrong in wrong_answer:
-                        coef = bow_intersection(correct_answer, wrong)
+                        coef = w2v_similarity_total(correct_answer, wrong)
                         if coef < try_coef:
                             martix[1][1] += 1
                         else:
@@ -40,8 +68,10 @@ def train_bow():
                 if j['meta']['type'] == 'ul':
                     for other_group in other_correct_answer:
                         for other in other_group:
+                            # print([w2v_similarity_total(other, correct_answer_1) for correct_answer_1 in
+                            #        correct_answer])
                             is_correct_alg_opinion = max(
-                                [bow_intersection(other, correct_answer_1) for correct_answer_1 in
+                                [w2v_similarity_total(other, correct_answer_1) for correct_answer_1 in
                                  correct_answer]) > try_coef
                             if is_correct_alg_opinion:
                                 martix[0][0] += 1
@@ -50,7 +80,7 @@ def train_bow():
 
                     for wrong in wrong_answer:
                         is_correct_alg_opinion = max(
-                            [bow_intersection(wrong, correct_answer_1) for correct_answer_1 in
+                            [w2v_similarity_total(wrong, correct_answer_1) for correct_answer_1 in
                              correct_answer]) > try_coef
                         if not is_correct_alg_opinion:
                             martix[1][1] += 1
@@ -69,4 +99,5 @@ def train_bow():
     print(best, best_coef)
 
 
-# train_bow()
+# train_w2v()
+# print(w2v_similarity_total("Мама мыла раму", "Имперские штуромвики захватили планету"))
